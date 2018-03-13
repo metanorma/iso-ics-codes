@@ -1,0 +1,41 @@
+{
+  "code": "35.260",
+  "fieldcode": "35",
+  "description": "Office machines",
+  "groupcode": "260",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Information technology. Office machines.",
+  "notes": [
+    {
+      "text": "Including typewriters, dictation equipment, addressing machines, letter opening machines, letter folding machines, postal franking machines, their ribbons and other accessories, etc."
+    },
+    {
+      "text": "Telephone equipment, see {ics-code}",
+      "ics-code": "35.260"
+    },
+    {
+      "text": "Equipment for telex, teletext, telefax, see {ics-code}",
+      "ics-code": "35.260"
+    },
+    {
+      "text": "Reproduction equipment, see {ics-code}",
+      "ics-code": "35.260"
+    },
+    {
+      "text": "Packaging machinery, see {ics-code}",
+      "ics-code": "35.260"
+    },
+    {
+      "text": "Paper products, see {ics-code}",
+      "ics-code": "35.260"
+    },
+    {
+      "text": "Furniture, see {ics-code}",
+      "ics-code": "35.260"
+    },
+    {
+      "text": "Miscellaneous domestic and commercial equipment, see {ics-code}",
+      "ics-code": "35.260"
+    }
+  ]
+}

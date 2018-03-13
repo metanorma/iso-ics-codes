@@ -1,0 +1,14 @@
+{
+  "code": "13.160",
+  "fieldcode": "13",
+  "description": "Vibration and shock with respect to human beings",
+  "groupcode": "160",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Vibration and shock with respect to human beings.",
+  "notes": [
+    {
+      "text": "Vibrations, shock and vibration measurements, see {ics-code}",
+      "ics-code": "13.160"
+    }
+  ]
+}

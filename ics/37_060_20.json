@@ -1,0 +1,9 @@
+{
+  "code": "37.060.20",
+  "fieldcode": "37",
+  "description": "Motion picture films. Cartridges",
+  "groupcode": "060",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Image technology. Cinematography. Motion picture films. Cartridges."
+}

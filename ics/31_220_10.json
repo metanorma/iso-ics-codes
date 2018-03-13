@@ -1,0 +1,9 @@
+{
+  "code": "31.220.10",
+  "fieldcode": "31",
+  "description": "Plug-and-socket devices. Connectors",
+  "groupcode": "220",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electronics. Electromechanical components for electronic and telecommunications equipment. Plug-and-socket devices. Connectors."
+}

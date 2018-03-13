@@ -1,0 +1,13 @@
+{
+  "code": "67.060",
+  "fieldcode": "67",
+  "description": "Cereals, pulses and derived products",
+  "groupcode": "060",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Food technology. Cereals, pulses and derived products.",
+  "notes": [
+    {
+      "text": "Including grains, corn, flours, baked products, etc."
+    }
+  ]
+}

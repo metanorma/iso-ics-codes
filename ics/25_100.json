@@ -1,0 +1,17 @@
+{
+  "code": "25.100",
+  "fieldcode": "25",
+  "description": "Cutting tools",
+  "groupcode": "100",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Manufacturing engineering. Cutting tools.",
+  "notes": [
+    {
+      "text": "Including industrial diamonds"
+    },
+    {
+      "text": "Woodworking tools, see {ics-code}",
+      "ics-code": "25.100"
+    }
+  ]
+}

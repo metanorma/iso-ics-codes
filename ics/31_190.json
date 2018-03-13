@@ -1,0 +1,13 @@
+{
+  "code": "31.190",
+  "fieldcode": "31",
+  "description": "Electronic component assemblies",
+  "groupcode": "190",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Electronics. Electronic component assemblies.",
+  "notes": [
+    {
+      "text": "Including preassembled modules"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "91.120.40",
+  "fieldcode": "91",
+  "description": "Lightning protection",
+  "groupcode": "120",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Protection of and in buildings. Lightning protection."
+}

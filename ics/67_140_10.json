@@ -1,0 +1,14 @@
+{
+  "code": "67.140.10",
+  "fieldcode": "67",
+  "description": "Tea",
+  "groupcode": "140",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Food technology. Tea. Coffee. Cocoa. Tea.",
+  "notes": [
+    {
+      "text": "Including herb teas"
+    }
+  ]
+}

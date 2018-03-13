@@ -1,0 +1,14 @@
+{
+  "code": "49.030",
+  "fieldcode": "49",
+  "description": "Fasteners for aerospace construction",
+  "groupcode": "030",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Fasteners for aerospace construction.",
+  "notes": [
+    {
+      "text": "Fasteners, see {ics-code}",
+      "ics-code": "49.030"
+    }
+  ]
+}

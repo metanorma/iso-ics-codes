@@ -1,0 +1,14 @@
+{
+  "code": "91.160.10",
+  "fieldcode": "91",
+  "description": "Interior lighting",
+  "groupcode": "160",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Lighting. Interior lighting.",
+  "notes": [
+    {
+      "text": "Including workplace lighting, emergency and safety lighting"
+    }
+  ]
+}

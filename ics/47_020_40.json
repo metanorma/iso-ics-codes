@@ -1,0 +1,9 @@
+{
+  "code": "47.020.40",
+  "fieldcode": "47",
+  "description": "Lifting and cargo handling equipment",
+  "groupcode": "020",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Shipbuilding and marine structures. Shipbuilding and marine structures in general. Lifting and cargo handling equipment."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "25.060.10",
+  "fieldcode": "25",
+  "description": "Modular units and other devices",
+  "groupcode": "060",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Machine tool systems. Modular units and other devices."
+}

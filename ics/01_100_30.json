@@ -1,0 +1,14 @@
+{
+  "code": "01.100.30",
+  "fieldcode": "01",
+  "description": "Construction drawings",
+  "groupcode": "100",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Technical drawings. Construction drawings.",
+  "notes": [
+    {
+      "text": "Including civil engineering drawings"
+    }
+  ]
+}

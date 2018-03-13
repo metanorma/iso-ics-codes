@@ -1,0 +1,14 @@
+{
+  "code": "59.080.30",
+  "fieldcode": "59",
+  "description": "Textile fabrics",
+  "groupcode": "080",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Textile and leather technology. Products of the textile industry. Textile fabrics.",
+  "notes": [
+    {
+      "text": "Including nonwovens, felts, lace, etc."
+    }
+  ]
+}

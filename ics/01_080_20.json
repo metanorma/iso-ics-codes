@@ -1,0 +1,9 @@
+{
+  "code": "01.080.20",
+  "fieldcode": "01",
+  "description": "Graphical symbols for use on specific equipment",
+  "groupcode": "080",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Graphical symbols. Graphical symbols for use on specific equipment."
+}

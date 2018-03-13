@@ -1,0 +1,13 @@
+{
+  "code": "07.080",
+  "fieldcode": "07",
+  "description": "Biology. Botany. Zoology",
+  "groupcode": "080",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Natural and applied sciences. Biology. Botany. Zoology.",
+  "notes": [
+    {
+      "text": "Including biotechnology"
+    }
+  ]
+}

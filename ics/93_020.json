@@ -1,0 +1,17 @@
+{
+  "code": "93.020",
+  "fieldcode": "93",
+  "description": "Earthworks. Excavations. Foundation construction. Underground works",
+  "groupcode": "020",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Civil engineering. Earthworks. Excavations. Foundation construction. Underground works.",
+  "notes": [
+    {
+      "text": "Including geotechnics"
+    },
+    {
+      "text": "Earth-moving machinery, see {ics-code}",
+      "ics-code": "93.020"
+    }
+  ]
+}

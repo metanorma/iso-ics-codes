@@ -1,0 +1,9 @@
+{
+  "code": "37.060.01",
+  "fieldcode": "37",
+  "description": "Cinematography in general",
+  "groupcode": "060",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Image technology. Cinematography. Cinematography in general."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "71.080.40",
+  "fieldcode": "71",
+  "description": "Organic acids",
+  "groupcode": "080",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Organic chemicals. Organic acids."
+}

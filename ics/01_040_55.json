@@ -1,0 +1,9 @@
+{
+  "code": "01.040.55",
+  "fieldcode": "01",
+  "description": "Packaging and distribution of goods (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "55",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Packaging and distribution of goods (Vocabularies)."
+}

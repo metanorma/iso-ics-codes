@@ -1,0 +1,18 @@
+{
+  "code": "13.220.10",
+  "fieldcode": "13",
+  "description": "Fire-fighting",
+  "groupcode": "220",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Protection against fire. Fire-fighting.",
+  "notes": [
+    {
+      "text": "Including equipment and vehicles"
+    },
+    {
+      "text": "Protective clothing, see {ics-code}",
+      "ics-code": "13.220.10"
+    }
+  ]
+}

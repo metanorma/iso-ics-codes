@@ -1,0 +1,9 @@
+{
+  "code": "33.120.99",
+  "fieldcode": "33",
+  "description": "Other components and accessories",
+  "groupcode": "120",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Components and accessories for telecommunications equipment. Other components and accessories."
+}

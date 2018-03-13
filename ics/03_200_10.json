@@ -1,0 +1,9 @@
+{
+  "code": "03.200.10",
+  "fieldcode": "03",
+  "description": "Adventure tourism",
+  "groupcode": "200",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Leisure. Tourism. Adventure tourism."
+}

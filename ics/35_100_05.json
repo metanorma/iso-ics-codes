@@ -1,0 +1,14 @@
+{
+  "code": "35.100.05",
+  "fieldcode": "35",
+  "description": "Multilayer applications",
+  "groupcode": "100",
+  "subgroupcode": "05",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Open systems interconnection (OSI). Multilayer applications.",
+  "notes": [
+    {
+      "text": "Including International Standardized Profiles"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "code": "49.095",
+  "fieldcode": "49",
+  "description": "Passenger and cabin equipment",
+  "groupcode": "095",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Passenger and cabin equipment."
+}

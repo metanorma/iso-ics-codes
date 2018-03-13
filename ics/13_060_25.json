@@ -1,0 +1,14 @@
+{
+  "code": "13.060.25",
+  "fieldcode": "13",
+  "description": "Water for industrial use",
+  "groupcode": "060",
+  "subgroupcode": "25",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Water quality. Water for industrial use.",
+  "notes": [
+    {
+      "text": "Including water for commercial use: for swimming pools, fish breeding, etc."
+    }
+  ]
+}

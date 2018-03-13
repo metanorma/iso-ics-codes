@@ -1,0 +1,14 @@
+{
+  "code": "49.040",
+  "fieldcode": "49",
+  "description": "Coatings and related processes used in aerospace industry",
+  "groupcode": "040",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Coatings and related processes used in aerospace industry.",
+  "notes": [
+    {
+      "text": "Surface treatment and coating, see {ics-code}",
+      "ics-code": "49.040"
+    }
+  ]
+}

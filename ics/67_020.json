@@ -1,0 +1,13 @@
+{
+  "code": "67.020",
+  "fieldcode": "67",
+  "description": "Processes in the food industry",
+  "groupcode": "020",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Food technology. Processes in the food industry.",
+  "notes": [
+    {
+      "text": "Including food hygiene and food safety"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "35.220.23",
+  "fieldcode": "35",
+  "description": "Cassettes and cartridges for magnetic tapes",
+  "groupcode": "220",
+  "subgroupcode": "23",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Data storage devices. Cassettes and cartridges for magnetic tapes."
+}

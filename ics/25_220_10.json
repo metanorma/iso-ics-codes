@@ -1,0 +1,14 @@
+{
+  "code": "25.220.10",
+  "fieldcode": "25",
+  "description": "Surface preparation",
+  "groupcode": "220",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Surface treatment and coating. Surface preparation.",
+  "notes": [
+    {
+      "text": "Including surface preparation for painting, cleaning, scouring, blasting, etc."
+    }
+  ]
+}

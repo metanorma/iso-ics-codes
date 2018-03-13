@@ -1,0 +1,9 @@
+{
+  "code": "25.100.25",
+  "fieldcode": "25",
+  "description": "Tools for planing and broaching machines",
+  "groupcode": "100",
+  "subgroupcode": "25",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Cutting tools. Tools for planing and broaching machines."
+}

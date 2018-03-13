@@ -1,0 +1,14 @@
+{
+  "code": "35.240.20",
+  "fieldcode": "35",
+  "description": "IT applications in office work",
+  "groupcode": "240",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Applications of information technology. IT applications in office work.",
+  "notes": [
+    {
+      "text": "Including text processing systems, text communication, text presentation, Office Document Architecture (ODA), etc."
+    }
+  ]
+}

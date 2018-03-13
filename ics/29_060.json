@@ -1,0 +1,8 @@
+{
+  "code": "29.060",
+  "fieldcode": "29",
+  "description": "Electrical wires and cables",
+  "groupcode": "060",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Electrical engineering. Electrical wires and cables."
+}

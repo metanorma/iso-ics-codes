@@ -1,0 +1,9 @@
+{
+  "code": "91.100.23",
+  "fieldcode": "91",
+  "description": "Ceramic tiles",
+  "groupcode": "100",
+  "subgroupcode": "23",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Construction materials. Ceramic tiles."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "77.120.20",
+  "fieldcode": "77",
+  "description": "Magnesium and magnesium alloys",
+  "groupcode": "120",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metallurgy. Non-ferrous metals. Magnesium and magnesium alloys."
+}

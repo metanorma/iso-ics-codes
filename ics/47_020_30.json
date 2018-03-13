@@ -1,0 +1,9 @@
+{
+  "code": "47.020.30",
+  "fieldcode": "47",
+  "description": "Piping systems",
+  "groupcode": "020",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Shipbuilding and marine structures. Shipbuilding and marine structures in general. Piping systems."
+}

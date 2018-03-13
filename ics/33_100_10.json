@@ -1,0 +1,9 @@
+{
+  "code": "33.100.10",
+  "fieldcode": "33",
+  "description": "Emission",
+  "groupcode": "100",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Electromagnetic compatibility (EMC). Emission."
+}

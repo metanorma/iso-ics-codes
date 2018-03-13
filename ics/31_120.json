@@ -1,0 +1,13 @@
+{
+  "code": "31.120",
+  "fieldcode": "31",
+  "description": "Electronic display devices",
+  "groupcode": "120",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Electronics. Electronic display devices.",
+  "notes": [
+    {
+      "text": "Including liquid crystal displays"
+    }
+  ]
+}

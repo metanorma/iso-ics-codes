@@ -1,0 +1,9 @@
+{
+  "code": "31.060.01",
+  "fieldcode": "31",
+  "description": "Capacitors in general",
+  "groupcode": "060",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electronics. Capacitors. Capacitors in general."
+}

@@ -1,0 +1,8 @@
+{
+  "code": "55.180",
+  "fieldcode": "55",
+  "description": "Freight distribution of goods",
+  "groupcode": "180",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Packaging and distribution of goods. Freight distribution of goods."
+}

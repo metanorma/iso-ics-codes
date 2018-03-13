@@ -1,0 +1,9 @@
+{
+  "code": "21.060.20",
+  "fieldcode": "21",
+  "description": "Nuts",
+  "groupcode": "060",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Mechanical systems and components for general use. Fasteners. Nuts."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "33.040.99",
+  "fieldcode": "33",
+  "description": "Other equipment for telecommunication systems",
+  "groupcode": "040",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Telecommunication systems. Other equipment for telecommunication systems."
+}

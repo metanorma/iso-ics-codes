@@ -1,0 +1,13 @@
+{
+  "code": "49.060",
+  "fieldcode": "49",
+  "description": "Aerospace electric equipment and systems",
+  "groupcode": "060",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Aerospace electric equipment and systems.",
+  "notes": [
+    {
+      "text": "Including Avionics"
+    }
+  ]
+}

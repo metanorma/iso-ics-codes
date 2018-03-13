@@ -1,0 +1,9 @@
+{
+  "code": "71.040.20",
+  "fieldcode": "71",
+  "description": "Laboratory ware and related apparatus",
+  "groupcode": "040",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Analytical chemistry. Laboratory ware and related apparatus."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "17.040.20",
+  "fieldcode": "17",
+  "description": "Properties of surfaces",
+  "groupcode": "040",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metrology and measurement. Physical phenomena. Linear and angular measurements. Properties of surfaces."
+}

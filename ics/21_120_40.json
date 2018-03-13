@@ -1,0 +1,9 @@
+{
+  "code": "21.120.40",
+  "fieldcode": "21",
+  "description": "Balancing and balancing machines",
+  "groupcode": "120",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Mechanical systems and components for general use. Shafts and couplings. Balancing and balancing machines."
+}

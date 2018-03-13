@@ -1,0 +1,9 @@
+{
+  "code": "29.160.10",
+  "fieldcode": "29",
+  "description": "Components for rotating machines",
+  "groupcode": "160",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electrical engineering. Rotating machinery. Components for rotating machines."
+}

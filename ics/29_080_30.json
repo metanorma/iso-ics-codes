@@ -1,0 +1,9 @@
+{
+  "code": "29.080.30",
+  "fieldcode": "29",
+  "description": "Insulation systems",
+  "groupcode": "080",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electrical engineering. Insulation. Insulation systems."
+}

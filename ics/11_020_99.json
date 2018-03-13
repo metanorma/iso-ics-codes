@@ -1,0 +1,9 @@
+{
+  "code": "11.020.99",
+  "fieldcode": "11",
+  "description": "Other standards related to health care in general",
+  "groupcode": "020",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Medical sciences and health care facilities in general. Other standards related to health care in general."
+}

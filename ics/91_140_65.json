@@ -1,0 +1,9 @@
+{
+  "code": "91.140.65",
+  "fieldcode": "91",
+  "description": "Water heating equipment",
+  "groupcode": "140",
+  "subgroupcode": "65",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Installations in buildings. Water heating equipment."
+}

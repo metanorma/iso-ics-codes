@@ -1,0 +1,13 @@
+{
+  "code": "49.140",
+  "fieldcode": "49",
+  "description": "Space systems and operations",
+  "groupcode": "140",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Space systems and operations.",
+  "notes": [
+    {
+      "text": "Including space data and information transfer systems, and ground support equipment for launch site operations"
+    }
+  ]
+}

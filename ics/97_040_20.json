@@ -1,0 +1,14 @@
+{
+  "code": "97.040.20",
+  "fieldcode": "97",
+  "description": "Cooking ranges, working tables, ovens and similar appliances",
+  "groupcode": "040",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Kitchen equipment. Cooking ranges, working tables, ovens and similar appliances.",
+  "notes": [
+    {
+      "text": "Including microwave ovens and stove hoods"
+    }
+  ]
+}

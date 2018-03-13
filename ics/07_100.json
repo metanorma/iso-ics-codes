@@ -1,0 +1,8 @@
+{
+  "code": "07.100",
+  "fieldcode": "07",
+  "description": "Microbiology",
+  "groupcode": "100",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Natural and applied sciences. Microbiology."
+}

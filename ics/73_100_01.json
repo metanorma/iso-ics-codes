@@ -1,0 +1,9 @@
+{
+  "code": "73.100.01",
+  "fieldcode": "73",
+  "description": "Mining equipment in general",
+  "groupcode": "100",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Mining and minerals. Mining equipment. Mining equipment in general."
+}

@@ -1,0 +1,29 @@
+{
+  "code": "27.100",
+  "fieldcode": "27",
+  "description": "Power stations in general",
+  "groupcode": "100",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Energy and heat transfer engineering. Power stations in general.",
+  "notes": [
+    {
+      "text": "Including thermal power plants"
+    },
+    {
+      "text": "Nuclear power plants. Safety, see {ics-code}",
+      "ics-code": "27.100"
+    },
+    {
+      "text": "Hydraulic energy engineering, see {ics-code}",
+      "ics-code": "27.100"
+    },
+    {
+      "text": "Solar energy engineering, see {ics-code}",
+      "ics-code": "27.100"
+    },
+    {
+      "text": "Wind turbine energy systems, see {ics-code}",
+      "ics-code": "27.100"
+    }
+  ]
+}

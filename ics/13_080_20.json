@@ -1,0 +1,9 @@
+{
+  "code": "13.080.20",
+  "fieldcode": "13",
+  "description": "Physical properties of soils",
+  "groupcode": "080",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Soil quality. Pedology. Physical properties of soils."
+}

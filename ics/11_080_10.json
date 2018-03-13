@@ -1,0 +1,9 @@
+{
+  "code": "11.080.10",
+  "fieldcode": "11",
+  "description": "Sterilizing equipment",
+  "groupcode": "080",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Sterilization and disinfection. Sterilizing equipment."
+}

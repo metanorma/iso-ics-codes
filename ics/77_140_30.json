@@ -1,0 +1,15 @@
+{
+  "code": "77.140.30",
+  "fieldcode": "77",
+  "description": "Steels for pressure purposes",
+  "groupcode": "140",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metallurgy. Iron and steel products. Steels for pressure purposes.",
+  "notes": [
+    {
+      "text": "Steel pipes and tubes for specific use, see {ics-code}",
+      "ics-code": "77.140.30"
+    }
+  ]
+}

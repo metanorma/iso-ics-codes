@@ -1,0 +1,9 @@
+{
+  "code": "71.060.99",
+  "fieldcode": "71",
+  "description": "Other inorganic chemicals",
+  "groupcode": "060",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Inorganic chemicals. Other inorganic chemicals."
+}

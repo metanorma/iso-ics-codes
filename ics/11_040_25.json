@@ -1,0 +1,9 @@
+{
+  "code": "11.040.25",
+  "fieldcode": "11",
+  "description": "Syringes, needles and catheters",
+  "groupcode": "040",
+  "subgroupcode": "25",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Medical equipment. Syringes, needles and catheters."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "37.040.01",
+  "fieldcode": "37",
+  "description": "Photography in general",
+  "groupcode": "040",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Image technology. Photography. Photography in general."
+}

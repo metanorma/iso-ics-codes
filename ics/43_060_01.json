@@ -1,0 +1,9 @@
+{
+  "code": "43.060.01",
+  "fieldcode": "43",
+  "description": "Internal combustion engines for road vehicles in general",
+  "groupcode": "060",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Road vehicles engineering. Internal combustion engines for road vehicles. Internal combustion engines for road vehicles in general."
+}

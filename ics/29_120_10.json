@@ -1,0 +1,9 @@
+{
+  "code": "29.120.10",
+  "fieldcode": "29",
+  "description": "Conduits for electrical purposes",
+  "groupcode": "120",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electrical engineering. Electrical accessories. Conduits for electrical purposes."
+}

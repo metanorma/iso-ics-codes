@@ -1,0 +1,9 @@
+{
+  "code": "35.040.30",
+  "fieldcode": "35",
+  "description": "Coding of graphical and photographical information",
+  "groupcode": "040",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Information coding. Coding of graphical and photographical information."
+}

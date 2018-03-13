@@ -1,0 +1,9 @@
+{
+  "code": "01.040.49",
+  "fieldcode": "01",
+  "description": "Aircraft and space vehicle engineering (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "49",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Aircraft and space vehicle engineering (Vocabularies)."
+}

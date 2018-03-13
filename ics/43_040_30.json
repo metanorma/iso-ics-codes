@@ -1,0 +1,9 @@
+{
+  "code": "43.040.30",
+  "fieldcode": "43",
+  "description": "Indicating and control devices",
+  "groupcode": "040",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Road vehicles engineering. Road vehicle systems. Indicating and control devices."
+}

@@ -1,0 +1,18 @@
+{
+  "code": "33.170",
+  "fieldcode": "33",
+  "description": "Television and radio broadcasting",
+  "groupcode": "170",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Television and radio broadcasting.",
+  "notes": [
+    {
+      "text": "Audio, video and audiovisual engineering, see {ics-code}",
+      "ics-code": ""
+    },
+    {
+      "text": "Theatre, stage and studio equipment, see {ics-code}",
+      "ics-code": ""
+    }
+  ]
+}

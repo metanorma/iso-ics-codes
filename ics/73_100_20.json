@@ -1,0 +1,9 @@
+{
+  "code": "73.100.20",
+  "fieldcode": "73",
+  "description": "Ventilation, air-conditioning and illumination equipment",
+  "groupcode": "100",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Mining and minerals. Mining equipment. Ventilation, air-conditioning and illumination equipment."
+}

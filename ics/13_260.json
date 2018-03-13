@@ -1,0 +1,13 @@
+{
+  "code": "13.260",
+  "fieldcode": "13",
+  "description": "Protection against electric shock.  Live working",
+  "groupcode": "260",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Protection against electric shock.  Live working.",
+  "notes": [
+    {
+      "text": "Including tools for working with voltages"
+    }
+  ]
+}

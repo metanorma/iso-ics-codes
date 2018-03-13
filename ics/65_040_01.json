@@ -1,0 +1,9 @@
+{
+  "code": "65.040.01",
+  "fieldcode": "65",
+  "description": "Farm buildings and installations in general",
+  "groupcode": "040",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Agriculture. Farm buildings, structures and installations. Farm buildings and installations in general."
+}

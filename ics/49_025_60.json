@@ -1,0 +1,14 @@
+{
+  "code": "49.025.60",
+  "fieldcode": "49",
+  "description": "Textiles",
+  "groupcode": "025",
+  "subgroupcode": "60",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Materials for aerospace construction. Textiles.",
+  "notes": [
+    {
+      "text": "Including textile glass and coated fabrics"
+    }
+  ]
+}

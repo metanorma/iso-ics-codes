@@ -1,0 +1,14 @@
+{
+  "code": "25.160.20",
+  "fieldcode": "25",
+  "description": "Welding consumables",
+  "groupcode": "160",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Welding, brazing and soldering. Welding consumables.",
+  "notes": [
+    {
+      "text": "Including electrodes, filler metals, gases, etc."
+    }
+  ]
+}

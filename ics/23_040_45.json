@@ -1,0 +1,9 @@
+{
+  "code": "23.040.45",
+  "fieldcode": "23",
+  "description": "Plastics fittings",
+  "groupcode": "040",
+  "subgroupcode": "45",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Pipeline components and pipelines. Plastics fittings."
+}

@@ -1,0 +1,8 @@
+{
+  "code": "33.050",
+  "fieldcode": "33",
+  "description": "Telecommunication terminal equipment",
+  "groupcode": "050",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Telecommunication terminal equipment."
+}

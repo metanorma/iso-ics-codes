@@ -1,0 +1,9 @@
+{
+  "code": "13.040.01",
+  "fieldcode": "13",
+  "description": "Air quality in general",
+  "groupcode": "040",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Air quality. Air quality in general."
+}

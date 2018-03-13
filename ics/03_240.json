@@ -1,0 +1,13 @@
+{
+  "code": "03.240",
+  "fieldcode": "03",
+  "description": "Postal services",
+  "groupcode": "240",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Postal services.",
+  "notes": [
+    {
+      "text": "Including postal equipment, post-boxes and letter-boxes, etc."
+    }
+  ]
+}

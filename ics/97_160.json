@@ -1,0 +1,17 @@
+{
+  "code": "97.160",
+  "fieldcode": "97",
+  "description": "Home textiles. Linen",
+  "groupcode": "160",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Home textiles. Linen.",
+  "notes": [
+    {
+      "text": "Including duvets, blankets, bedding"
+    },
+    {
+      "text": "Domestic electrical appliances in general, see {ics-code}",
+      "ics-code": "97.160"
+    }
+  ]
+}

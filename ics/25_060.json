@@ -1,0 +1,8 @@
+{
+  "code": "25.060",
+  "fieldcode": "25",
+  "description": "Machine tool systems",
+  "groupcode": "060",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Manufacturing engineering. Machine tool systems."
+}

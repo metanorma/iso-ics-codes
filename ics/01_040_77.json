@@ -1,0 +1,9 @@
+{
+  "code": "01.040.77",
+  "fieldcode": "01",
+  "description": "Metallurgy (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "77",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Metallurgy (Vocabularies)."
+}

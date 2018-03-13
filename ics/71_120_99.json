@@ -1,0 +1,9 @@
+{
+  "code": "71.120.99",
+  "fieldcode": "71",
+  "description": "Other equipment for the chemical industry",
+  "groupcode": "120",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Equipment for the chemical industry. Other equipment for the chemical industry."
+}

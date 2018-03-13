@@ -1,0 +1,9 @@
+{
+  "code": "49.025.30",
+  "fieldcode": "49",
+  "description": "Titanium",
+  "groupcode": "025",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Materials for aerospace construction. Titanium."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "71.080.10",
+  "fieldcode": "71",
+  "description": "Aliphatic hydrocarbons",
+  "groupcode": "080",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Organic chemicals. Aliphatic hydrocarbons."
+}

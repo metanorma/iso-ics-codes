@@ -1,0 +1,13 @@
+{
+  "code": "35.020",
+  "fieldcode": "35",
+  "description": "Information technology (IT) in general",
+  "groupcode": "020",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Information technology. Information technology (IT) in general.",
+  "notes": [
+    {
+      "text": "Including general aspects of IT equipment"
+    }
+  ]
+}

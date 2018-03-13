@@ -1,0 +1,17 @@
+{
+  "code": "17.060",
+  "fieldcode": "17",
+  "description": "Measurement of volume, mass, density, viscosity",
+  "groupcode": "060",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Metrology and measurement. Physical phenomena. Measurement of volume, mass, density, viscosity.",
+  "notes": [
+    {
+      "text": "Including measuring instruments"
+    },
+    {
+      "text": "Volumetric equipment and measurements, see {ics-code}",
+      "ics-code": "17.060"
+    }
+  ]
+}

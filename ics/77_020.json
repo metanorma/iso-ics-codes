@@ -1,0 +1,8 @@
+{
+  "code": "77.020",
+  "fieldcode": "77",
+  "description": "Production of metals",
+  "groupcode": "020",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Metallurgy. Production of metals."
+}

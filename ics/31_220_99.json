@@ -1,0 +1,9 @@
+{
+  "code": "31.220.99",
+  "fieldcode": "31",
+  "description": "Other electromechanical components",
+  "groupcode": "220",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electronics. Electromechanical components for electronic and telecommunications equipment. Other electromechanical components."
+}

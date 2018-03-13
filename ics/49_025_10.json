@@ -1,0 +1,9 @@
+{
+  "code": "49.025.10",
+  "fieldcode": "49",
+  "description": "Steels",
+  "groupcode": "025",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Materials for aerospace construction. Steels."
+}

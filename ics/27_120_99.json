@@ -1,0 +1,9 @@
+{
+  "code": "27.120.99",
+  "fieldcode": "27",
+  "description": "Other standards related to nuclear energy",
+  "groupcode": "120",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Energy and heat transfer engineering. Nuclear energy engineering. Other standards related to nuclear energy."
+}

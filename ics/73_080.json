@@ -1,0 +1,21 @@
+{
+  "code": "73.080",
+  "fieldcode": "73",
+  "description": "Non-metalliferous minerals",
+  "groupcode": "080",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Mining and minerals. Non-metalliferous minerals.",
+  "notes": [
+    {
+      "text": "Including  mica, fluorspar, etc."
+    },
+    {
+      "text": "Cutting tools, see {ics-code}",
+      "ics-code": "73.080"
+    },
+    {
+      "text": "Jewellery, see {ics-code}",
+      "ics-code": "73.080"
+    }
+  ]
+}

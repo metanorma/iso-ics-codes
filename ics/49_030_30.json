@@ -1,0 +1,9 @@
+{
+  "code": "49.030.30",
+  "fieldcode": "49",
+  "description": "Nuts",
+  "groupcode": "030",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Fasteners for aerospace construction. Nuts."
+}

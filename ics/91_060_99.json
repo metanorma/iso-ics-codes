@@ -1,0 +1,9 @@
+{
+  "code": "91.060.99",
+  "fieldcode": "91",
+  "description": "Other elements of buildings",
+  "groupcode": "060",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Elements of buildings. Other elements of buildings."
+}

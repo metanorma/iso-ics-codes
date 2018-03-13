@@ -1,0 +1,9 @@
+{
+  "code": "17.200.01",
+  "fieldcode": "17",
+  "description": "Thermodynamics in general",
+  "groupcode": "200",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metrology and measurement. Physical phenomena. Thermodynamics and temperature measurements. Thermodynamics in general."
+}

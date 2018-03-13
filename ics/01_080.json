@@ -1,0 +1,8 @@
+{
+  "code": "01.080",
+  "fieldcode": "01",
+  "description": "Graphical symbols",
+  "groupcode": "080",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Graphical symbols."
+}

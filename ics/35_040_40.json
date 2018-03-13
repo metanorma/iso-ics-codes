@@ -1,0 +1,9 @@
+{
+  "code": "35.040.40",
+  "fieldcode": "35",
+  "description": "Coding of audio, video, multimedia and hypermedia information",
+  "groupcode": "040",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Information coding. Coding of audio, video, multimedia and hypermedia information."
+}

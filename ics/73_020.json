@@ -1,0 +1,13 @@
+{
+  "code": "73.020",
+  "fieldcode": "73",
+  "description": "Mining and quarrying",
+  "groupcode": "020",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Mining and minerals. Mining and quarrying.",
+  "notes": [
+    {
+      "text": "Including exploration, opening-up, development, working of mineral deposits, drilling, construction of mines, mining operations, processing of minerals, etc."
+    }
+  ]
+}

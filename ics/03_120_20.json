@@ -1,0 +1,14 @@
+{
+  "code": "03.120.20",
+  "fieldcode": "03",
+  "description": "Product and company certification. Conformity assessment",
+  "groupcode": "120",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Quality. Product and company certification. Conformity assessment.",
+  "notes": [
+    {
+      "text": "Including laboratory accreditation and audit programmes and auditing"
+    }
+  ]
+}

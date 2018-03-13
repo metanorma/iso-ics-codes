@@ -1,0 +1,14 @@
+{
+  "code": "35.240.30",
+  "fieldcode": "35",
+  "description": "IT applications in information, documentation and publishing",
+  "groupcode": "240",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Applications of information technology. IT applications in information, documentation and publishing.",
+  "notes": [
+    {
+      "text": "Including Standard Generalized Markup Language (SGML), Extensible Markup Language (XML), automatic translation machines, etc."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "code": "27.080",
+  "fieldcode": "27",
+  "description": "Heat pumps",
+  "groupcode": "080",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Energy and heat transfer engineering. Heat pumps."
+}

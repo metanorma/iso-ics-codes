@@ -1,0 +1,9 @@
+{
+  "code": "01.040.11",
+  "fieldcode": "01",
+  "description": "Health care technology (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "11",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Health care technology (Vocabularies)."
+}

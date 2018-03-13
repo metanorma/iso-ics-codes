@@ -1,0 +1,8 @@
+{
+  "code": "67.100",
+  "fieldcode": "67",
+  "description": "Milk and milk products",
+  "groupcode": "100",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Food technology. Milk and milk products."
+}

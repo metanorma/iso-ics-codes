@@ -1,0 +1,8 @@
+{
+  "code": "11.060",
+  "fieldcode": "11",
+  "description": "Dentistry",
+  "groupcode": "060",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Health care technology. Dentistry."
+}

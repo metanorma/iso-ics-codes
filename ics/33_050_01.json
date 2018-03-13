@@ -1,0 +1,9 @@
+{
+  "code": "33.050.01",
+  "fieldcode": "33",
+  "description": "Telecommunication terminal equipment in general",
+  "groupcode": "050",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Telecommunication terminal equipment. Telecommunication terminal equipment in general."
+}

@@ -1,0 +1,14 @@
+{
+  "code": "93.080.10",
+  "fieldcode": "93",
+  "description": "Road construction",
+  "groupcode": "080",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Civil engineering. Road engineering. Road construction.",
+  "notes": [
+    {
+      "text": "Including road maintenance equipment and road construction equipment"
+    }
+  ]
+}

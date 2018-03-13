@@ -1,0 +1,8 @@
+{
+  "code": "13.030",
+  "fieldcode": "13",
+  "description": "Wastes",
+  "groupcode": "030",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Wastes."
+}

@@ -1,0 +1,14 @@
+{
+  "code": "33.160.40",
+  "fieldcode": "33",
+  "description": "Video systems",
+  "groupcode": "160",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Audio, video and audiovisual engineering. Video systems.",
+  "notes": [
+    {
+      "text": "Including video tape recorders, cameras, cassettes, laser disks, etc."
+    }
+  ]
+}

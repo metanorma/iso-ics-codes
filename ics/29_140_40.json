@@ -1,0 +1,9 @@
+{
+  "code": "29.140.40",
+  "fieldcode": "29",
+  "description": "Luminaires",
+  "groupcode": "140",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electrical engineering. Lamps and related equipment. Luminaires."
+}

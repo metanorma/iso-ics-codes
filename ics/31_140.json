@@ -1,0 +1,8 @@
+{
+  "code": "31.140",
+  "fieldcode": "31",
+  "description": "Piezoelectric devices",
+  "groupcode": "140",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Electronics. Piezoelectric devices."
+}

@@ -1,0 +1,8 @@
+{
+  "code": "29.130",
+  "fieldcode": "29",
+  "description": "Switchgear and controlgear",
+  "groupcode": "130",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Electrical engineering. Switchgear and controlgear."
+}

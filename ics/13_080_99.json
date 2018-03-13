@@ -1,0 +1,14 @@
+{
+  "code": "13.080.99",
+  "fieldcode": "13",
+  "description": "Other standards related to soil quality",
+  "groupcode": "080",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Soil quality. Pedology. Other standards related to soil quality.",
+  "notes": [
+    {
+      "text": "Including agricultural aspects related to soils and re-use of soil materials"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "65.060.99",
+  "fieldcode": "65",
+  "description": "Other agricultural machines and equipment",
+  "groupcode": "060",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Agriculture. Agricultural machines, implements and equipment. Other agricultural machines and equipment."
+}

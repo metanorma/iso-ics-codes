@@ -1,0 +1,14 @@
+{
+  "code": "83.140.10",
+  "fieldcode": "83",
+  "description": "Films and sheets",
+  "groupcode": "140",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Rubber and plastic industries. Rubber and plastics products. Films and sheets.",
+  "notes": [
+    {
+      "text": "Including plates"
+    }
+  ]
+}

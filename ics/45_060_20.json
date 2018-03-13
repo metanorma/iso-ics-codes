@@ -1,0 +1,14 @@
+{
+  "code": "45.060.20",
+  "fieldcode": "45",
+  "description": "Trailing stock",
+  "groupcode": "060",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Railway engineering. Railway rolling stock. Trailing stock.",
+  "notes": [
+    {
+      "text": "Including tank wagons"
+    }
+  ]
+}

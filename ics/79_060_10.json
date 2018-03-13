@@ -1,0 +1,9 @@
+{
+  "code": "79.060.10",
+  "fieldcode": "79",
+  "description": "Plywood",
+  "groupcode": "060",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Wood technology. Wood-based panels. Plywood."
+}

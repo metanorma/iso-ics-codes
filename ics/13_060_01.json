@@ -1,0 +1,9 @@
+{
+  "code": "13.060.01",
+  "fieldcode": "13",
+  "description": "Water quality in general",
+  "groupcode": "060",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Water quality. Water quality in general."
+}

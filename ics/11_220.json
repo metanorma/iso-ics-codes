@@ -1,0 +1,13 @@
+{
+  "code": "11.220",
+  "fieldcode": "11",
+  "description": "Veterinary medicine",
+  "groupcode": "220",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Health care technology. Veterinary medicine.",
+  "notes": [
+    {
+      "text": "Including equipment specific to veterinary medicine"
+    }
+  ]
+}

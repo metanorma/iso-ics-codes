@@ -1,0 +1,14 @@
+{
+  "code": "17.140.01",
+  "fieldcode": "17",
+  "description": "Acoustic measurements and noise abatement in general",
+  "groupcode": "140",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metrology and measurement. Physical phenomena. Acoustics and acoustic measurements. Acoustic measurements and noise abatement in general.",
+  "notes": [
+    {
+      "text": "Including acoustic insulation"
+    }
+  ]
+}

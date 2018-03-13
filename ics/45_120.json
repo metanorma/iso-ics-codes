@@ -1,0 +1,8 @@
+{
+  "code": "45.120",
+  "fieldcode": "45",
+  "description": "Equipment for railway/cableway construction and maintenance",
+  "groupcode": "120",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Railway engineering. Equipment for railway/cableway construction and maintenance."
+}

@@ -1,0 +1,14 @@
+{
+  "code": "59.080.01",
+  "fieldcode": "59",
+  "description": "Textiles in general",
+  "groupcode": "080",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Textile and leather technology. Products of the textile industry. Textiles in general.",
+  "notes": [
+    {
+      "text": "Including colour fastness of textiles"
+    }
+  ]
+}

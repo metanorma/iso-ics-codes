@@ -1,0 +1,14 @@
+{
+  "code": "67.100.30",
+  "fieldcode": "67",
+  "description": "Cheese",
+  "groupcode": "100",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Food technology. Milk and milk products. Cheese.",
+  "notes": [
+    {
+      "text": "Including cottage cheese, whey cheese"
+    }
+  ]
+}

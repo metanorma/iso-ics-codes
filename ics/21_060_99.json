@@ -1,0 +1,9 @@
+{
+  "code": "21.060.99",
+  "fieldcode": "21",
+  "description": "Other fasteners",
+  "groupcode": "060",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Mechanical systems and components for general use. Fasteners. Other fasteners."
+}

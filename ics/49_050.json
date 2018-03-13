@@ -1,0 +1,13 @@
+{
+  "code": "49.050",
+  "fieldcode": "49",
+  "description": "Aerospace engines and propulsion systems",
+  "groupcode": "050",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Aerospace engines and propulsion systems.",
+  "notes": [
+    {
+      "text": "Including fuel systems"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "73.060.20",
+  "fieldcode": "73",
+  "description": "Manganese ores",
+  "groupcode": "060",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Mining and minerals. Metalliferous minerals and their concentrates. Manganese ores."
+}

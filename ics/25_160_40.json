@@ -1,0 +1,14 @@
+{
+  "code": "25.160.40",
+  "fieldcode": "25",
+  "description": "Welded joints and welds",
+  "groupcode": "160",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Welding, brazing and soldering. Welded joints and welds.",
+  "notes": [
+    {
+      "text": "Including welding position and mechanical and non-destructive testing of welded joints"
+    }
+  ]
+}

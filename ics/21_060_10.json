@@ -1,0 +1,9 @@
+{
+  "code": "21.060.10",
+  "fieldcode": "21",
+  "description": "Bolts, screws, studs",
+  "groupcode": "060",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Mechanical systems and components for general use. Fasteners. Bolts, screws, studs."
+}

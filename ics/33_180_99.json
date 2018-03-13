@@ -1,0 +1,9 @@
+{
+  "code": "33.180.99",
+  "fieldcode": "33",
+  "description": "Other fibre optic equipment",
+  "groupcode": "180",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Fibre optic communications. Other fibre optic equipment."
+}

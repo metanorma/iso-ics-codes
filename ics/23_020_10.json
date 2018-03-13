@@ -1,0 +1,9 @@
+{
+  "code": "23.020.10",
+  "fieldcode": "23",
+  "description": "Stationary containers and tanks",
+  "groupcode": "020",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Fluid storage devices. Stationary containers and tanks."
+}

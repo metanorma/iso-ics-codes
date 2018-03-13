@@ -1,0 +1,8 @@
+{
+  "code": "17.040",
+  "fieldcode": "17",
+  "description": "Linear and angular measurements",
+  "groupcode": "040",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Metrology and measurement. Physical phenomena. Linear and angular measurements."
+}

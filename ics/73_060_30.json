@@ -1,0 +1,9 @@
+{
+  "code": "73.060.30",
+  "fieldcode": "73",
+  "description": "Chromium ores",
+  "groupcode": "060",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Mining and minerals. Metalliferous minerals and their concentrates. Chromium ores."
+}

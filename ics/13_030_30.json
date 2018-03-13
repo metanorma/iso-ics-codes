@@ -1,0 +1,14 @@
+{
+  "code": "13.030.30",
+  "fieldcode": "13",
+  "description": "Special wastes",
+  "groupcode": "030",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Wastes. Special wastes.",
+  "notes": [
+    {
+      "text": "Including radioactive wastes, hospital wastes, carcasses, electrical, electronic equipment and other hazardous wastes"
+    }
+  ]
+}

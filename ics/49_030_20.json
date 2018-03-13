@@ -1,0 +1,9 @@
+{
+  "code": "49.030.20",
+  "fieldcode": "49",
+  "description": "Bolts, screws, studs",
+  "groupcode": "030",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Fasteners for aerospace construction. Bolts, screws, studs."
+}

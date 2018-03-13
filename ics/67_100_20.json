@@ -1,0 +1,9 @@
+{
+  "code": "67.100.20",
+  "fieldcode": "67",
+  "description": "Butter",
+  "groupcode": "100",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Food technology. Milk and milk products. Butter."
+}

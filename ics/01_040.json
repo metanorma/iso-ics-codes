@@ -1,0 +1,8 @@
+{
+  "code": "01.040",
+  "fieldcode": "01",
+  "description": "Vocabularies",
+  "groupcode": "040",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies."
+}

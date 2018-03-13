@@ -1,0 +1,14 @@
+{
+  "code": "97.220.30",
+  "fieldcode": "97",
+  "description": "Indoor sports equipment",
+  "groupcode": "220",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Sports equipment and facilities. Indoor sports equipment.",
+  "notes": [
+    {
+      "text": "Including equipment for gymnastics, volleyball, basketball, handball, home sports trainers, etc."
+    }
+  ]
+}

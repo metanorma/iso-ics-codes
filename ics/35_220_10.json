@@ -1,0 +1,9 @@
+{
+  "code": "35.220.10",
+  "fieldcode": "35",
+  "description": "Paper cards and tapes",
+  "groupcode": "220",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Data storage devices. Paper cards and tapes."
+}

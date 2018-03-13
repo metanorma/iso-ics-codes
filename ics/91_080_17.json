@@ -1,0 +1,9 @@
+{
+  "code": "91.080.17",
+  "fieldcode": "91",
+  "description": "Aluminium structures",
+  "groupcode": "080",
+  "subgroupcode": "17",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Structures of buildings. Aluminium structures."
+}

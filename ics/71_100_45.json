@@ -1,0 +1,9 @@
+{
+  "code": "71.100.45",
+  "fieldcode": "71",
+  "description": "Refrigerants and antifreezes",
+  "groupcode": "100",
+  "subgroupcode": "45",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Products of the chemical industry. Refrigerants and antifreezes."
+}

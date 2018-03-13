@@ -1,0 +1,9 @@
+{
+  "code": "33.120.20",
+  "fieldcode": "33",
+  "description": "Wires and symmetrical cables",
+  "groupcode": "120",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Components and accessories for telecommunications equipment. Wires and symmetrical cables."
+}

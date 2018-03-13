@@ -1,0 +1,15 @@
+{
+  "code": "01.140.40",
+  "fieldcode": "01",
+  "description": "Publishing",
+  "groupcode": "140",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Information sciences. Publishing. Publishing.",
+  "notes": [
+    {
+      "text": "IT applications in information, documentation and publishing, see {ics-code}",
+      "ics-code": "01.140.40"
+    }
+  ]
+}

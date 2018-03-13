@@ -1,0 +1,9 @@
+{
+  "code": "29.120.01",
+  "fieldcode": "29",
+  "description": "Electrical accessories in general",
+  "groupcode": "120",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electrical engineering. Electrical accessories. Electrical accessories in general."
+}

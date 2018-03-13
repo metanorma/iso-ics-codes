@@ -1,0 +1,8 @@
+{
+  "code": "75.040",
+  "fieldcode": "75",
+  "description": "Crude petroleum",
+  "groupcode": "040",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Petroleum and related technologies. Crude petroleum."
+}

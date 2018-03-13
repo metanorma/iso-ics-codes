@@ -1,0 +1,8 @@
+{
+  "code": "35.100",
+  "fieldcode": "35",
+  "description": "Open systems interconnection (OSI)",
+  "groupcode": "100",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Information technology. Open systems interconnection (OSI)."
+}

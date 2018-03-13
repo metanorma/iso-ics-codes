@@ -1,0 +1,13 @@
+{
+  "code": "47.040",
+  "fieldcode": "47",
+  "description": "Seagoing vessels",
+  "groupcode": "040",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Shipbuilding and marine structures. Seagoing vessels.",
+  "notes": [
+    {
+      "text": "Including their systems and components"
+    }
+  ]
+}

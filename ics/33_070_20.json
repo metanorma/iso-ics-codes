@@ -1,0 +1,14 @@
+{
+  "code": "33.070.20",
+  "fieldcode": "33",
+  "description": "Paging systems",
+  "groupcode": "070",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Mobile services. Paging systems.",
+  "notes": [
+    {
+      "text": "Including European Radio Message System (ERMES)"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "43.040.20",
+  "fieldcode": "43",
+  "description": "Lighting, signalling and warning devices",
+  "groupcode": "040",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Road vehicles engineering. Road vehicle systems. Lighting, signalling and warning devices."
+}

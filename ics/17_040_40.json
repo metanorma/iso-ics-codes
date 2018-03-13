@@ -1,0 +1,9 @@
+{
+  "code": "17.040.40",
+  "fieldcode": "17",
+  "description": "Geometrical Product Specification (GPS)",
+  "groupcode": "040",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metrology and measurement. Physical phenomena. Linear and angular measurements. Geometrical Product Specification (GPS)."
+}

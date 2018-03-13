@@ -1,0 +1,9 @@
+{
+  "code": "43.040.40",
+  "fieldcode": "43",
+  "description": "Braking systems",
+  "groupcode": "040",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Road vehicles engineering. Road vehicle systems. Braking systems."
+}

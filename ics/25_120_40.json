@@ -1,0 +1,9 @@
+{
+  "code": "25.120.40",
+  "fieldcode": "25",
+  "description": "Electrochemical machines",
+  "groupcode": "120",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Chipless working equipment. Electrochemical machines."
+}

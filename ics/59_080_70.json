@@ -1,0 +1,14 @@
+{
+  "code": "59.080.70",
+  "fieldcode": "59",
+  "description": "Geotextiles",
+  "groupcode": "080",
+  "subgroupcode": "70",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Textile and leather technology. Products of the textile industry. Geotextiles.",
+  "notes": [
+    {
+      "text": "Including geosynthetics"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "01.040.27",
+  "fieldcode": "01",
+  "description": "Energy and heat transfer engineering (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "27",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Energy and heat transfer engineering (Vocabularies)."
+}

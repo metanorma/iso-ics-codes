@@ -1,0 +1,9 @@
+{
+  "code": "11.080.30",
+  "fieldcode": "11",
+  "description": "Sterilized packaging",
+  "groupcode": "080",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Sterilization and disinfection. Sterilized packaging."
+}

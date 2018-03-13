@@ -1,0 +1,18 @@
+{
+  "code": "03.080.10",
+  "fieldcode": "03",
+  "description": "Maintenance services. Facilities management",
+  "groupcode": "080",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Services. Maintenance services. Facilities management.",
+  "notes": [
+    {
+      "text": "Including cleaning and pest control"
+    },
+    {
+      "text": "Sterilization and disinfection, see {ics-code}",
+      "ics-code": "03.080.10"
+    }
+  ]
+}

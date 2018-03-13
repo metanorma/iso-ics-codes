@@ -1,0 +1,14 @@
+{
+  "code": "67.160.10",
+  "fieldcode": "67",
+  "description": "Alcoholic beverages",
+  "groupcode": "160",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Food technology. Beverages. Alcoholic beverages.",
+  "notes": [
+    {
+      "text": "Including beer, wine, spirits, etc."
+    }
+  ]
+}

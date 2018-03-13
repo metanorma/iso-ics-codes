@@ -1,0 +1,9 @@
+{
+  "code": "01.080.99",
+  "fieldcode": "01",
+  "description": "Other graphical symbols",
+  "groupcode": "080",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Graphical symbols. Other graphical symbols."
+}

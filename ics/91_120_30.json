@@ -1,0 +1,15 @@
+{
+  "code": "91.120.30",
+  "fieldcode": "91",
+  "description": "Waterproofing",
+  "groupcode": "120",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Protection of and in buildings. Waterproofing.",
+  "notes": [
+    {
+      "text": "Binders. Sealing materials, see {ics-code}",
+      "ics-code": ""
+    }
+  ]
+}

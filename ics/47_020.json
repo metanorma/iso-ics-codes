@@ -1,0 +1,25 @@
+{
+  "code": "47.020",
+  "fieldcode": "47",
+  "description": "Shipbuilding and marine structures in general",
+  "groupcode": "020",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Shipbuilding and marine structures. Shipbuilding and marine structures in general.",
+  "notes": [
+    {
+      "text": "Including offshore structures, except offshore structures for petroleum and natural gas industries, and seabed mining"
+    },
+    {
+      "text": "Transport by water, see {ics-code}",
+      "ics-code": "47.020"
+    },
+    {
+      "text": "Equipment for drilling and mine excavation, see {ics-code}",
+      "ics-code": "47.020"
+    },
+    {
+      "text": "Exploratory, drilling and extraction equipment, see {ics-code}",
+      "ics-code": "47.020"
+    }
+  ]
+}

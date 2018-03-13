@@ -1,0 +1,9 @@
+{
+  "code": "21.100.01",
+  "fieldcode": "21",
+  "description": "Bearings in general",
+  "groupcode": "100",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Mechanical systems and components for general use. Bearings. Bearings in general."
+}

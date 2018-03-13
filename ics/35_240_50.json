@@ -1,0 +1,14 @@
+{
+  "code": "35.240.50",
+  "fieldcode": "35",
+  "description": "IT applications in industry",
+  "groupcode": "240",
+  "subgroupcode": "50",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Applications of information technology. IT applications in industry.",
+  "notes": [
+    {
+      "text": "Including design automation"
+    }
+  ]
+}

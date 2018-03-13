@@ -1,0 +1,9 @@
+{
+  "code": "81.040.20",
+  "fieldcode": "81",
+  "description": "Glass in building",
+  "groupcode": "040",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Glass and ceramics industries. Glass. Glass in building."
+}

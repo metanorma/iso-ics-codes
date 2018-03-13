@@ -1,0 +1,14 @@
+{
+  "code": "91.140.70",
+  "fieldcode": "91",
+  "description": "Sanitary installations",
+  "groupcode": "140",
+  "subgroupcode": "70",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Installations in buildings. Sanitary installations.",
+  "notes": [
+    {
+      "text": "Including bidets, kitchen sinks, baths, waste chutes, etc."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "23.060.30",
+  "fieldcode": "23",
+  "description": "Gate valves",
+  "groupcode": "060",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Valves. Gate valves."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "23.060.20",
+  "fieldcode": "23",
+  "description": "Ball and plug valves",
+  "groupcode": "060",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Valves. Ball and plug valves."
+}

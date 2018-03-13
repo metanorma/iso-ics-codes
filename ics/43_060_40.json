@@ -1,0 +1,9 @@
+{
+  "code": "43.060.40",
+  "fieldcode": "43",
+  "description": "Fuel systems",
+  "groupcode": "060",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Road vehicles engineering. Internal combustion engines for road vehicles. Fuel systems."
+}

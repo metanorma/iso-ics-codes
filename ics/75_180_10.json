@@ -1,0 +1,14 @@
+{
+  "code": "75.180.10",
+  "fieldcode": "75",
+  "description": "Exploratory, drilling and extraction equipment",
+  "groupcode": "180",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Petroleum and related technologies. Equipment for petroleum and natural gas industries. Exploratory, drilling and extraction equipment.",
+  "notes": [
+    {
+      "text": "Including offshore structures"
+    }
+  ]
+}

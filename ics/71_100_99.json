@@ -1,0 +1,9 @@
+{
+  "code": "71.100.99",
+  "fieldcode": "71",
+  "description": "Other products of the chemical industry",
+  "groupcode": "100",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Products of the chemical industry. Other products of the chemical industry."
+}

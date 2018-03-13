@@ -1,0 +1,8 @@
+{
+  "code": "33.080",
+  "fieldcode": "33",
+  "description": "Integrated Services Digital Network (ISDN)",
+  "groupcode": "080",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Integrated Services Digital Network (ISDN)."
+}

@@ -1,0 +1,14 @@
+{
+  "code": "13.040.20",
+  "fieldcode": "13",
+  "description": "Ambient atmospheres",
+  "groupcode": "040",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Air quality. Ambient atmospheres.",
+  "notes": [
+    {
+      "text": "Including indoor air"
+    }
+  ]
+}

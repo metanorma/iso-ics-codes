@@ -1,0 +1,6 @@
+{
+  "code": "01",
+  "fieldcode": "01",
+  "description": "Generalities. Terminology. Standardization. Documentation",
+  "@context": "https://isoics.org/jsonld/field.jsonld"
+}

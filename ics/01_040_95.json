@@ -1,0 +1,9 @@
+{
+  "code": "01.040.95",
+  "fieldcode": "01",
+  "description": "Military Affairs. Military engineering. Weapons (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "95",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Military Affairs. Military engineering. Weapons (Vocabularies)."
+}

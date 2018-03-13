@@ -1,0 +1,9 @@
+{
+  "code": "33.180.01",
+  "fieldcode": "33",
+  "description": "Fibre optic systems in general",
+  "groupcode": "180",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Fibre optic communications. Fibre optic systems in general."
+}

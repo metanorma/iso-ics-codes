@@ -1,0 +1,9 @@
+{
+  "code": "49.025.50",
+  "fieldcode": "49",
+  "description": "Adhesives",
+  "groupcode": "025",
+  "subgroupcode": "50",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Materials for aerospace construction. Adhesives."
+}

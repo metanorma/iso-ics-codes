@@ -1,0 +1,9 @@
+{
+  "code": "23.100.40",
+  "fieldcode": "23",
+  "description": "Piping and couplings",
+  "groupcode": "100",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Fluid power systems. Piping and couplings."
+}

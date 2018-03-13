@@ -1,0 +1,13 @@
+{
+  "code": "47.060",
+  "fieldcode": "47",
+  "description": "Inland navigation vessels",
+  "groupcode": "060",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Shipbuilding and marine structures. Inland navigation vessels.",
+  "notes": [
+    {
+      "text": "Including their systems and components"
+    }
+  ]
+}

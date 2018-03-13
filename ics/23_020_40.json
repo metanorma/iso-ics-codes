@@ -1,0 +1,9 @@
+{
+  "code": "23.020.40",
+  "fieldcode": "23",
+  "description": "Cryogenic vessels",
+  "groupcode": "020",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Fluid storage devices. Cryogenic vessels."
+}

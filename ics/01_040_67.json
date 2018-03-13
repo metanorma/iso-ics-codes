@@ -1,0 +1,9 @@
+{
+  "code": "01.040.67",
+  "fieldcode": "01",
+  "description": "Food technology (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "67",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Food technology (Vocabularies)."
+}

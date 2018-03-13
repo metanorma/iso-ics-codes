@@ -1,0 +1,14 @@
+{
+  "code": "55.180.99",
+  "fieldcode": "55",
+  "description": "Other standards related to freight distribution of goods",
+  "groupcode": "180",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Packaging and distribution of goods. Freight distribution of goods. Other standards related to freight distribution of goods.",
+  "notes": [
+    {
+      "text": "Including intermediate bulk containers"
+    }
+  ]
+}

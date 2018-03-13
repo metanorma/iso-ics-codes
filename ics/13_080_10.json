@@ -1,0 +1,9 @@
+{
+  "code": "13.080.10",
+  "fieldcode": "13",
+  "description": "Chemical characteristics of soils",
+  "groupcode": "080",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Soil quality. Pedology. Chemical characteristics of soils."
+}

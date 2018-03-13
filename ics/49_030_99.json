@@ -1,0 +1,9 @@
+{
+  "code": "49.030.99",
+  "fieldcode": "49",
+  "description": "Other fasteners",
+  "groupcode": "030",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Fasteners for aerospace construction. Other fasteners."
+}

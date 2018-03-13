@@ -1,0 +1,13 @@
+{
+  "code": "21.240",
+  "fieldcode": "21",
+  "description": "Rotary-reciprocating mechanisms and their parts",
+  "groupcode": "240",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Mechanical systems and components for general use. Rotary-reciprocating mechanisms and their parts.",
+  "notes": [
+    {
+      "text": "Including pistons, piston-rings, crankshafts, etc. for general engineering"
+    }
+  ]
+}

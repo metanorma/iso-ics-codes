@@ -1,0 +1,9 @@
+{
+  "code": "31.080.99",
+  "fieldcode": "31",
+  "description": "Other semiconductor devices",
+  "groupcode": "080",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electronics. Semiconductor devices. Other semiconductor devices."
+}

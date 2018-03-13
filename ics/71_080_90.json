@@ -1,0 +1,9 @@
+{
+  "code": "71.080.90",
+  "fieldcode": "71",
+  "description": "Phenols",
+  "groupcode": "080",
+  "subgroupcode": "90",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Organic chemicals. Phenols."
+}

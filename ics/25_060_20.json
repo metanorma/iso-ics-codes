@@ -1,0 +1,9 @@
+{
+  "code": "25.060.20",
+  "fieldcode": "25",
+  "description": "Dividing and tool-workpiece holding devices",
+  "groupcode": "060",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Machine tool systems. Dividing and tool-workpiece holding devices."
+}

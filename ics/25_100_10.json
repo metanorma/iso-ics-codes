@@ -1,0 +1,9 @@
+{
+  "code": "25.100.10",
+  "fieldcode": "25",
+  "description": "Turning tools",
+  "groupcode": "100",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Cutting tools. Turning tools."
+}

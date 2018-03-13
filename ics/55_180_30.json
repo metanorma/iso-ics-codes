@@ -1,0 +1,9 @@
+{
+  "code": "55.180.30",
+  "fieldcode": "55",
+  "description": "Air mode containers, pallets and nets",
+  "groupcode": "180",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Packaging and distribution of goods. Freight distribution of goods. Air mode containers, pallets and nets."
+}

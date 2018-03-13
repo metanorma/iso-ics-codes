@@ -1,0 +1,9 @@
+{
+  "code": "71.120.10",
+  "fieldcode": "71",
+  "description": "Reaction vessels and their components",
+  "groupcode": "120",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Equipment for the chemical industry. Reaction vessels and their components."
+}

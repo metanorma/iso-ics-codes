@@ -1,0 +1,9 @@
+{
+  "code": "73.060.99",
+  "fieldcode": "73",
+  "description": "Other metalliferous minerals",
+  "groupcode": "060",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Mining and minerals. Metalliferous minerals and their concentrates. Other metalliferous minerals."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "01.040.01",
+  "fieldcode": "01",
+  "description": "Generalities. Terminology. Standardization. Documentation (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Generalities. Terminology. Standardization. Documentation (Vocabularies)."
+}

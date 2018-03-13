@@ -1,0 +1,9 @@
+{
+  "code": "31.060.20",
+  "fieldcode": "31",
+  "description": "Ceramic and mica capacitors",
+  "groupcode": "060",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electronics. Capacitors. Ceramic and mica capacitors."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "01.040.35",
+  "fieldcode": "01",
+  "description": "Information technology (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "35",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Information technology (Vocabularies)."
+}

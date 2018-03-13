@@ -1,0 +1,9 @@
+{
+  "code": "35.100.20",
+  "fieldcode": "35",
+  "description": "Data link layer",
+  "groupcode": "100",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Open systems interconnection (OSI). Data link layer."
+}

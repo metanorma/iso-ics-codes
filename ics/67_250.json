@@ -1,0 +1,13 @@
+{
+  "code": "67.250",
+  "fieldcode": "67",
+  "description": "Materials and articles in contact with foodstuffs",
+  "groupcode": "250",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Food technology. Materials and articles in contact with foodstuffs.",
+  "notes": [
+    {
+      "text": "Including catering containers, and materials and articles in contact with drinking water"
+    }
+  ]
+}

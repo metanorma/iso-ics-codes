@@ -1,0 +1,13 @@
+{
+  "code": "45.080",
+  "fieldcode": "45",
+  "description": "Rails and railway components",
+  "groupcode": "080",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Railway engineering. Rails and railway components.",
+  "notes": [
+    {
+      "text": "Including track components"
+    }
+  ]
+}

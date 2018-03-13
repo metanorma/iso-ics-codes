@@ -1,0 +1,17 @@
+{
+  "code": "55.040",
+  "fieldcode": "55",
+  "description": "Packaging materials and accessories",
+  "groupcode": "040",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Packaging and distribution of goods. Packaging materials and accessories.",
+  "notes": [
+    {
+      "text": "Including wrappers, paper, films, foils, cords, sealing devices, cushioning, etc."
+    },
+    {
+      "text": "Adhesives, see {ics-code}",
+      "ics-code": ""
+    }
+  ]
+}

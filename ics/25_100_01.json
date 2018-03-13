@@ -1,0 +1,9 @@
+{
+  "code": "25.100.01",
+  "fieldcode": "25",
+  "description": "Cutting tools in general",
+  "groupcode": "100",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Cutting tools. Cutting tools in general."
+}

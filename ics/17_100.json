@@ -1,0 +1,13 @@
+{
+  "code": "17.100",
+  "fieldcode": "17",
+  "description": "Measurement of force, weight and pressure",
+  "groupcode": "100",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Metrology and measurement. Physical phenomena. Measurement of force, weight and pressure.",
+  "notes": [
+    {
+      "text": "Including measuring and weighing instruments"
+    }
+  ]
+}

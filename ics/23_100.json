@@ -1,0 +1,8 @@
+{
+  "code": "23.100",
+  "fieldcode": "23",
+  "description": "Fluid power systems",
+  "groupcode": "100",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Fluid power systems."
+}

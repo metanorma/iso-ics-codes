@@ -1,0 +1,9 @@
+{
+  "code": "47.020.99",
+  "fieldcode": "47",
+  "description": "Other standards related to shipbuilding and marine structures",
+  "groupcode": "020",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Shipbuilding and marine structures. Shipbuilding and marine structures in general. Other standards related to shipbuilding and marine structures."
+}

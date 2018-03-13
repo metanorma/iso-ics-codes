@@ -1,0 +1,9 @@
+{
+  "code": "17.140.20",
+  "fieldcode": "17",
+  "description": "Noise emitted by machines and equipment",
+  "groupcode": "140",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metrology and measurement. Physical phenomena. Acoustics and acoustic measurements. Noise emitted by machines and equipment."
+}

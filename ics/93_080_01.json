@@ -1,0 +1,9 @@
+{
+  "code": "93.080.01",
+  "fieldcode": "93",
+  "description": "Road engineering in general",
+  "groupcode": "080",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Civil engineering. Road engineering. Road engineering in general."
+}

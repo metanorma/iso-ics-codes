@@ -1,0 +1,8 @@
+{
+  "code": "21.180",
+  "fieldcode": "21",
+  "description": "Housings, enclosures, other machine parts",
+  "groupcode": "180",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Mechanical systems and components for general use. Housings, enclosures, other machine parts."
+}

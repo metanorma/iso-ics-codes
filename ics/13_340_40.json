@@ -1,0 +1,18 @@
+{
+  "code": "13.340.40",
+  "fieldcode": "13",
+  "description": "Hand and arm protection",
+  "groupcode": "340",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Protective equipment. Hand and arm protection.",
+  "notes": [
+    {
+      "text": "Including protective gloves, sleeves and mits"
+    },
+    {
+      "text": "Hospital equipment, see {ics-code}",
+      "ics-code": "13.340.40"
+    }
+  ]
+}

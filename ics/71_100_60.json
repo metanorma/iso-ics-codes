@@ -1,0 +1,9 @@
+{
+  "code": "71.100.60",
+  "fieldcode": "71",
+  "description": "Essential oils",
+  "groupcode": "100",
+  "subgroupcode": "60",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Products of the chemical industry. Essential oils."
+}

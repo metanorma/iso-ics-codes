@@ -1,0 +1,9 @@
+{
+  "code": "47.020.50",
+  "fieldcode": "47",
+  "description": "Deck equipment and installations",
+  "groupcode": "020",
+  "subgroupcode": "50",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Shipbuilding and marine structures. Shipbuilding and marine structures in general. Deck equipment and installations."
+}

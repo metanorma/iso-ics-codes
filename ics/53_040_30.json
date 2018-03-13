@@ -1,0 +1,9 @@
+{
+  "code": "53.040.30",
+  "fieldcode": "53",
+  "description": "Pneumatic transport and its components",
+  "groupcode": "040",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Materials handling equipment. Continuous handling equipment. Pneumatic transport and its components."
+}

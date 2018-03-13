@@ -1,0 +1,14 @@
+{
+  "code": "11.020.20",
+  "fieldcode": "11",
+  "description": "Medical science",
+  "groupcode": "020",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Medical sciences and health care facilities in general. Medical science.",
+  "notes": [
+    {
+      "text": "Including regenerative medicine, cell therapy, stratified medicine"
+    }
+  ]
+}

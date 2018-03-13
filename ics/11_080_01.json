@@ -1,0 +1,14 @@
+{
+  "code": "11.080.01",
+  "fieldcode": "11",
+  "description": "Sterilization and disinfection in general",
+  "groupcode": "080",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Sterilization and disinfection. Sterilization and disinfection in general.",
+  "notes": [
+    {
+      "text": "Including sterilization methods, air quality of surgery rooms, etc."
+    }
+  ]
+}

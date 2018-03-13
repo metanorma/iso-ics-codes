@@ -1,0 +1,9 @@
+{
+  "code": "27.120.10",
+  "fieldcode": "27",
+  "description": "Reactor engineering",
+  "groupcode": "120",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Energy and heat transfer engineering. Nuclear energy engineering. Reactor engineering."
+}

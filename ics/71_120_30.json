@@ -1,0 +1,9 @@
+{
+  "code": "71.120.30",
+  "fieldcode": "71",
+  "description": "Heat exchangers",
+  "groupcode": "120",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Equipment for the chemical industry. Heat exchangers."
+}

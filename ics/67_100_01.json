@@ -1,0 +1,9 @@
+{
+  "code": "67.100.01",
+  "fieldcode": "67",
+  "description": "Milk and milk products in general",
+  "groupcode": "100",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Food technology. Milk and milk products. Milk and milk products in general."
+}

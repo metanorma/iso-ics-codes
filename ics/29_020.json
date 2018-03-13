@@ -1,0 +1,25 @@
+{
+  "code": "29.020",
+  "fieldcode": "29",
+  "description": "Electrical engineering in general",
+  "groupcode": "020",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Electrical engineering. Electrical engineering in general.",
+  "notes": [
+    {
+      "text": "Including voltages, general electrical terminology, electrical documentation, electrical tables, safety, fire hazard testing, etc."
+    },
+    {
+      "text": "Electrical and electronics engineering drawings, see {ics-code}",
+      "ics-code": ""
+    },
+    {
+      "text": "Power stations in general, see {ics-code}",
+      "ics-code": ""
+    },
+    {
+      "text": "Electromagnetic compatibility (EMC), see {ics-code}",
+      "ics-code": ""
+    }
+  ]
+}

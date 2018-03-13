@@ -1,0 +1,14 @@
+{
+  "code": "03.100.02",
+  "fieldcode": "03",
+  "description": "Governance and ethics",
+  "groupcode": "100",
+  "subgroupcode": "02",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Company organization and management. Management systems. Governance and ethics.",
+  "notes": [
+    {
+      "text": "Including anti-bribery, anti-procurement fraud, corporate social responsibility"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "01.040.13",
+  "fieldcode": "01",
+  "description": "Environment. Health protection. Safety (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "13",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Environment. Health protection. Safety (Vocabularies)."
+}

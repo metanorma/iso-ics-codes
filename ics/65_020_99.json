@@ -1,0 +1,9 @@
+{
+  "code": "65.020.99",
+  "fieldcode": "65",
+  "description": "Other standards related to farming and forestry",
+  "groupcode": "020",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Agriculture. Farming and forestry. Other standards related to farming and forestry."
+}

@@ -1,0 +1,14 @@
+{
+  "code": "59.080.20",
+  "fieldcode": "59",
+  "description": "Yarns",
+  "groupcode": "080",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Textile and leather technology. Products of the textile industry. Yarns.",
+  "notes": [
+    {
+      "text": "Including plied yarns, textured yarns, threads"
+    }
+  ]
+}

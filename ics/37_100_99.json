@@ -1,0 +1,9 @@
+{
+  "code": "37.100.99",
+  "fieldcode": "37",
+  "description": "Other standards related to graphic technology",
+  "groupcode": "100",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Image technology. Graphic technology. Other standards related to graphic technology."
+}

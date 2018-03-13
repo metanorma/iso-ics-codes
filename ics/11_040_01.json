@@ -1,0 +1,9 @@
+{
+  "code": "11.040.01",
+  "fieldcode": "11",
+  "description": "Medical equipment in general",
+  "groupcode": "040",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Medical equipment. Medical equipment in general."
+}

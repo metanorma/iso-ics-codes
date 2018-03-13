@@ -1,0 +1,9 @@
+{
+  "code": "25.220.01",
+  "fieldcode": "25",
+  "description": "Surface treatment and coating in general",
+  "groupcode": "220",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Surface treatment and coating. Surface treatment and coating in general."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "33.160.10",
+  "fieldcode": "33",
+  "description": "Amplifiers",
+  "groupcode": "160",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Audio, video and audiovisual engineering. Amplifiers."
+}

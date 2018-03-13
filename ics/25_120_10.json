@@ -1,0 +1,9 @@
+{
+  "code": "25.120.10",
+  "fieldcode": "25",
+  "description": "Forging equipment. Presses. Shears",
+  "groupcode": "120",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Chipless working equipment. Forging equipment. Presses. Shears."
+}

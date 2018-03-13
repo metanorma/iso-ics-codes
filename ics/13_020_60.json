@@ -1,0 +1,14 @@
+{
+  "code": "13.020.60",
+  "fieldcode": "13",
+  "description": "Product life-cycles",
+  "groupcode": "020",
+  "subgroupcode": "60",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Environmental protection. Product life-cycles.",
+  "notes": [
+    {
+      "text": "Including environmental footprint, carbon neutrality"
+    }
+  ]
+}

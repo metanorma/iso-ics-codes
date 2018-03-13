@@ -1,0 +1,9 @@
+{
+  "code": "29.080.01",
+  "fieldcode": "29",
+  "description": "Electrical insulation in general",
+  "groupcode": "080",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electrical engineering. Insulation. Electrical insulation in general."
+}

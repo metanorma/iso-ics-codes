@@ -1,0 +1,8 @@
+{
+  "code": "25.180",
+  "fieldcode": "25",
+  "description": "Industrial furnaces",
+  "groupcode": "180",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Manufacturing engineering. Industrial furnaces."
+}

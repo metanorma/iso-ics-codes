@@ -1,0 +1,14 @@
+{
+  "code": "13.080.01",
+  "fieldcode": "13",
+  "description": "Soil quality and pedology in general",
+  "groupcode": "080",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Soil quality. Pedology. Soil quality and pedology in general.",
+  "notes": [
+    {
+      "text": "Including pollution, erosion, degradation, etc."
+    }
+  ]
+}

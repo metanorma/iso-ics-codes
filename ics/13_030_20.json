@@ -1,0 +1,15 @@
+{
+  "code": "13.030.20",
+  "fieldcode": "13",
+  "description": "Liquid wastes. Sludge",
+  "groupcode": "030",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Wastes. Liquid wastes. Sludge.",
+  "notes": [
+    {
+      "text": "Sewage water, see {ics-code}",
+      "ics-code": "13.030.20"
+    }
+  ]
+}

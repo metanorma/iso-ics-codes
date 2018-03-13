@@ -1,0 +1,9 @@
+{
+  "code": "25.080.20",
+  "fieldcode": "25",
+  "description": "Boring and milling machines",
+  "groupcode": "080",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Machine tools. Boring and milling machines."
+}

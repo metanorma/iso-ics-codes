@@ -1,0 +1,9 @@
+{
+  "code": "49.025.40",
+  "fieldcode": "49",
+  "description": "Rubber and plastics",
+  "groupcode": "025",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Materials for aerospace construction. Rubber and plastics."
+}

@@ -1,0 +1,14 @@
+{
+  "code": "13.080",
+  "fieldcode": "13",
+  "description": "Soil quality. Pedology",
+  "groupcode": "080",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Soil quality. Pedology.",
+  "notes": [
+    {
+      "text": "Earthworks. Excavations. Foundation construction. Underground works, see {ics-code}",
+      "ics-code": "13.080"
+    }
+  ]
+}

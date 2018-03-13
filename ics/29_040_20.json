@@ -1,0 +1,9 @@
+{
+  "code": "29.040.20",
+  "fieldcode": "29",
+  "description": "Insulating gases",
+  "groupcode": "040",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electrical engineering. Insulating fluids. Insulating gases."
+}

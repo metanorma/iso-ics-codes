@@ -1,0 +1,9 @@
+{
+  "code": "01.040.53",
+  "fieldcode": "01",
+  "description": "Materials handling equipment (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "53",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Materials handling equipment (Vocabularies)."
+}

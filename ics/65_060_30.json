@@ -1,0 +1,9 @@
+{
+  "code": "65.060.30",
+  "fieldcode": "65",
+  "description": "Sowing and planting equipment",
+  "groupcode": "060",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Agriculture. Agricultural machines, implements and equipment. Sowing and planting equipment."
+}

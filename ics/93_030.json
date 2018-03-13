@@ -1,0 +1,22 @@
+{
+  "code": "93.030",
+  "fieldcode": "93",
+  "description": "External sewage systems",
+  "groupcode": "030",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Civil engineering. External sewage systems.",
+  "notes": [
+    {
+      "text": "Sewage water, see {ics-code}",
+      "ics-code": "93.030"
+    },
+    {
+      "text": "Pipelines and its parts for external sewage systems, see {ics-code}",
+      "ics-code": "93.030"
+    },
+    {
+      "text": "Drainage systems, see {ics-code}",
+      "ics-code": "93.030"
+    }
+  ]
+}

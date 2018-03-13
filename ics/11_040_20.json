@@ -1,0 +1,18 @@
+{
+  "code": "11.040.20",
+  "fieldcode": "11",
+  "description": "Transfusion, infusion and injection equipment",
+  "groupcode": "040",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Medical equipment. Transfusion, infusion and injection equipment.",
+  "notes": [
+    {
+      "text": "Including blood packs and containers for transfusion"
+    },
+    {
+      "text": "Syringes, needles and catheters, see {ics-code}",
+      "ics-code": "11.040.20"
+    }
+  ]
+}

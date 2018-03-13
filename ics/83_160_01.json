@@ -1,0 +1,9 @@
+{
+  "code": "83.160.01",
+  "fieldcode": "83",
+  "description": "Tyres in general",
+  "groupcode": "160",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Rubber and plastic industries. Tyres. Tyres in general."
+}

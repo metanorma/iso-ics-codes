@@ -1,0 +1,9 @@
+{
+  "code": "35.220.20",
+  "fieldcode": "35",
+  "description": "Magnetic storage devices in general",
+  "groupcode": "220",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Data storage devices. Magnetic storage devices in general."
+}

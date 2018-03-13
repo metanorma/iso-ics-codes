@@ -1,0 +1,14 @@
+{
+  "code": "13.020.40",
+  "fieldcode": "13",
+  "description": "Pollution, pollution control and conservation",
+  "groupcode": "020",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Environmental protection. Pollution, pollution control and conservation.",
+  "notes": [
+    {
+      "text": "Including ecotoxicology and greenhouse gas emissions"
+    }
+  ]
+}

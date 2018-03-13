@@ -1,0 +1,9 @@
+{
+  "code": "77.140.80",
+  "fieldcode": "77",
+  "description": "Iron and steel castings",
+  "groupcode": "140",
+  "subgroupcode": "80",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metallurgy. Iron and steel products. Iron and steel castings."
+}

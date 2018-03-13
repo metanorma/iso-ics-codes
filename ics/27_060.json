@@ -1,0 +1,8 @@
+{
+  "code": "27.060",
+  "fieldcode": "27",
+  "description": "Burners. Boilers",
+  "groupcode": "060",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Energy and heat transfer engineering. Burners. Boilers."
+}

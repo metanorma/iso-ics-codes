@@ -1,0 +1,13 @@
+{
+  "code": "13.310",
+  "fieldcode": "13",
+  "description": "Protection against crime",
+  "groupcode": "310",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Protection against crime.",
+  "notes": [
+    {
+      "text": "Including security services, security procedures, burglar alarm devices, burglary resisting materials and equipment, bullet resisting materials and equipment, anti-theft devices for vehicles, safes, strong rooms, etc."
+    }
+  ]
+}

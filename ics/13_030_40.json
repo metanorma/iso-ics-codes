@@ -1,0 +1,26 @@
+{
+  "code": "13.030.40",
+  "fieldcode": "13",
+  "description": "Installations and equipment for waste disposal and treatment",
+  "groupcode": "030",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Wastes. Installations and equipment for waste disposal and treatment.",
+  "notes": [
+    {
+      "text": "Including street cleaning equipment, waste containers, incineration and compaction equipment, equipment for dumping of refuse, landfill sites, etc."
+    },
+    {
+      "text": "Special purpose vehicles, see {ics-code}",
+      "ics-code": "13.030.40"
+    },
+    {
+      "text": "Sanitary installations, see {ics-code}",
+      "ics-code": "13.030.40"
+    },
+    {
+      "text": "Small kitchen appliances, see {ics-code}",
+      "ics-code": "13.030.40"
+    }
+  ]
+}

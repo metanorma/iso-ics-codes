@@ -1,0 +1,9 @@
+{
+  "code": "97.200.20",
+  "fieldcode": "97",
+  "description": "Musical instruments",
+  "groupcode": "200",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Equipment for entertainment. Musical instruments."
+}

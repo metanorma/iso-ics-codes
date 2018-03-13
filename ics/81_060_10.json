@@ -1,0 +1,9 @@
+{
+  "code": "81.060.10",
+  "fieldcode": "81",
+  "description": "Raw materials",
+  "groupcode": "060",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Glass and ceramics industries. Ceramics. Raw materials."
+}

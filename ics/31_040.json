@@ -1,0 +1,8 @@
+{
+  "code": "31.040",
+  "fieldcode": "31",
+  "description": "Resistors",
+  "groupcode": "040",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Electronics. Resistors."
+}

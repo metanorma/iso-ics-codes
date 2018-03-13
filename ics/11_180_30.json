@@ -1,0 +1,18 @@
+{
+  "code": "11.180.30",
+  "fieldcode": "11",
+  "description": "Aids for blind or partially sighted people",
+  "groupcode": "180",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Aids for disabled or handicapped persons. Aids for blind or partially sighted people.",
+  "notes": [
+    {
+      "text": "Including Braille"
+    },
+    {
+      "text": "Ophthalmic equipment, see {ics-code}",
+      "ics-code": "11.180.30"
+    }
+  ]
+}

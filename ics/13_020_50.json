@@ -1,0 +1,9 @@
+{
+  "code": "13.020.50",
+  "fieldcode": "13",
+  "description": "Ecolabelling",
+  "groupcode": "020",
+  "subgroupcode": "50",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Environmental protection. Ecolabelling."
+}

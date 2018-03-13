@@ -1,0 +1,18 @@
+{
+  "code": "53.020",
+  "fieldcode": "53",
+  "description": "Lifting equipment",
+  "groupcode": "020",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Materials handling equipment. Lifting equipment.",
+  "notes": [
+    {
+      "text": "Lifting and cargo handling equipment, see {ics-code}",
+      "ics-code": "53.020"
+    },
+    {
+      "text": "Lifts. Escalators, see {ics-code}",
+      "ics-code": "53.020"
+    }
+  ]
+}

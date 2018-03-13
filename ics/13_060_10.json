@@ -1,0 +1,9 @@
+{
+  "code": "13.060.10",
+  "fieldcode": "13",
+  "description": "Water of natural resources",
+  "groupcode": "060",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Water quality. Water of natural resources."
+}

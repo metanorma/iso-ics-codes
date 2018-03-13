@@ -1,0 +1,14 @@
+{
+  "code": "97.220.10",
+  "fieldcode": "97",
+  "description": "Sports facilities",
+  "groupcode": "220",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Sports equipment and facilities. Sports facilities.",
+  "notes": [
+    {
+      "text": "Including swimming-pools, spas, solaria, sports fields, running-tracks, spectator facilities for sports, etc."
+    }
+  ]
+}

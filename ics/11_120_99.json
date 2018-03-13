@@ -1,0 +1,14 @@
+{
+  "code": "11.120.99",
+  "fieldcode": "11",
+  "description": "Other standards related to pharmaceutics",
+  "groupcode": "120",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Pharmaceutics. Other standards related to pharmaceutics.",
+  "notes": [
+    {
+      "text": "Including equipment for pharmaceutical industry"
+    }
+  ]
+}

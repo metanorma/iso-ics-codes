@@ -1,0 +1,9 @@
+{
+  "code": "23.100.99",
+  "fieldcode": "23",
+  "description": "Other fluid power system components",
+  "groupcode": "100",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Fluid power systems. Other fluid power system components."
+}

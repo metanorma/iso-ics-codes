@@ -1,0 +1,22 @@
+{
+  "code": "03.080.20",
+  "fieldcode": "03",
+  "description": "Services for companies",
+  "groupcode": "080",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Services. Services for companies.",
+  "notes": [
+    {
+      "text": "Including publicity, advertising, professional services, recruitment services, management consultancy, outsourcing, etc."
+    },
+    {
+      "text": "Company organization and management in general, see {ics-code}",
+      "ics-code": "03.080.20"
+    },
+    {
+      "text": "Management of human resources, see {ics-code}",
+      "ics-code": "03.080.20"
+    }
+  ]
+}

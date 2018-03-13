@@ -1,0 +1,9 @@
+{
+  "code": "13.030.01",
+  "fieldcode": "13",
+  "description": "Wastes in general",
+  "groupcode": "030",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Wastes. Wastes in general."
+}

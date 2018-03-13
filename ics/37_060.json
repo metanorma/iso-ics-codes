@@ -1,0 +1,14 @@
+{
+  "code": "37.060",
+  "fieldcode": "37",
+  "description": "Cinematography",
+  "groupcode": "060",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Image technology. Cinematography.",
+  "notes": [
+    {
+      "text": "Theatre, stage and studio equipment, see {ics-code}",
+      "ics-code": "37.060"
+    }
+  ]
+}

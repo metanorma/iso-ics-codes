@@ -1,0 +1,14 @@
+{
+  "code": "97.040.60",
+  "fieldcode": "97",
+  "description": "Cookware, cutlery and flatware",
+  "groupcode": "040",
+  "subgroupcode": "60",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Kitchen equipment. Cookware, cutlery and flatware.",
+  "notes": [
+    {
+      "text": "Including table cutlery and table ware"
+    }
+  ]
+}

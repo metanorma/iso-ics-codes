@@ -1,0 +1,9 @@
+{
+  "code": "29.060.01",
+  "fieldcode": "29",
+  "description": "Electrical wires and cables in general",
+  "groupcode": "060",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electrical engineering. Electrical wires and cables. Electrical wires and cables in general."
+}

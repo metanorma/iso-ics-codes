@@ -1,0 +1,8 @@
+{
+  "code": "71.040",
+  "fieldcode": "71",
+  "description": "Analytical chemistry",
+  "groupcode": "040",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Chemical technology. Analytical chemistry."
+}

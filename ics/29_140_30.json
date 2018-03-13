@@ -1,0 +1,9 @@
+{
+  "code": "29.140.30",
+  "fieldcode": "29",
+  "description": "Fluorescent lamps. Discharge lamps",
+  "groupcode": "140",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electrical engineering. Lamps and related equipment. Fluorescent lamps. Discharge lamps."
+}

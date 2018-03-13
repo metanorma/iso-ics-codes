@@ -1,0 +1,9 @@
+{
+  "code": "65.060.50",
+  "fieldcode": "65",
+  "description": "Harvesting equipment",
+  "groupcode": "060",
+  "subgroupcode": "50",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Agriculture. Agricultural machines, implements and equipment. Harvesting equipment."
+}

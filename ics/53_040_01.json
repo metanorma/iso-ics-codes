@@ -1,0 +1,9 @@
+{
+  "code": "53.040.01",
+  "fieldcode": "53",
+  "description": "Continuous handling equipment in general",
+  "groupcode": "040",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Materials handling equipment. Continuous handling equipment. Continuous handling equipment in general."
+}

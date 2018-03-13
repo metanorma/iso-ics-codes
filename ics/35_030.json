@@ -1,0 +1,13 @@
+{
+  "code": "35.030",
+  "fieldcode": "35",
+  "description": "IT Security",
+  "groupcode": "030",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Information technology. IT Security.",
+  "notes": [
+    {
+      "text": "Including encryption"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "code": "19.020",
+  "fieldcode": "19",
+  "description": "Test conditions and procedures in general",
+  "groupcode": "020",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Testing. Test conditions and procedures in general."
+}

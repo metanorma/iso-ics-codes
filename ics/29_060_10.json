@@ -1,0 +1,14 @@
+{
+  "code": "29.060.10",
+  "fieldcode": "29",
+  "description": "Wires",
+  "groupcode": "060",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electrical engineering. Electrical wires and cables. Wires.",
+  "notes": [
+    {
+      "text": "Including electric rods, busbars, etc."
+    }
+  ]
+}

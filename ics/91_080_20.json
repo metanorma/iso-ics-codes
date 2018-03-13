@@ -1,0 +1,9 @@
+{
+  "code": "91.080.20",
+  "fieldcode": "91",
+  "description": "Timber structures",
+  "groupcode": "080",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Structures of buildings. Timber structures."
+}

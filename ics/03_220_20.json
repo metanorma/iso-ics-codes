@@ -1,0 +1,22 @@
+{
+  "code": "03.220.20",
+  "fieldcode": "03",
+  "description": "Road transport",
+  "groupcode": "220",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Transport. Road transport.",
+  "notes": [
+    {
+      "text": "Including road transport services"
+    },
+    {
+      "text": "Management systems, see {ics-code}",
+      "ics-code": "03.220.20"
+    },
+    {
+      "text": "Road equipment and installations, see {ics-code}",
+      "ics-code": "03.220.20"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "49.025.20",
+  "fieldcode": "49",
+  "description": "Aluminium",
+  "groupcode": "025",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Materials for aerospace construction. Aluminium."
+}

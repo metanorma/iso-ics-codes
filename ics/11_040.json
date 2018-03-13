@@ -1,0 +1,8 @@
+{
+  "code": "11.040",
+  "fieldcode": "11",
+  "description": "Medical equipment",
+  "groupcode": "040",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Health care technology. Medical equipment."
+}

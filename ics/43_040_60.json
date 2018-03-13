@@ -1,0 +1,18 @@
+{
+  "code": "43.040.60",
+  "fieldcode": "43",
+  "description": "Bodies and body components",
+  "groupcode": "040",
+  "subgroupcode": "60",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Road vehicles engineering. Road vehicle systems. Bodies and body components.",
+  "notes": [
+    {
+      "text": "Including vehicle frame and structure, heating devices, air-conditioning systems for passenger/driver compartments, roof load carriers, etc."
+    },
+    {
+      "text": "Trucks and trailers, see {ics-code}",
+      "ics-code": "43.040.60"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "49.090",
+  "fieldcode": "49",
+  "description": "On-board equipment and instruments",
+  "groupcode": "090",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. On-board equipment and instruments.",
+  "notes": [
+    {
+      "text": "Including navigation instruments and telecommunications equipment"
+    }
+  ]
+}

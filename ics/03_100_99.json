@@ -1,0 +1,9 @@
+{
+  "code": "03.100.99",
+  "fieldcode": "03",
+  "description": "Other standards related to company organization and management",
+  "groupcode": "100",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Company organization and management. Management systems. Other standards related to company organization and management."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "77.120.30",
+  "fieldcode": "77",
+  "description": "Copper and copper alloys",
+  "groupcode": "120",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metallurgy. Non-ferrous metals. Copper and copper alloys."
+}

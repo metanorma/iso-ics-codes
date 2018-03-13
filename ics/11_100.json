@@ -1,0 +1,8 @@
+{
+  "code": "11.100",
+  "fieldcode": "11",
+  "description": "Laboratory medicine",
+  "groupcode": "100",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Health care technology. Laboratory medicine."
+}

@@ -1,0 +1,13 @@
+{
+  "code": "19.120",
+  "fieldcode": "19",
+  "description": "Particle size analysis. Sieving",
+  "groupcode": "120",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Testing. Particle size analysis. Sieving.",
+  "notes": [
+    {
+      "text": "Including test sieves and porosimetry"
+    }
+  ]
+}

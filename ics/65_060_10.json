@@ -1,0 +1,9 @@
+{
+  "code": "65.060.10",
+  "fieldcode": "65",
+  "description": "Agricultural tractors and trailed vehicles",
+  "groupcode": "060",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Agriculture. Agricultural machines, implements and equipment. Agricultural tractors and trailed vehicles."
+}

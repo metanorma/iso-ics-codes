@@ -1,0 +1,9 @@
+{
+  "code": "11.180.01",
+  "fieldcode": "11",
+  "description": "Aids for disabled and handicapped persons in general",
+  "groupcode": "180",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Aids for disabled or handicapped persons. Aids for disabled and handicapped persons in general."
+}

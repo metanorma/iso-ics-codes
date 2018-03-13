@@ -1,0 +1,14 @@
+{
+  "code": "43.040.65",
+  "fieldcode": "43",
+  "description": "Glazing and wiper systems",
+  "groupcode": "040",
+  "subgroupcode": "65",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Road vehicles engineering. Road vehicle systems. Glazing and wiper systems.",
+  "notes": [
+    {
+      "text": "Including cleaning, defrosting and demisting devices, mirrors, etc."
+    }
+  ]
+}

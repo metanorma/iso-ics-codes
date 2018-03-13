@@ -1,0 +1,9 @@
+{
+  "code": "13.020.55",
+  "fieldcode": "13",
+  "description": "Biobased products",
+  "groupcode": "020",
+  "subgroupcode": "55",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Environmental protection. Biobased products."
+}

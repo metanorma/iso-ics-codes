@@ -1,0 +1,8 @@
+{
+  "code": "91.020",
+  "fieldcode": "91",
+  "description": "Physical planning. Town planning",
+  "groupcode": "020",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Construction materials and building. Physical planning. Town planning."
+}

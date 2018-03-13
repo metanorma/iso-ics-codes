@@ -1,0 +1,9 @@
+{
+  "code": "17.200.10",
+  "fieldcode": "17",
+  "description": "Heat. Calorimetry",
+  "groupcode": "200",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metrology and measurement. Physical phenomena. Thermodynamics and temperature measurements. Heat. Calorimetry."
+}

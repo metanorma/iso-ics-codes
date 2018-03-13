@@ -1,0 +1,14 @@
+{
+  "code": "13.340.50",
+  "fieldcode": "13",
+  "description": "Leg and foot protection",
+  "groupcode": "340",
+  "subgroupcode": "50",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Protective equipment. Leg and foot protection.",
+  "notes": [
+    {
+      "text": "Including safety boots and shoes"
+    }
+  ]
+}

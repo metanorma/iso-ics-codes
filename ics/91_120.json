@@ -1,0 +1,26 @@
+{
+  "code": "91.120",
+  "fieldcode": "91",
+  "description": "Protection of and in buildings",
+  "groupcode": "120",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Construction materials and building. Protection of and in buildings.",
+  "notes": [
+    {
+      "text": "Accident and disaster control, see {ics-code}",
+      "ics-code": "91.120"
+    },
+    {
+      "text": "Fire protection, see {ics-code}",
+      "ics-code": "91.120"
+    },
+    {
+      "text": "Fire-resistance of building materials and elements, see {ics-code}",
+      "ics-code": "91.120"
+    },
+    {
+      "text": "Alarm and warning systems, see {ics-code}",
+      "ics-code": "91.120"
+    }
+  ]
+}

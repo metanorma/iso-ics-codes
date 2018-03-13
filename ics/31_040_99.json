@@ -1,0 +1,9 @@
+{
+  "code": "31.040.99",
+  "fieldcode": "31",
+  "description": "Other resistors",
+  "groupcode": "040",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electronics. Resistors. Other resistors."
+}

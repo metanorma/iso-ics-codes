@@ -1,0 +1,15 @@
+{
+  "code": "11.100.20",
+  "fieldcode": "11",
+  "description": "Biological evaluation of medical devices",
+  "groupcode": "100",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Laboratory medicine. Biological evaluation of medical devices.",
+  "notes": [
+    {
+      "text": "Medical microbiology, see {ics-code}",
+      "ics-code": "11.100.20"
+    }
+  ]
+}

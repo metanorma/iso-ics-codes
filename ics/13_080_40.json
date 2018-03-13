@@ -1,0 +1,9 @@
+{
+  "code": "13.080.40",
+  "fieldcode": "13",
+  "description": "Hydrological properties of soils",
+  "groupcode": "080",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Soil quality. Pedology. Hydrological properties of soils."
+}

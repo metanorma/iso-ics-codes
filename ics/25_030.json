@@ -1,0 +1,8 @@
+{
+  "code": "25.030",
+  "fieldcode": "25",
+  "description": "Additive manufacturing",
+  "groupcode": "030",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Manufacturing engineering. Additive manufacturing."
+}

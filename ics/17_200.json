@@ -1,0 +1,8 @@
+{
+  "code": "17.200",
+  "fieldcode": "17",
+  "description": "Thermodynamics and temperature measurements",
+  "groupcode": "200",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Metrology and measurement. Physical phenomena. Thermodynamics and temperature measurements."
+}

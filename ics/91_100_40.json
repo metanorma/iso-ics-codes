@@ -1,0 +1,9 @@
+{
+  "code": "91.100.40",
+  "fieldcode": "91",
+  "description": "Products in fibre-reinforced cement",
+  "groupcode": "100",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Construction materials. Products in fibre-reinforced cement."
+}

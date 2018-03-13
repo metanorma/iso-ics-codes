@@ -1,0 +1,9 @@
+{
+  "code": "47.020.60",
+  "fieldcode": "47",
+  "description": "Electrical equipment of ships and  of marine structures",
+  "groupcode": "020",
+  "subgroupcode": "60",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Shipbuilding and marine structures. Shipbuilding and marine structures in general. Electrical equipment of ships and  of marine structures."
+}

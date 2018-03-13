@@ -1,0 +1,9 @@
+{
+  "code": "67.120.01",
+  "fieldcode": "67",
+  "description": "Animal produce in general",
+  "groupcode": "120",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Food technology. Meat, meat products and other animal produce. Animal produce in general."
+}

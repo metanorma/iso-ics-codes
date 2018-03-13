@@ -1,0 +1,13 @@
+{
+  "code": "23.160",
+  "fieldcode": "23",
+  "description": "Vacuum technology",
+  "groupcode": "160",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Vacuum technology.",
+  "notes": [
+    {
+      "text": "Including vacuum pumps"
+    }
+  ]
+}

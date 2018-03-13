@@ -1,0 +1,15 @@
+{
+  "code": "13.040.30",
+  "fieldcode": "13",
+  "description": "Workplace atmospheres",
+  "groupcode": "040",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Air quality. Workplace atmospheres.",
+  "notes": [
+    {
+      "text": "Sterilization and disinfection in general, see {ics-code}",
+      "ics-code": "13.040.30"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "35.240.90",
+  "fieldcode": "35",
+  "description": "IT applications in education",
+  "groupcode": "240",
+  "subgroupcode": "90",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Applications of information technology. IT applications in education.",
+  "notes": [
+    {
+      "text": "Including e-learning"
+    }
+  ]
+}

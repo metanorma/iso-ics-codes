@@ -1,0 +1,9 @@
+{
+  "code": "91.160.01",
+  "fieldcode": "91",
+  "description": "Lighting in general",
+  "groupcode": "160",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Lighting. Lighting in general."
+}

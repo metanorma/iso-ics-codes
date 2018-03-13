@@ -1,0 +1,9 @@
+{
+  "code": "25.140.01",
+  "fieldcode": "25",
+  "description": "Hand-held tools in general",
+  "groupcode": "140",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Hand-held tools. Hand-held tools in general."
+}

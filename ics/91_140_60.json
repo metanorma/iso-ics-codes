@@ -1,0 +1,22 @@
+{
+  "code": "91.140.60",
+  "fieldcode": "91",
+  "description": "Water supply systems",
+  "groupcode": "140",
+  "subgroupcode": "60",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Installations in buildings. Water supply systems.",
+  "notes": [
+    {
+      "text": "Including water meters in buildings"
+    },
+    {
+      "text": "Pipelines and its parts for external water conveyance systems, see {ics-code}",
+      "ics-code": "91.140.60"
+    },
+    {
+      "text": "External water conveyance systems, see {ics-code}",
+      "ics-code": "91.140.60"
+    }
+  ]
+}

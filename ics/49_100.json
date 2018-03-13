@@ -1,0 +1,8 @@
+{
+  "code": "49.100",
+  "fieldcode": "49",
+  "description": "Ground service and maintenance equipment",
+  "groupcode": "100",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Ground service and maintenance equipment."
+}

@@ -1,0 +1,14 @@
+{
+  "code": "25.160.30",
+  "fieldcode": "25",
+  "description": "Welding equipment",
+  "groupcode": "160",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Welding, brazing and soldering. Welding equipment.",
+  "notes": [
+    {
+      "text": "Including thermal cutting equipment"
+    }
+  ]
+}

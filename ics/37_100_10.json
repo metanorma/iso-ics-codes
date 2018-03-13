@@ -1,0 +1,14 @@
+{
+  "code": "37.100.10",
+  "fieldcode": "37",
+  "description": "Reproduction equipment",
+  "groupcode": "100",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Image technology. Graphic technology. Reproduction equipment.",
+  "notes": [
+    {
+      "text": "Including printing, copying and duplicating machines, bookbinding equipment, etc."
+    }
+  ]
+}

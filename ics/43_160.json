@@ -1,0 +1,29 @@
+{
+  "code": "43.160",
+  "fieldcode": "43",
+  "description": "Special purpose vehicles",
+  "groupcode": "160",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Road vehicles engineering. Special purpose vehicles.",
+  "notes": [
+    {
+      "text": "Including waste collection vehicles and components and systems for special purpose vehicles"
+    },
+    {
+      "text": "Fire-fighting, see {ics-code}",
+      "ics-code": "43.160"
+    },
+    {
+      "text": "Earth-moving machinery, see {ics-code}",
+      "ics-code": "43.160"
+    },
+    {
+      "text": "Cranes, see {ics-code}",
+      "ics-code": "43.160"
+    },
+    {
+      "text": "Agricultural tractors and trailed vehicles, see {ics-code}",
+      "ics-code": "43.160"
+    }
+  ]
+}

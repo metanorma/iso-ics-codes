@@ -1,0 +1,9 @@
+{
+  "code": "25.100.20",
+  "fieldcode": "25",
+  "description": "Milling tools",
+  "groupcode": "100",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Cutting tools. Milling tools."
+}

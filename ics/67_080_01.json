@@ -1,0 +1,9 @@
+{
+  "code": "67.080.01",
+  "fieldcode": "67",
+  "description": "Fruits, vegetables and derived products in general",
+  "groupcode": "080",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Food technology. Fruits. Vegetables. Fruits, vegetables and derived products in general."
+}

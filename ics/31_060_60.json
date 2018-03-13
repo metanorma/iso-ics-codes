@@ -1,0 +1,9 @@
+{
+  "code": "31.060.60",
+  "fieldcode": "31",
+  "description": "Variable capacitors",
+  "groupcode": "060",
+  "subgroupcode": "60",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electronics. Capacitors. Variable capacitors."
+}

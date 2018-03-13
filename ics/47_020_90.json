@@ -1,0 +1,9 @@
+{
+  "code": "47.020.90",
+  "fieldcode": "47",
+  "description": "Marine ventilation, air conditioning and heating systems",
+  "groupcode": "020",
+  "subgroupcode": "90",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Shipbuilding and marine structures. Shipbuilding and marine structures in general. Marine ventilation, air conditioning and heating systems."
+}

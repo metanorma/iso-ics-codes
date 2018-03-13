@@ -1,0 +1,13 @@
+{
+  "code": "39.020",
+  "fieldcode": "39",
+  "description": "Precision mechanics",
+  "groupcode": "020",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Precision mechanics. Jewellery. Precision mechanics.",
+  "notes": [
+    {
+      "text": "Including microsystems"
+    }
+  ]
+}

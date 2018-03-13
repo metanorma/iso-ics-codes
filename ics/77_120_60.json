@@ -1,0 +1,9 @@
+{
+  "code": "77.120.60",
+  "fieldcode": "77",
+  "description": "Lead, zinc, tin and their alloys",
+  "groupcode": "120",
+  "subgroupcode": "60",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metallurgy. Non-ferrous metals. Lead, zinc, tin and their alloys."
+}

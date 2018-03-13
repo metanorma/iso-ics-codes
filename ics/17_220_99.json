@@ -1,0 +1,9 @@
+{
+  "code": "17.220.99",
+  "fieldcode": "17",
+  "description": "Other standards related to electricity and magnetism",
+  "groupcode": "220",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metrology and measurement. Physical phenomena. Electricity. Magnetism. Electrical and magnetic measurements. Other standards related to electricity and magnetism."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "25.040.40",
+  "fieldcode": "25",
+  "description": "Industrial process measurement and control",
+  "groupcode": "040",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Industrial automation systems. Industrial process measurement and control."
+}

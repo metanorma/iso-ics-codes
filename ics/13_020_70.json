@@ -1,0 +1,9 @@
+{
+  "code": "13.020.70",
+  "fieldcode": "13",
+  "description": "Environmental projects",
+  "groupcode": "020",
+  "subgroupcode": "70",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Environmental protection. Environmental projects."
+}

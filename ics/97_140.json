@@ -1,0 +1,13 @@
+{
+  "code": "97.140",
+  "fieldcode": "97",
+  "description": "Furniture",
+  "groupcode": "140",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Furniture.",
+  "notes": [
+    {
+      "text": "Including upholstery, mattresses, office furniture, school furniture, etc."
+    }
+  ]
+}

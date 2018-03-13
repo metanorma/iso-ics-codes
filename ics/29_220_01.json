@@ -1,0 +1,9 @@
+{
+  "code": "29.220.01",
+  "fieldcode": "29",
+  "description": "Galvanic cells and batteries in general",
+  "groupcode": "220",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electrical engineering. Galvanic cells and batteries. Galvanic cells and batteries in general."
+}

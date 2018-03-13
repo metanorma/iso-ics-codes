@@ -1,0 +1,26 @@
+{
+  "code": "13.060.30",
+  "fieldcode": "13",
+  "description": "Sewage water",
+  "groupcode": "060",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Water quality. Sewage water.",
+  "notes": [
+    {
+      "text": "Including sewage water disposal and treatment"
+    },
+    {
+      "text": "Liquid wastes. Sludge, see {ics-code}",
+      "ics-code": "13.060.30"
+    },
+    {
+      "text": "Drainage systems, see {ics-code}",
+      "ics-code": "13.060.30"
+    },
+    {
+      "text": "External sewage systems, see {ics-code}",
+      "ics-code": "13.060.30"
+    }
+  ]
+}

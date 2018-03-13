@@ -1,0 +1,18 @@
+{
+  "code": "67.160.20",
+  "fieldcode": "67",
+  "description": "Non-alcoholic beverages",
+  "groupcode": "160",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Food technology. Beverages. Non-alcoholic beverages.",
+  "notes": [
+    {
+      "text": "Including juices, nectars, mineral waters, lemonades, root beer, cola drinks, etc."
+    },
+    {
+      "text": "Tea. Coffee. Cocoa, see {ics-code}",
+      "ics-code": "67.160.20"
+    }
+  ]
+}

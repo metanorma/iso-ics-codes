@@ -1,0 +1,13 @@
+{
+  "code": "93.120",
+  "fieldcode": "93",
+  "description": "Construction of airports",
+  "groupcode": "120",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Civil engineering. Construction of airports.",
+  "notes": [
+    {
+      "text": "Including air transport control equipment and installations"
+    }
+  ]
+}

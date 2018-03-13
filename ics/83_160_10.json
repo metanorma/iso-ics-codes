@@ -1,0 +1,14 @@
+{
+  "code": "83.160.10",
+  "fieldcode": "83",
+  "description": "Road vehicle tyres",
+  "groupcode": "160",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Rubber and plastic industries. Tyres. Road vehicle tyres.",
+  "notes": [
+    {
+      "text": "Including cycle tyres, and tyre retreading and repair processes"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "35.100.10",
+  "fieldcode": "35",
+  "description": "Physical layer",
+  "groupcode": "100",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Open systems interconnection (OSI). Physical layer."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "71.120.20",
+  "fieldcode": "71",
+  "description": "Columns",
+  "groupcode": "120",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Equipment for the chemical industry. Columns."
+}

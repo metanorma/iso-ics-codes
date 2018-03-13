@@ -1,0 +1,17 @@
+{
+  "code": "43.180",
+  "fieldcode": "43",
+  "description": "Diagnostic, maintenance and test equipment",
+  "groupcode": "180",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Road vehicles engineering. Diagnostic, maintenance and test equipment.",
+  "notes": [
+    {
+      "text": "Including repairing facilities"
+    },
+    {
+      "text": "Petroleum products and natural gas handling equipment, see {ics-code}",
+      "ics-code": "43.180"
+    }
+  ]
+}

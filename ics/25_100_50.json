@@ -1,0 +1,9 @@
+{
+  "code": "25.100.50",
+  "fieldcode": "25",
+  "description": "Taps and threading dies",
+  "groupcode": "100",
+  "subgroupcode": "50",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Cutting tools. Taps and threading dies."
+}

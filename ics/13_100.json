@@ -1,0 +1,18 @@
+{
+  "code": "13.100",
+  "fieldcode": "13",
+  "description": "Occupational safety. Industrial hygiene",
+  "groupcode": "100",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Occupational safety. Industrial hygiene.",
+  "notes": [
+    {
+      "text": "Protective equipment, see {ics-code}",
+      "ics-code": "13.100"
+    },
+    {
+      "text": "Interior lighting, see {ics-code}",
+      "ics-code": "13.100"
+    }
+  ]
+}

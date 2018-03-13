@@ -1,0 +1,9 @@
+{
+  "code": "49.030.01",
+  "fieldcode": "49",
+  "description": "Fasteners in general",
+  "groupcode": "030",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Fasteners for aerospace construction. Fasteners in general."
+}

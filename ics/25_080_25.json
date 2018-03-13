@@ -1,0 +1,9 @@
+{
+  "code": "25.080.25",
+  "fieldcode": "25",
+  "description": "Planing machines",
+  "groupcode": "080",
+  "subgroupcode": "25",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Machine tools. Planing machines."
+}

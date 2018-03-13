@@ -1,0 +1,18 @@
+{
+  "code": "75.160.20",
+  "fieldcode": "75",
+  "description": "Liquid fuels",
+  "groupcode": "160",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Petroleum and related technologies. Fuels. Liquid fuels.",
+  "notes": [
+    {
+      "text": "Including gasoline, diesel, kerosene, etc."
+    },
+    {
+      "text": "Biofuels, see {ics-code}",
+      "ics-code": "75.160.20"
+    }
+  ]
+}

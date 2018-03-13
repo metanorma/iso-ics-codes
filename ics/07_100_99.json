@@ -1,0 +1,9 @@
+{
+  "code": "07.100.99",
+  "fieldcode": "07",
+  "description": "Other standards related to microbiology",
+  "groupcode": "100",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Natural and applied sciences. Microbiology. Other standards related to microbiology."
+}

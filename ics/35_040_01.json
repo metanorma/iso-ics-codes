@@ -1,0 +1,9 @@
+{
+  "code": "35.040.01",
+  "fieldcode": "35",
+  "description": "Information coding in general",
+  "groupcode": "040",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Information coding. Information coding in general."
+}

@@ -1,0 +1,14 @@
+{
+  "code": "11.040.55",
+  "fieldcode": "11",
+  "description": "Diagnostic equipment",
+  "groupcode": "040",
+  "subgroupcode": "55",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Medical equipment. Diagnostic equipment.",
+  "notes": [
+    {
+      "text": "Including medical monitoring equipment, medical thermometers and related materials"
+    }
+  ]
+}

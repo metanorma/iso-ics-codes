@@ -1,0 +1,19 @@
+{
+  "code": "81.040.30",
+  "fieldcode": "81",
+  "description": "Glass products",
+  "groupcode": "040",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Glass and ceramics industries. Glass. Glass products.",
+  "notes": [
+    {
+      "text": "Bottles. Pots. Jars, see {ics-code}",
+      "ics-code": "81.040.30"
+    },
+    {
+      "text": "Laboratory ware and related apparatus, see {ics-code}",
+      "ics-code": "81.040.30"
+    }
+  ]
+}

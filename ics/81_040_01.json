@@ -1,0 +1,9 @@
+{
+  "code": "81.040.01",
+  "fieldcode": "81",
+  "description": "Glass in general",
+  "groupcode": "040",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Glass and ceramics industries. Glass. Glass in general."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "23.040.40",
+  "fieldcode": "23",
+  "description": "Metal fittings",
+  "groupcode": "040",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Pipeline components and pipelines. Metal fittings."
+}

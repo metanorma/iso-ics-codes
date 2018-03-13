@@ -1,0 +1,9 @@
+{
+  "code": "11.100.99",
+  "fieldcode": "11",
+  "description": "Other standards related to laboratory medicine",
+  "groupcode": "100",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Laboratory medicine. Other standards related to laboratory medicine."
+}

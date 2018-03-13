@@ -1,0 +1,25 @@
+{
+  "code": "53.080",
+  "fieldcode": "53",
+  "description": "Storage equipment",
+  "groupcode": "080",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Materials handling equipment. Storage equipment.",
+  "notes": [
+    {
+      "text": "Including loading devices, shelves, etc."
+    },
+    {
+      "text": "Storing. Warehousing, see {ics-code}",
+      "ics-code": "53.080"
+    },
+    {
+      "text": "Buildings and installations for processing and storage of agricultural produce, see {ics-code}",
+      "ics-code": "53.080"
+    },
+    {
+      "text": "Shelving, see {ics-code}",
+      "ics-code": "53.080"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "03.160",
+  "fieldcode": "03",
+  "description": "Law. Administration",
+  "groupcode": "160",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Law. Administration.",
+  "notes": [
+    {
+      "text": "Including flags and associated symbols (emblems) of political and administrative entities, military flags, flags of organizations, etc."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "31.060.70",
+  "fieldcode": "31",
+  "description": "Power capacitors",
+  "groupcode": "060",
+  "subgroupcode": "70",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electronics. Capacitors. Power capacitors.",
+  "notes": [
+    {
+      "text": "Other equipment related to power transmission and distribution networks, see {ics-code}",
+      "ics-code": ""
+    }
+  ]
+}

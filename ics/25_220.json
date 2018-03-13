@@ -1,0 +1,29 @@
+{
+  "code": "25.220",
+  "fieldcode": "25",
+  "description": "Surface treatment and coating",
+  "groupcode": "220",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Manufacturing engineering. Surface treatment and coating.",
+  "notes": [
+    {
+      "text": "Including processes and equipment for surface treatment and coating"
+    },
+    {
+      "text": "Heat treatment, see {ics-code}",
+      "ics-code": "25.220"
+    },
+    {
+      "text": "Coatings and related processes used in aerospace industry, see {ics-code}",
+      "ics-code": "25.220"
+    },
+    {
+      "text": "Corrosion of metals, see {ics-code}",
+      "ics-code": "25.220"
+    },
+    {
+      "text": "Paint coating processes, see {ics-code}",
+      "ics-code": "25.220"
+    }
+  ]
+}

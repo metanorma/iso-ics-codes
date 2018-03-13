@@ -1,0 +1,18 @@
+{
+  "code": "03.100.30",
+  "fieldcode": "03",
+  "description": "Management of human resources",
+  "groupcode": "100",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Company organization and management. Management systems. Management of human resources.",
+  "notes": [
+    {
+      "text": "Including staff training, staff responsibilities, staff qualifications and certification"
+    },
+    {
+      "text": "Welding, brazing and soldering in general, see {ics-code}",
+      "ics-code": "03.100.30"
+    }
+  ]
+}

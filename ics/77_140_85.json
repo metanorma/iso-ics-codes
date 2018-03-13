@@ -1,0 +1,9 @@
+{
+  "code": "77.140.85",
+  "fieldcode": "77",
+  "description": "Iron and steel forgings",
+  "groupcode": "140",
+  "subgroupcode": "85",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metallurgy. Iron and steel products. Iron and steel forgings."
+}

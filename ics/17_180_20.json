@@ -1,0 +1,9 @@
+{
+  "code": "17.180.20",
+  "fieldcode": "17",
+  "description": "Colours and measurement of light",
+  "groupcode": "180",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metrology and measurement. Physical phenomena. Optics and optical measurements. Colours and measurement of light."
+}

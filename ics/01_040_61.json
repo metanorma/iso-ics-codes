@@ -1,0 +1,9 @@
+{
+  "code": "01.040.61",
+  "fieldcode": "01",
+  "description": "Clothing industry (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "61",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Clothing industry (Vocabularies)."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "23.040.80",
+  "fieldcode": "23",
+  "description": "Seals for pipe and hose assemblies",
+  "groupcode": "040",
+  "subgroupcode": "80",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Pipeline components and pipelines. Seals for pipe and hose assemblies."
+}

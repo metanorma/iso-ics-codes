@@ -1,0 +1,8 @@
+{
+  "code": "77.040",
+  "fieldcode": "77",
+  "description": "Testing of metals",
+  "groupcode": "040",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Metallurgy. Testing of metals."
+}

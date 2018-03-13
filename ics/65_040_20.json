@@ -1,0 +1,14 @@
+{
+  "code": "65.040.20",
+  "fieldcode": "65",
+  "description": "Buildings and installations for processing and storage of agricultural produce",
+  "groupcode": "040",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Agriculture. Farm buildings, structures and installations. Buildings and installations for processing and storage of agricultural produce.",
+  "notes": [
+    {
+      "text": "Including slaughterhouses and related equipment"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "71.100.30",
+  "fieldcode": "71",
+  "description": "Explosives. Pyrotechnics and fireworks",
+  "groupcode": "100",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Products of the chemical industry. Explosives. Pyrotechnics and fireworks."
+}

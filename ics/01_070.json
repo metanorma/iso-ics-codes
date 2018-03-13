@@ -1,0 +1,14 @@
+{
+  "code": "01.070",
+  "fieldcode": "01",
+  "description": "Colour coding",
+  "groupcode": "070",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Colour coding.",
+  "notes": [
+    {
+      "text": "Public information symbols. Signs. Plates. Labels, see {ics-code}",
+      "ics-code": "01.070"
+    }
+  ]
+}

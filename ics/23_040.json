@@ -1,0 +1,14 @@
+{
+  "code": "23.040",
+  "fieldcode": "23",
+  "description": "Pipeline components and pipelines",
+  "groupcode": "040",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Pipeline components and pipelines.",
+  "notes": [
+    {
+      "text": "Petroleum products and natural gas handling equipment, see {ics-code}",
+      "ics-code": "23.040"
+    }
+  ]
+}

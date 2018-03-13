@@ -1,0 +1,9 @@
+{
+  "code": "13.040.99",
+  "fieldcode": "13",
+  "description": "Other standards related to air quality",
+  "groupcode": "040",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Air quality. Other standards related to air quality."
+}

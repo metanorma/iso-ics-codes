@@ -1,0 +1,9 @@
+{
+  "code": "91.080.01",
+  "fieldcode": "91",
+  "description": "Structures of buildings in general",
+  "groupcode": "080",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Structures of buildings. Structures of buildings in general."
+}

@@ -1,0 +1,14 @@
+{
+  "code": "25.160.10",
+  "fieldcode": "25",
+  "description": "Welding processes",
+  "groupcode": "160",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Welding, brazing and soldering. Welding processes.",
+  "notes": [
+    {
+      "text": "Including thermal cutting and cladding"
+    }
+  ]
+}

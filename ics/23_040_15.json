@@ -1,0 +1,15 @@
+{
+  "code": "23.040.15",
+  "fieldcode": "23",
+  "description": "Non-ferrous metal pipes",
+  "groupcode": "040",
+  "subgroupcode": "15",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Pipeline components and pipelines. Non-ferrous metal pipes.",
+  "notes": [
+    {
+      "text": "Products of non-ferrous metals, see {ics-code}",
+      "ics-code": "23.040.15"
+    }
+  ]
+}

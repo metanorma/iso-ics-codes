@@ -1,0 +1,9 @@
+{
+  "code": "25.100.70",
+  "fieldcode": "25",
+  "description": "Abrasives",
+  "groupcode": "100",
+  "subgroupcode": "70",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Cutting tools. Abrasives."
+}

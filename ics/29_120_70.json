@@ -1,0 +1,9 @@
+{
+  "code": "29.120.70",
+  "fieldcode": "29",
+  "description": "Relays",
+  "groupcode": "120",
+  "subgroupcode": "70",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electrical engineering. Electrical accessories. Relays."
+}

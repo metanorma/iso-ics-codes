@@ -1,0 +1,9 @@
+{
+  "code": "65.060.20",
+  "fieldcode": "65",
+  "description": "Soil-working equipment",
+  "groupcode": "060",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Agriculture. Agricultural machines, implements and equipment. Soil-working equipment."
+}

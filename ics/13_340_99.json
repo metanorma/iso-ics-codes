@@ -1,0 +1,9 @@
+{
+  "code": "13.340.99",
+  "fieldcode": "13",
+  "description": "Other protective equipment",
+  "groupcode": "340",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Protective equipment. Other protective equipment."
+}

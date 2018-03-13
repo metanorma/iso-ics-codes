@@ -1,0 +1,14 @@
+{
+  "code": "87.020",
+  "fieldcode": "87",
+  "description": "Paint coating processes",
+  "groupcode": "020",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Paint and colour industries. Paint coating processes.",
+  "notes": [
+    {
+      "text": "Surface preparation, see {ics-code}",
+      "ics-code": "87.020"
+    }
+  ]
+}

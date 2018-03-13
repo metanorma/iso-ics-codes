@@ -1,0 +1,15 @@
+{
+  "code": "03.120.10",
+  "fieldcode": "03",
+  "description": "Quality management and quality assurance",
+  "groupcode": "120",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Quality. Quality management and quality assurance.",
+  "notes": [
+    {
+      "text": "Management systems, see {ics-code}",
+      "ics-code": "03.120.10"
+    }
+  ]
+}

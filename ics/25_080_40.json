@@ -1,0 +1,9 @@
+{
+  "code": "25.080.40",
+  "fieldcode": "25",
+  "description": "Drilling machines",
+  "groupcode": "080",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Machine tools. Drilling machines."
+}

@@ -1,0 +1,13 @@
+{
+  "code": "83.160",
+  "fieldcode": "83",
+  "description": "Tyres",
+  "groupcode": "160",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Rubber and plastic industries. Tyres.",
+  "notes": [
+    {
+      "text": "Including tubes and valves"
+    }
+  ]
+}

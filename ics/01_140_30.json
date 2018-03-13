@@ -1,0 +1,23 @@
+{
+  "code": "01.140.30",
+  "fieldcode": "01",
+  "description": "Documents in administration, commerce and industry",
+  "groupcode": "140",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Information sciences. Publishing. Documents in administration, commerce and industry.",
+  "notes": [
+    {
+      "text": "Technical product documentation, see {ics-code}",
+      "ics-code": "01.140.30"
+    },
+    {
+      "text": "Finances. Banking. Monetary systems. Insurance, see {ics-code}",
+      "ics-code": "01.140.30"
+    },
+    {
+      "text": "IT applications in transport, see {ics-code}",
+      "ics-code": "01.140.30"
+    }
+  ]
+}

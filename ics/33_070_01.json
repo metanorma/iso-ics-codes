@@ -1,0 +1,9 @@
+{
+  "code": "33.070.01",
+  "fieldcode": "33",
+  "description": "Mobile services in general",
+  "groupcode": "070",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Mobile services. Mobile services in general."
+}

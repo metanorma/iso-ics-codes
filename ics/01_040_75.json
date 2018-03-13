@@ -1,0 +1,9 @@
+{
+  "code": "01.040.75",
+  "fieldcode": "01",
+  "description": "Petroleum and related technologies (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "75",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Petroleum and related technologies (Vocabularies)."
+}

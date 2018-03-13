@@ -1,0 +1,18 @@
+{
+  "code": "73.100.30",
+  "fieldcode": "73",
+  "description": "Equipment for drilling and mine excavation",
+  "groupcode": "100",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Mining and minerals. Mining equipment. Equipment for drilling and mine excavation.",
+  "notes": [
+    {
+      "text": "Including equipment for seabed mining"
+    },
+    {
+      "text": "Exploratory, drilling and extraction equipment, see {ics-code}",
+      "ics-code": "73.100.30"
+    }
+  ]
+}

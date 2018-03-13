@@ -1,0 +1,9 @@
+{
+  "code": "25.180.01",
+  "fieldcode": "25",
+  "description": "Industrial furnaces in general",
+  "groupcode": "180",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Industrial furnaces. Industrial furnaces in general."
+}

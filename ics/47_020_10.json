@@ -1,0 +1,9 @@
+{
+  "code": "47.020.10",
+  "fieldcode": "47",
+  "description": "Hulls and their structure elements",
+  "groupcode": "020",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Shipbuilding and marine structures. Shipbuilding and marine structures in general. Hulls and their structure elements."
+}

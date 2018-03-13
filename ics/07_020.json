@@ -1,0 +1,14 @@
+{
+  "code": "07.020",
+  "fieldcode": "07",
+  "description": "Mathematics",
+  "groupcode": "020",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Natural and applied sciences. Mathematics.",
+  "notes": [
+    {
+      "text": "Application of statistical methods, see {ics-code}",
+      "ics-code": ""
+    }
+  ]
+}

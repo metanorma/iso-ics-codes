@@ -1,0 +1,9 @@
+{
+  "code": "33.120.30",
+  "fieldcode": "33",
+  "description": "RF connectors",
+  "groupcode": "120",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Components and accessories for telecommunications equipment. RF connectors."
+}

@@ -1,0 +1,14 @@
+{
+  "code": "65.020.20",
+  "fieldcode": "65",
+  "description": "Plant growing",
+  "groupcode": "020",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Agriculture. Farming and forestry. Plant growing.",
+  "notes": [
+    {
+      "text": "Including horticulture, floriculture, seeds, plant diseases"
+    }
+  ]
+}

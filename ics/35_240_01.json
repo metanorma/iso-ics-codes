@@ -1,0 +1,9 @@
+{
+  "code": "35.240.01",
+  "fieldcode": "35",
+  "description": "Application of information technology in general",
+  "groupcode": "240",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Applications of information technology. Application of information technology in general."
+}

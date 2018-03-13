@@ -1,0 +1,9 @@
+{
+  "code": "21.220.30",
+  "fieldcode": "21",
+  "description": "Chain drives and their components",
+  "groupcode": "220",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Mechanical systems and components for general use. Flexible drives and transmissions. Chain drives and their components."
+}

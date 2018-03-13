@@ -1,0 +1,9 @@
+{
+  "code": "49.030.40",
+  "fieldcode": "49",
+  "description": "Pins, nails",
+  "groupcode": "030",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Fasteners for aerospace construction. Pins, nails."
+}

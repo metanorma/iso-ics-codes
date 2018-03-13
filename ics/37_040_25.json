@@ -1,0 +1,14 @@
+{
+  "code": "37.040.25",
+  "fieldcode": "37",
+  "description": "Radiographic films",
+  "groupcode": "040",
+  "subgroupcode": "25",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Image technology. Photography. Radiographic films.",
+  "notes": [
+    {
+      "text": "Including dental, medical and industrial radiographic films"
+    }
+  ]
+}

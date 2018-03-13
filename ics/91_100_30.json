@@ -1,0 +1,14 @@
+{
+  "code": "91.100.30",
+  "fieldcode": "91",
+  "description": "Concrete and concrete products",
+  "groupcode": "100",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Construction materials. Concrete and concrete products.",
+  "notes": [
+    {
+      "text": "Including admixtures"
+    }
+  ]
+}

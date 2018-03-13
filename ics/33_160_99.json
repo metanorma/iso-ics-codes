@@ -1,0 +1,9 @@
+{
+  "code": "33.160.99",
+  "fieldcode": "33",
+  "description": "Other audio, video and audiovisual equipment",
+  "groupcode": "160",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Audio, video and audiovisual engineering. Other audio, video and audiovisual equipment."
+}

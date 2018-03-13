@@ -1,0 +1,14 @@
+{
+  "code": "29.030",
+  "fieldcode": "29",
+  "description": "Magnetic materials",
+  "groupcode": "030",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Electrical engineering. Magnetic materials.",
+  "notes": [
+    {
+      "text": "Steels with special magnetic properties, see {ics-code}",
+      "ics-code": ""
+    }
+  ]
+}

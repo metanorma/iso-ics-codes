@@ -1,0 +1,15 @@
+{
+  "code": "91.010.01",
+  "fieldcode": "91",
+  "description": "Construction industry in general",
+  "groupcode": "010",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Construction industry. Construction industry in general.",
+  "notes": [
+    {
+      "text": "IT applications in building and construction industry, see {ics-code}",
+      "ics-code": "91.010.01"
+    }
+  ]
+}

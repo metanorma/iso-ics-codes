@@ -1,0 +1,14 @@
+{
+  "code": "03.220",
+  "fieldcode": "03",
+  "description": "Transport",
+  "groupcode": "220",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Transport.",
+  "notes": [
+    {
+      "text": "Protection against dangerous goods, see {ics-code}",
+      "ics-code": "03.220"
+    }
+  ]
+}

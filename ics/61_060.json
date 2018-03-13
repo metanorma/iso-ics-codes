@@ -1,0 +1,17 @@
+{
+  "code": "61.060",
+  "fieldcode": "61",
+  "description": "Footwear",
+  "groupcode": "060",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Clothing industry. Footwear.",
+  "notes": [
+    {
+      "text": "Including shoelaces"
+    },
+    {
+      "text": "Leg and foot protection, see {ics-code}",
+      "ics-code": "61.060"
+    }
+  ]
+}

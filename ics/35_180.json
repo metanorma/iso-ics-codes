@@ -1,0 +1,13 @@
+{
+  "code": "35.180",
+  "fieldcode": "35",
+  "description": "IT terminal and other peripheral equipment",
+  "groupcode": "180",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Information technology. IT terminal and other peripheral equipment.",
+  "notes": [
+    {
+      "text": "Including modems"
+    }
+  ]
+}

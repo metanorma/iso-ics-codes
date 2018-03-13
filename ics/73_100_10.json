@@ -1,0 +1,9 @@
+{
+  "code": "73.100.10",
+  "fieldcode": "73",
+  "description": "Tunnelling and tubing equipment",
+  "groupcode": "100",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Mining and minerals. Mining equipment. Tunnelling and tubing equipment."
+}

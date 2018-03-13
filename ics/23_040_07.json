@@ -1,0 +1,9 @@
+{
+  "code": "23.040.07",
+  "fieldcode": "23",
+  "description": "Pipelines and its parts for district heat",
+  "groupcode": "040",
+  "subgroupcode": "07",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Pipeline components and pipelines. Pipelines and its parts for district heat."
+}

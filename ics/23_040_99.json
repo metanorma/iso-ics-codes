@@ -1,0 +1,9 @@
+{
+  "code": "23.040.99",
+  "fieldcode": "23",
+  "description": "Other pipeline components",
+  "groupcode": "040",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Pipeline components and pipelines. Other pipeline components."
+}

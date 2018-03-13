@@ -1,0 +1,14 @@
+{
+  "code": "35.240.67",
+  "fieldcode": "35",
+  "description": "IT applications in building and construction industry",
+  "groupcode": "240",
+  "subgroupcode": "67",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Applications of information technology. IT applications in building and construction industry.",
+  "notes": [
+    {
+      "text": "Including building information modelling, Home and Building Electronic Systems (HBES)"
+    }
+  ]
+}

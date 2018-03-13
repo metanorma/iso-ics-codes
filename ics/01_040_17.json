@@ -1,0 +1,9 @@
+{
+  "code": "01.040.17",
+  "fieldcode": "01",
+  "description": "Metrology and measurement. Physical phenomena (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "17",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Metrology and measurement. Physical phenomena (Vocabularies)."
+}

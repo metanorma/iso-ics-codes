@@ -1,0 +1,18 @@
+{
+  "code": "45.020",
+  "fieldcode": "45",
+  "description": "Railway engineering in general",
+  "groupcode": "020",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Railway engineering. Railway engineering in general.",
+  "notes": [
+    {
+      "text": "Transport by rail, see {ics-code}",
+      "ics-code": "45.020"
+    },
+    {
+      "text": "Construction of railways, see {ics-code}",
+      "ics-code": "45.020"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "01.040.23",
+  "fieldcode": "01",
+  "description": "Fluid systems and components for general use (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "23",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Fluid systems and components for general use (Vocabularies)."
+}

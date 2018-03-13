@@ -1,0 +1,14 @@
+{
+  "code": "91.040.10",
+  "fieldcode": "91",
+  "description": "Public buildings",
+  "groupcode": "040",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Buildings. Public buildings.",
+  "notes": [
+    {
+      "text": "Including ecclesiastical buildings and hospitals"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "11.100.30",
+  "fieldcode": "11",
+  "description": "Analysis of blood and urine",
+  "groupcode": "100",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Laboratory medicine. Analysis of blood and urine.",
+  "notes": [
+    {
+      "text": "Including doping control"
+    }
+  ]
+}

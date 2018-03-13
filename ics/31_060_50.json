@@ -1,0 +1,9 @@
+{
+  "code": "31.060.50",
+  "fieldcode": "31",
+  "description": "Aluminium electrolytic capacitors",
+  "groupcode": "060",
+  "subgroupcode": "50",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electronics. Capacitors. Aluminium electrolytic capacitors."
+}

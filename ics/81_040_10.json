@@ -1,0 +1,9 @@
+{
+  "code": "81.040.10",
+  "fieldcode": "81",
+  "description": "Raw materials and raw glass",
+  "groupcode": "040",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Glass and ceramics industries. Glass. Raw materials and raw glass."
+}

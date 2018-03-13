@@ -1,0 +1,14 @@
+{
+  "code": "03.200",
+  "fieldcode": "03",
+  "description": "Leisure. Tourism",
+  "groupcode": "200",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Leisure. Tourism.",
+  "notes": [
+    {
+      "text": "Camping equipment and camp-sites, see {ics-code}",
+      "ics-code": "03.200"
+    }
+  ]
+}

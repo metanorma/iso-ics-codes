@@ -1,0 +1,9 @@
+{
+  "code": "27.060.20",
+  "fieldcode": "27",
+  "description": "Gas fuel burners",
+  "groupcode": "060",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Energy and heat transfer engineering. Burners. Boilers. Gas fuel burners."
+}

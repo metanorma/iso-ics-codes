@@ -1,0 +1,9 @@
+{
+  "code": "31.040.30",
+  "fieldcode": "31",
+  "description": "Thermistors",
+  "groupcode": "040",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electronics. Resistors. Thermistors."
+}

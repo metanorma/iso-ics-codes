@@ -1,0 +1,9 @@
+{
+  "code": "33.060.30",
+  "fieldcode": "33",
+  "description": "Radio relay and fixed satellite communications systems",
+  "groupcode": "060",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Radiocommunications. Radio relay and fixed satellite communications systems."
+}

@@ -1,0 +1,13 @@
+{
+  "code": "97.195",
+  "fieldcode": "97",
+  "description": "Items of art and handicrafts. Cultural property and heritage",
+  "groupcode": "195",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Items of art and handicrafts. Cultural property and heritage.",
+  "notes": [
+    {
+      "text": "Including conservation of collections and equipment and materials for creating items of art and handicrafts"
+    }
+  ]
+}

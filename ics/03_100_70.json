@@ -1,0 +1,14 @@
+{
+  "code": "03.100.70",
+  "fieldcode": "03",
+  "description": "Management systems",
+  "groupcode": "100",
+  "subgroupcode": "70",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Company organization and management. Management systems. Management systems.",
+  "notes": [
+    {
+      "text": "Including environmental management systems (EMS), road traffic management systems, energy management systems, health care management systems, etc."
+    }
+  ]
+}

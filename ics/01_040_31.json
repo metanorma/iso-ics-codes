@@ -1,0 +1,9 @@
+{
+  "code": "01.040.31",
+  "fieldcode": "01",
+  "description": "Electronics (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "31",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Electronics (Vocabularies)."
+}

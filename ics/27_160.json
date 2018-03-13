@@ -1,0 +1,13 @@
+{
+  "code": "27.160",
+  "fieldcode": "27",
+  "description": "Solar energy engineering",
+  "groupcode": "160",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Energy and heat transfer engineering. Solar energy engineering.",
+  "notes": [
+    {
+      "text": "Including photovoltaic energy systems"
+    }
+  ]
+}

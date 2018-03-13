@@ -1,0 +1,14 @@
+{
+  "code": "67.120.30",
+  "fieldcode": "67",
+  "description": "Fish and fishery products",
+  "groupcode": "120",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Food technology. Meat, meat products and other animal produce. Fish and fishery products.",
+  "notes": [
+    {
+      "text": "Including aquatic molluscs and other marine products"
+    }
+  ]
+}

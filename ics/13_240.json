@@ -1,0 +1,13 @@
+{
+  "code": "13.240",
+  "fieldcode": "13",
+  "description": "Protection against excessive pressure",
+  "groupcode": "240",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Protection against excessive pressure.",
+  "notes": [
+    {
+      "text": "Including safety valves, bursting disc devices, etc."
+    }
+  ]
+}

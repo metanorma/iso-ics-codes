@@ -1,0 +1,9 @@
+{
+  "code": "21.220.20",
+  "fieldcode": "21",
+  "description": "Cable or rope drives and their components",
+  "groupcode": "220",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Mechanical systems and components for general use. Flexible drives and transmissions. Cable or rope drives and their components."
+}

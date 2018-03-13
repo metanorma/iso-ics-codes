@@ -1,0 +1,9 @@
+{
+  "code": "71.040.01",
+  "fieldcode": "71",
+  "description": "Analytical chemistry in general",
+  "groupcode": "040",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Analytical chemistry. Analytical chemistry in general."
+}

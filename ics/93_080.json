@@ -1,0 +1,8 @@
+{
+  "code": "93.080",
+  "fieldcode": "93",
+  "description": "Road engineering",
+  "groupcode": "080",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Civil engineering. Road engineering."
+}

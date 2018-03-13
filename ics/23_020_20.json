@@ -1,0 +1,27 @@
+{
+  "code": "23.020.20",
+  "fieldcode": "23",
+  "description": "Vessels and containers mounted on vehicles",
+  "groupcode": "020",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Fluid storage devices. Vessels and containers mounted on vehicles.",
+  "notes": [
+    {
+      "text": "Trucks and trailers, see {ics-code}",
+      "ics-code": ""
+    },
+    {
+      "text": "Trailing stock, see {ics-code}",
+      "ics-code": ""
+    },
+    {
+      "text": "Cargo spaces, see {ics-code}",
+      "ics-code": ""
+    },
+    {
+      "text": "Barrels. Drums. Canisters, see {ics-code}",
+      "ics-code": ""
+    }
+  ]
+}

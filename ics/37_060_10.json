@@ -1,0 +1,9 @@
+{
+  "code": "37.060.10",
+  "fieldcode": "37",
+  "description": "Motion picture equipment",
+  "groupcode": "060",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Image technology. Cinematography. Motion picture equipment."
+}

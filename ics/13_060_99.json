@@ -1,0 +1,9 @@
+{
+  "code": "13.060.99",
+  "fieldcode": "13",
+  "description": "Other standards related to water quality",
+  "groupcode": "060",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Water quality. Other standards related to water quality."
+}

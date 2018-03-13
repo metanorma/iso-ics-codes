@@ -1,0 +1,9 @@
+{
+  "code": "91.040.20",
+  "fieldcode": "91",
+  "description": "Buildings for commerce and industry",
+  "groupcode": "040",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Buildings. Buildings for commerce and industry."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "83.080.01",
+  "fieldcode": "83",
+  "description": "Plastics in general",
+  "groupcode": "080",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Rubber and plastic industries. Plastics. Plastics in general."
+}

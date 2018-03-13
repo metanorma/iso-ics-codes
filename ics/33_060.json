@@ -1,0 +1,8 @@
+{
+  "code": "33.060",
+  "fieldcode": "33",
+  "description": "Radiocommunications",
+  "groupcode": "060",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Radiocommunications."
+}

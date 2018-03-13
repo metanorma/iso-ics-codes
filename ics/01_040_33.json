@@ -1,0 +1,9 @@
+{
+  "code": "01.040.33",
+  "fieldcode": "01",
+  "description": "Telecommunications. Audio and video engineering (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "33",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Telecommunications. Audio and video engineering (Vocabularies)."
+}

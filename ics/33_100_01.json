@@ -1,0 +1,9 @@
+{
+  "code": "33.100.01",
+  "fieldcode": "33",
+  "description": "Electromagnetic compatibility in general",
+  "groupcode": "100",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Electromagnetic compatibility (EMC). Electromagnetic compatibility in general."
+}

@@ -1,0 +1,13 @@
+{
+  "code": "91.190",
+  "fieldcode": "91",
+  "description": "Building accessories",
+  "groupcode": "190",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Construction materials and building. Building accessories.",
+  "notes": [
+    {
+      "text": "Including locks, buzzers, bells, bolts, door and window hardware, etc."
+    }
+  ]
+}

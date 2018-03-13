@@ -1,0 +1,13 @@
+{
+  "code": "45.100",
+  "fieldcode": "45",
+  "description": "Cableway equipment",
+  "groupcode": "100",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Railway engineering. Cableway equipment.",
+  "notes": [
+    {
+      "text": "Including ropeway equipment"
+    }
+  ]
+}

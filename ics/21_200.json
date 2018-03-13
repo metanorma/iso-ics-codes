@@ -1,0 +1,8 @@
+{
+  "code": "21.200",
+  "fieldcode": "21",
+  "description": "Gears",
+  "groupcode": "200",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Mechanical systems and components for general use. Gears."
+}

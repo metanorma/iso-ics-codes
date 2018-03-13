@@ -1,0 +1,9 @@
+{
+  "code": "67.120.20",
+  "fieldcode": "67",
+  "description": "Poultry and eggs",
+  "groupcode": "120",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Food technology. Meat, meat products and other animal produce. Poultry and eggs."
+}

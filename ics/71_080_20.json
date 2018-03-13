@@ -1,0 +1,9 @@
+{
+  "code": "71.080.20",
+  "fieldcode": "71",
+  "description": "Halogenated hydrocarbons",
+  "groupcode": "080",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Organic chemicals. Halogenated hydrocarbons."
+}

@@ -1,0 +1,14 @@
+{
+  "code": "97.200.50",
+  "fieldcode": "97",
+  "description": "Toys",
+  "groupcode": "200",
+  "subgroupcode": "50",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Equipment for entertainment. Toys.",
+  "notes": [
+    {
+      "text": "Including safety of toys"
+    }
+  ]
+}

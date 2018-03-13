@@ -1,0 +1,9 @@
+{
+  "code": "97.100.30",
+  "fieldcode": "97",
+  "description": "Solid fuel heaters",
+  "groupcode": "100",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Domestic, commercial and industrial heating appliances. Solid fuel heaters."
+}

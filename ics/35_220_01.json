@@ -1,0 +1,9 @@
+{
+  "code": "35.220.01",
+  "fieldcode": "35",
+  "description": "Data storage devices in general",
+  "groupcode": "220",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Data storage devices. Data storage devices in general."
+}

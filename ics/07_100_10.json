@@ -1,0 +1,15 @@
+{
+  "code": "07.100.10",
+  "fieldcode": "07",
+  "description": "Medical microbiology",
+  "groupcode": "100",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Natural and applied sciences. Microbiology. Medical microbiology.",
+  "notes": [
+    {
+      "text": "Laboratory medicine, see {ics-code}",
+      "ics-code": "07.100.10"
+    }
+  ]
+}

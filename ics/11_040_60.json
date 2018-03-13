@@ -1,0 +1,9 @@
+{
+  "code": "11.040.60",
+  "fieldcode": "11",
+  "description": "Therapy equipment",
+  "groupcode": "040",
+  "subgroupcode": "60",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Medical equipment. Therapy equipment."
+}

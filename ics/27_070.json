@@ -1,0 +1,8 @@
+{
+  "code": "27.070",
+  "fieldcode": "27",
+  "description": "Fuel cells",
+  "groupcode": "070",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Energy and heat transfer engineering. Fuel cells."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "67.140.20",
+  "fieldcode": "67",
+  "description": "Coffee and coffee substitutes",
+  "groupcode": "140",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Food technology. Tea. Coffee. Cocoa. Coffee and coffee substitutes."
+}

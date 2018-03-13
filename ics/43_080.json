@@ -1,0 +1,18 @@
+{
+  "code": "43.080",
+  "fieldcode": "43",
+  "description": "Commercial vehicles",
+  "groupcode": "080",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Road vehicles engineering. Commercial vehicles.",
+  "notes": [
+    {
+      "text": "Road vehicle systems, see {ics-code}",
+      "ics-code": "43.080"
+    },
+    {
+      "text": "Road vehicle tyres, see {ics-code}",
+      "ics-code": "43.080"
+    }
+  ]
+}

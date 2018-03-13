@@ -1,0 +1,18 @@
+{
+  "code": "03.220.50",
+  "fieldcode": "03",
+  "description": "Air transport",
+  "groupcode": "220",
+  "subgroupcode": "50",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Transport. Air transport.",
+  "notes": [
+    {
+      "text": "Including air transport services"
+    },
+    {
+      "text": "Construction of airports, see {ics-code}",
+      "ics-code": ""
+    }
+  ]
+}

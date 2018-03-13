@@ -1,0 +1,9 @@
+{
+  "code": "11.120.20",
+  "fieldcode": "11",
+  "description": "Wound dressings and compresses",
+  "groupcode": "120",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Pharmaceutics. Wound dressings and compresses."
+}

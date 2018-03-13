@@ -1,0 +1,30 @@
+{
+  "code": "59.080",
+  "fieldcode": "59",
+  "description": "Products of the textile industry",
+  "groupcode": "080",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Textile and leather technology. Products of the textile industry.",
+  "notes": [
+    {
+      "text": "Materials for the reinforcement of composites, see {ics-code}",
+      "ics-code": "59.080"
+    },
+    {
+      "text": "Fishing and fish breeding, see {ics-code}",
+      "ics-code": "59.080"
+    },
+    {
+      "text": "Furniture, see {ics-code}",
+      "ics-code": "59.080"
+    },
+    {
+      "text": "Floor coverings, see {ics-code}",
+      "ics-code": "59.080"
+    },
+    {
+      "text": "Home textiles. Linen, see {ics-code}",
+      "ics-code": "59.080"
+    }
+  ]
+}

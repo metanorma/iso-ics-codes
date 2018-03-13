@@ -1,0 +1,9 @@
+{
+  "code": "01.040.91",
+  "fieldcode": "01",
+  "description": "Construction materials and building (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "91",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Construction materials and building (Vocabularies)."
+}

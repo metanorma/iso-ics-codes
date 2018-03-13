@@ -1,0 +1,14 @@
+{
+  "code": "97.130.20",
+  "fieldcode": "97",
+  "description": "Commercial refrigerating appliances",
+  "groupcode": "130",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Shop fittings. Commercial refrigerating appliances.",
+  "notes": [
+    {
+      "text": "Including refrigerated display cabinets, cold rooms, etc."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "13.030.10",
+  "fieldcode": "13",
+  "description": "Solid wastes",
+  "groupcode": "030",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Wastes. Solid wastes."
+}

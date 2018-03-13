@@ -1,0 +1,9 @@
+{
+  "code": "65.060.40",
+  "fieldcode": "65",
+  "description": "Plant care equipment",
+  "groupcode": "060",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Agriculture. Agricultural machines, implements and equipment. Plant care equipment."
+}

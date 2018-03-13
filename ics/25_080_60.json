@@ -1,0 +1,9 @@
+{
+  "code": "25.080.60",
+  "fieldcode": "25",
+  "description": "Sawing machines",
+  "groupcode": "080",
+  "subgroupcode": "60",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Machine tools. Sawing machines."
+}

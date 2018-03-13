@@ -1,0 +1,13 @@
+{
+  "code": "65.145",
+  "fieldcode": "65",
+  "description": "Hunting",
+  "groupcode": "145",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Agriculture. Hunting.",
+  "notes": [
+    {
+      "text": "Including equipment and installations for hunting"
+    }
+  ]
+}

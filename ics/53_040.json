@@ -1,0 +1,8 @@
+{
+  "code": "53.040",
+  "fieldcode": "53",
+  "description": "Continuous handling equipment",
+  "groupcode": "040",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Materials handling equipment. Continuous handling equipment."
+}

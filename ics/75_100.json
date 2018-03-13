@@ -1,0 +1,21 @@
+{
+  "code": "75.100",
+  "fieldcode": "75",
+  "description": "Lubricants, industrial oils and related products",
+  "groupcode": "100",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Petroleum and related technologies. Lubricants, industrial oils and related products.",
+  "notes": [
+    {
+      "text": "Including mineral oils, fluids for metal working and for temporary protection against corrosion"
+    },
+    {
+      "text": "Lubrication systems, see {ics-code}",
+      "ics-code": "75.100"
+    },
+    {
+      "text": "Insulating oils, see {ics-code}",
+      "ics-code": "75.100"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "53.020.20",
+  "fieldcode": "53",
+  "description": "Cranes",
+  "groupcode": "020",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Materials handling equipment. Lifting equipment. Cranes.",
+  "notes": [
+    {
+      "text": "Including mobile cranes, tower cranes, jib cranes, bridge cranes, etc."
+    }
+  ]
+}

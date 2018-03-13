@@ -1,0 +1,9 @@
+{
+  "code": "79.120.20",
+  "fieldcode": "79",
+  "description": "Woodworking tools",
+  "groupcode": "120",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Wood technology. Woodworking equipment. Woodworking tools."
+}

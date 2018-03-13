@@ -1,0 +1,9 @@
+{
+  "code": "13.220.50",
+  "fieldcode": "13",
+  "description": "Fire-resistance of building materials and elements",
+  "groupcode": "220",
+  "subgroupcode": "50",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Protection against fire. Fire-resistance of building materials and elements."
+}

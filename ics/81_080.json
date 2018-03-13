@@ -1,0 +1,13 @@
+{
+  "code": "81.080",
+  "fieldcode": "81",
+  "description": "Refractories",
+  "groupcode": "080",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Glass and ceramics industries. Refractories.",
+  "notes": [
+    {
+      "text": "Including ceramic refractories"
+    }
+  ]
+}

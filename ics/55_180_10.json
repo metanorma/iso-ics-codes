@@ -1,0 +1,9 @@
+{
+  "code": "55.180.10",
+  "fieldcode": "55",
+  "description": "General purpose containers",
+  "groupcode": "180",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Packaging and distribution of goods. Freight distribution of goods. General purpose containers."
+}

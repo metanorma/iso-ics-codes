@@ -1,0 +1,9 @@
+{
+  "code": "25.220.99",
+  "fieldcode": "25",
+  "description": "Other treatments and coatings",
+  "groupcode": "220",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Surface treatment and coating. Other treatments and coatings."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "85.080.20",
+  "fieldcode": "85",
+  "description": "Tissue paper",
+  "groupcode": "080",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Paper technology. Paper products. Tissue paper."
+}

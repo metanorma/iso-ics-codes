@@ -1,0 +1,9 @@
+{
+  "code": "35.240.95",
+  "fieldcode": "35",
+  "description": "Internet applications",
+  "groupcode": "240",
+  "subgroupcode": "95",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Applications of information technology. Internet applications."
+}

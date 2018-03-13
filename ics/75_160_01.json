@@ -1,0 +1,9 @@
+{
+  "code": "75.160.01",
+  "fieldcode": "75",
+  "description": "Fuels in general",
+  "groupcode": "160",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Petroleum and related technologies. Fuels. Fuels in general."
+}

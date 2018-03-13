@@ -1,0 +1,9 @@
+{
+  "code": "43.040.99",
+  "fieldcode": "43",
+  "description": "Other road vehicle systems",
+  "groupcode": "040",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Road vehicles engineering. Road vehicle systems. Other road vehicle systems."
+}

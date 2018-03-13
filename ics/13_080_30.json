@@ -1,0 +1,9 @@
+{
+  "code": "13.080.30",
+  "fieldcode": "13",
+  "description": "Biological properties of soils",
+  "groupcode": "080",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Soil quality. Pedology. Biological properties of soils."
+}

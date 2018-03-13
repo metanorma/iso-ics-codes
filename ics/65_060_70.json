@@ -1,0 +1,14 @@
+{
+  "code": "65.060.70",
+  "fieldcode": "65",
+  "description": "Horticultural equipment",
+  "groupcode": "060",
+  "subgroupcode": "70",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Agriculture. Agricultural machines, implements and equipment. Horticultural equipment.",
+  "notes": [
+    {
+      "text": "Including lawnmowers, equipment for olive cultivation and olive production"
+    }
+  ]
+}

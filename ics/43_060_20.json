@@ -1,0 +1,9 @@
+{
+  "code": "43.060.20",
+  "fieldcode": "43",
+  "description": "Pressure charging and air/exhaust gas ducting systems",
+  "groupcode": "060",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Road vehicles engineering. Internal combustion engines for road vehicles. Pressure charging and air/exhaust gas ducting systems."
+}

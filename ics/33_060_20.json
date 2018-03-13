@@ -1,0 +1,9 @@
+{
+  "code": "33.060.20",
+  "fieldcode": "33",
+  "description": "Receiving and transmitting equipment",
+  "groupcode": "060",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Radiocommunications. Receiving and transmitting equipment."
+}

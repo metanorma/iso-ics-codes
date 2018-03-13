@@ -1,0 +1,13 @@
+{
+  "code": "01.020",
+  "fieldcode": "01",
+  "description": "Terminology (principles and coordination)",
+  "groupcode": "020",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Terminology (principles and coordination).",
+  "notes": [
+    {
+      "text": "Including terminography"
+    }
+  ]
+}

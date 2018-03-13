@@ -1,0 +1,9 @@
+{
+  "code": "25.040.99",
+  "fieldcode": "25",
+  "description": "Other industrial automation systems",
+  "groupcode": "040",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Industrial automation systems. Other industrial automation systems."
+}

@@ -1,0 +1,8 @@
+{
+  "code": "11.080",
+  "fieldcode": "11",
+  "description": "Sterilization and disinfection",
+  "groupcode": "080",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Health care technology. Sterilization and disinfection."
+}

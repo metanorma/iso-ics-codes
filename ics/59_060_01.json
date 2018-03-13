@@ -1,0 +1,14 @@
+{
+  "code": "59.060.01",
+  "fieldcode": "59",
+  "description": "Textile fibres in general",
+  "groupcode": "060",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Textile and leather technology. Textile fibres. Textile fibres in general.",
+  "notes": [
+    {
+      "text": "Including mixtures of fibres"
+    }
+  ]
+}

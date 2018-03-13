@@ -1,0 +1,9 @@
+{
+  "code": "17.040.01",
+  "fieldcode": "17",
+  "description": "Linear and angular measurements in general",
+  "groupcode": "040",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metrology and measurement. Physical phenomena. Linear and angular measurements. Linear and angular measurements in general."
+}

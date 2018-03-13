@@ -1,0 +1,9 @@
+{
+  "code": "23.040.70",
+  "fieldcode": "23",
+  "description": "Hoses and hose assemblies",
+  "groupcode": "040",
+  "subgroupcode": "70",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Pipeline components and pipelines. Hoses and hose assemblies."
+}

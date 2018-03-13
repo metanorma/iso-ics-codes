@@ -1,0 +1,9 @@
+{
+  "code": "31.060.10",
+  "fieldcode": "31",
+  "description": "Fixed capacitors",
+  "groupcode": "060",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electronics. Capacitors. Fixed capacitors."
+}

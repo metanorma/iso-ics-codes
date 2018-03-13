@@ -1,0 +1,9 @@
+{
+  "code": "65.020.01",
+  "fieldcode": "65",
+  "description": "Farming and forestry in general",
+  "groupcode": "020",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Agriculture. Farming and forestry. Farming and forestry in general."
+}

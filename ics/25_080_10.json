@@ -1,0 +1,9 @@
+{
+  "code": "25.080.10",
+  "fieldcode": "25",
+  "description": "Lathes",
+  "groupcode": "080",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Machine tools. Lathes."
+}

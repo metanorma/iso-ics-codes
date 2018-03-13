@@ -1,0 +1,9 @@
+{
+  "code": "01.100.27",
+  "fieldcode": "01",
+  "description": "Technical drawings for telecommunications and information technology fields",
+  "groupcode": "100",
+  "subgroupcode": "27",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Technical drawings. Technical drawings for telecommunications and information technology fields."
+}

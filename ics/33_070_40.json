@@ -1,0 +1,14 @@
+{
+  "code": "33.070.40",
+  "fieldcode": "33",
+  "description": "Satellite",
+  "groupcode": "070",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Mobile services. Satellite.",
+  "notes": [
+    {
+      "text": "Including Global Positioning System (GPS)"
+    }
+  ]
+}

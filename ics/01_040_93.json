@@ -1,0 +1,9 @@
+{
+  "code": "01.040.93",
+  "fieldcode": "01",
+  "description": "Civil engineering (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "93",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Civil engineering (Vocabularies)."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "77.120.10",
+  "fieldcode": "77",
+  "description": "Aluminium and aluminium alloys",
+  "groupcode": "120",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metallurgy. Non-ferrous metals. Aluminium and aluminium alloys."
+}

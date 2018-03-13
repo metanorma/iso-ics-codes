@@ -1,0 +1,9 @@
+{
+  "code": "13.040.40",
+  "fieldcode": "13",
+  "description": "Stationary source emissions",
+  "groupcode": "040",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Air quality. Stationary source emissions."
+}

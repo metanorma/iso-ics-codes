@@ -1,0 +1,15 @@
+{
+  "code": "07.100.20",
+  "fieldcode": "07",
+  "description": "Microbiology of water",
+  "groupcode": "100",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Natural and applied sciences. Microbiology. Microbiology of water.",
+  "notes": [
+    {
+      "text": "Examination of biological properties of water, see {ics-code}",
+      "ics-code": "07.100.20"
+    }
+  ]
+}

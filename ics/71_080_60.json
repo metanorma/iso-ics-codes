@@ -1,0 +1,9 @@
+{
+  "code": "71.080.60",
+  "fieldcode": "71",
+  "description": "Alcohols. Ethers",
+  "groupcode": "080",
+  "subgroupcode": "60",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Organic chemicals. Alcohols. Ethers."
+}

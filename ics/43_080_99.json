@@ -1,0 +1,9 @@
+{
+  "code": "43.080.99",
+  "fieldcode": "43",
+  "description": "Other commercial vehicles",
+  "groupcode": "080",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Road vehicles engineering. Commercial vehicles. Other commercial vehicles."
+}

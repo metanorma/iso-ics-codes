@@ -1,0 +1,14 @@
+{
+  "code": "17.140.30",
+  "fieldcode": "17",
+  "description": "Noise emitted by means of transport",
+  "groupcode": "140",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metrology and measurement. Physical phenomena. Acoustics and acoustic measurements. Noise emitted by means of transport.",
+  "notes": [
+    {
+      "text": "Including road noise, railway noise, harbour noise and airport noise"
+    }
+  ]
+}

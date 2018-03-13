@@ -1,0 +1,14 @@
+{
+  "code": "97.220.20",
+  "fieldcode": "97",
+  "description": "Winter sports equipment",
+  "groupcode": "220",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Sports equipment and facilities. Winter sports equipment.",
+  "notes": [
+    {
+      "text": "Including ice hockey, snowboard, and ski equipment"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "11.120.01",
+  "fieldcode": "11",
+  "description": "Pharmaceutics in general",
+  "groupcode": "120",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Pharmaceutics. Pharmaceutics in general."
+}

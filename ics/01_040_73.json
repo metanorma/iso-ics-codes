@@ -1,0 +1,9 @@
+{
+  "code": "01.040.73",
+  "fieldcode": "01",
+  "description": "Mining and minerals (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "73",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Mining and minerals (Vocabularies)."
+}

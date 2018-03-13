@@ -1,0 +1,9 @@
+{
+  "code": "25.080.01",
+  "fieldcode": "25",
+  "description": "Machine tools in general",
+  "groupcode": "080",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Machine tools. Machine tools in general."
+}

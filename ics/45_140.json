@@ -1,0 +1,8 @@
+{
+  "code": "45.140",
+  "fieldcode": "45",
+  "description": "Metro, tram and light rail equipment",
+  "groupcode": "140",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Railway engineering. Metro, tram and light rail equipment."
+}

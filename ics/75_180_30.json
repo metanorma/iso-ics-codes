@@ -1,0 +1,9 @@
+{
+  "code": "75.180.30",
+  "fieldcode": "75",
+  "description": "Volumetric equipment and measurements",
+  "groupcode": "180",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Petroleum and related technologies. Equipment for petroleum and natural gas industries. Volumetric equipment and measurements."
+}

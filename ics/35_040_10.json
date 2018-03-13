@@ -1,0 +1,9 @@
+{
+  "code": "35.040.10",
+  "fieldcode": "35",
+  "description": "Coding of character sets",
+  "groupcode": "040",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Information coding. Coding of character sets."
+}

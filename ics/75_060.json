@@ -1,0 +1,8 @@
+{
+  "code": "75.060",
+  "fieldcode": "75",
+  "description": "Natural gas",
+  "groupcode": "060",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Petroleum and related technologies. Natural gas."
+}

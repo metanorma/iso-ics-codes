@@ -1,0 +1,9 @@
+{
+  "code": "31.080.20",
+  "fieldcode": "31",
+  "description": "Thyristors",
+  "groupcode": "080",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electronics. Semiconductor devices. Thyristors."
+}

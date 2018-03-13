@@ -1,0 +1,9 @@
+{
+  "code": "35.040.99",
+  "fieldcode": "35",
+  "description": "Other standards related to information coding",
+  "groupcode": "040",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Information coding. Other standards related to information coding."
+}

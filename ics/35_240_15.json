@@ -1,0 +1,14 @@
+{
+  "code": "35.240.15",
+  "fieldcode": "35",
+  "description": "Identification cards. Chip cards. Biometrics",
+  "groupcode": "240",
+  "subgroupcode": "15",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Applications of information technology. Identification cards. Chip cards. Biometrics.",
+  "notes": [
+    {
+      "text": "Including application of cards for banking, trade, telecommunications, transport, etc."
+    }
+  ]
+}

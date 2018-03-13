@@ -1,0 +1,13 @@
+{
+  "code": "01.120",
+  "fieldcode": "01",
+  "description": "Standardization. General rules",
+  "groupcode": "120",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Standardization. General rules.",
+  "notes": [
+    {
+      "text": "Including rules for the preparation of standards catalogues and management of technical documents"
+    }
+  ]
+}

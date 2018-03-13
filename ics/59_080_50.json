@@ -1,0 +1,22 @@
+{
+  "code": "59.080.50",
+  "fieldcode": "59",
+  "description": "Ropes",
+  "groupcode": "080",
+  "subgroupcode": "50",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Textile and leather technology. Products of the textile industry. Ropes.",
+  "notes": [
+    {
+      "text": "Including strings, straps, bands"
+    },
+    {
+      "text": "Accessories for lifting equipment, see {ics-code}",
+      "ics-code": "59.080.50"
+    },
+    {
+      "text": "Steel wire, wire ropes and link chains, see {ics-code}",
+      "ics-code": "59.080.50"
+    }
+  ]
+}

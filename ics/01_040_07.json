@@ -1,0 +1,9 @@
+{
+  "code": "01.040.07",
+  "fieldcode": "01",
+  "description": "Natural and applied sciences (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "07",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Natural and applied sciences (Vocabularies)."
+}

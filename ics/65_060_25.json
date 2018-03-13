@@ -1,0 +1,9 @@
+{
+  "code": "65.060.25",
+  "fieldcode": "65",
+  "description": "Equipment for storage, preparation and distribution of fertilizers",
+  "groupcode": "060",
+  "subgroupcode": "25",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Agriculture. Agricultural machines, implements and equipment. Equipment for storage, preparation and distribution of fertilizers."
+}

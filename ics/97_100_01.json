@@ -1,0 +1,9 @@
+{
+  "code": "97.100.01",
+  "fieldcode": "97",
+  "description": "Heating appliances in general",
+  "groupcode": "100",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Domestic, commercial and industrial heating appliances. Heating appliances in general."
+}

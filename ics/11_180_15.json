@@ -1,0 +1,9 @@
+{
+  "code": "11.180.15",
+  "fieldcode": "11",
+  "description": "Aids for deaf and hearing impaired people",
+  "groupcode": "180",
+  "subgroupcode": "15",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Aids for disabled or handicapped persons. Aids for deaf and hearing impaired people."
+}

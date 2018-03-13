@@ -1,0 +1,9 @@
+{
+  "code": "43.040.10",
+  "fieldcode": "43",
+  "description": "Electrical and electronic equipment",
+  "groupcode": "040",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Road vehicles engineering. Road vehicle systems. Electrical and electronic equipment."
+}

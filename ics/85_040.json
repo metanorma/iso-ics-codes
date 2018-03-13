@@ -1,0 +1,8 @@
+{
+  "code": "85.040",
+  "fieldcode": "85",
+  "description": "Pulps",
+  "groupcode": "040",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Paper technology. Pulps."
+}

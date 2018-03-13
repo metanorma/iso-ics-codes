@@ -1,0 +1,9 @@
+{
+  "code": "01.040.19",
+  "fieldcode": "01",
+  "description": "Testing (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "19",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Testing (Vocabularies)."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "97.200.01",
+  "fieldcode": "97",
+  "description": "Equipment for entertainment in general",
+  "groupcode": "200",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Equipment for entertainment. Equipment for entertainment in general."
+}

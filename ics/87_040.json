@@ -1,0 +1,13 @@
+{
+  "code": "87.040",
+  "fieldcode": "87",
+  "description": "Paints and varnishes",
+  "groupcode": "040",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Paint and colour industries. Paints and varnishes.",
+  "notes": [
+    {
+      "text": "Including coating powders, paint coatings and protective paint systems"
+    }
+  ]
+}

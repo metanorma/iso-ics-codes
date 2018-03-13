@@ -1,0 +1,9 @@
+{
+  "code": "01.100.99",
+  "fieldcode": "01",
+  "description": "Other standards related to technical drawings",
+  "groupcode": "100",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Technical drawings. Other standards related to technical drawings."
+}

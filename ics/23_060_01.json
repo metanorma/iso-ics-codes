@@ -1,0 +1,9 @@
+{
+  "code": "23.060.01",
+  "fieldcode": "23",
+  "description": "Valves in general",
+  "groupcode": "060",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Valves. Valves in general."
+}

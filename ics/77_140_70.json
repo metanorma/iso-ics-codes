@@ -1,0 +1,14 @@
+{
+  "code": "77.140.70",
+  "fieldcode": "77",
+  "description": "Steel profiles",
+  "groupcode": "140",
+  "subgroupcode": "70",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metallurgy. Iron and steel products. Steel profiles.",
+  "notes": [
+    {
+      "text": "Including sections"
+    }
+  ]
+}

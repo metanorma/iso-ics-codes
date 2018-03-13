@@ -1,0 +1,9 @@
+{
+  "code": "01.040.21",
+  "fieldcode": "01",
+  "description": "Mechanical systems and components for general use (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "21",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Mechanical systems and components for general use (Vocabularies)."
+}

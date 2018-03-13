@@ -1,0 +1,15 @@
+{
+  "code": "71.100.70",
+  "fieldcode": "71",
+  "description": "Cosmetics. Toiletries",
+  "groupcode": "100",
+  "subgroupcode": "70",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Products of the chemical industry. Cosmetics. Toiletries.",
+  "notes": [
+    {
+      "text": "Cosmetics microbiology, see {ics-code}",
+      "ics-code": "71.100.70"
+    }
+  ]
+}

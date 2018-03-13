@@ -1,0 +1,14 @@
+{
+  "code": "71.040.30",
+  "fieldcode": "71",
+  "description": "Chemical reagents",
+  "groupcode": "040",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Analytical chemistry. Chemical reagents.",
+  "notes": [
+    {
+      "text": "Including reference materials"
+    }
+  ]
+}

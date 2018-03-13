@@ -1,0 +1,9 @@
+{
+  "code": "77.080.20",
+  "fieldcode": "77",
+  "description": "Steels",
+  "groupcode": "080",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Metallurgy. Ferrous metals. Steels."
+}

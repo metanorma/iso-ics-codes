@@ -1,0 +1,13 @@
+{
+  "code": "81.060",
+  "fieldcode": "81",
+  "description": "Ceramics",
+  "groupcode": "060",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Glass and ceramics industries. Ceramics.",
+  "notes": [
+    {
+      "text": "Including glass-ceramics"
+    }
+  ]
+}

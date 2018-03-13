@@ -1,0 +1,14 @@
+{
+  "code": "75.120",
+  "fieldcode": "75",
+  "description": "Hydraulic fluids",
+  "groupcode": "120",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Petroleum and related technologies. Hydraulic fluids.",
+  "notes": [
+    {
+      "text": "Fluid power systems, see {ics-code}",
+      "ics-code": "75.120"
+    }
+  ]
+}

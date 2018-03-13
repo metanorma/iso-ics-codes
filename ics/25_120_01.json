@@ -1,0 +1,9 @@
+{
+  "code": "25.120.01",
+  "fieldcode": "25",
+  "description": "Chipless working equipment in general",
+  "groupcode": "120",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Chipless working equipment. Chipless working equipment in general."
+}

@@ -1,0 +1,13 @@
+{
+  "code": "01.110",
+  "fieldcode": "01",
+  "description": "Technical product documentation",
+  "groupcode": "110",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Technical product documentation.",
+  "notes": [
+    {
+      "text": "Including rules for preparation of user guides, manuals, product specifications, etc."
+    }
+  ]
+}

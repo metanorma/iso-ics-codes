@@ -1,0 +1,14 @@
+{
+  "code": "29.035.20",
+  "fieldcode": "29",
+  "description": "Plastics and rubber insulating materials",
+  "groupcode": "035",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electrical engineering. Insulating materials. Plastics and rubber insulating materials.",
+  "notes": [
+    {
+      "text": "Including adhesive tapes"
+    }
+  ]
+}

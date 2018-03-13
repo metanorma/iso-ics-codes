@@ -1,0 +1,9 @@
+{
+  "code": "65.100.20",
+  "fieldcode": "65",
+  "description": "Herbicides",
+  "groupcode": "100",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Agriculture. Pesticides and other agrochemicals. Herbicides."
+}

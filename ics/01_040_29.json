@@ -1,0 +1,9 @@
+{
+  "code": "01.040.29",
+  "fieldcode": "01",
+  "description": "Electrical engineering (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "29",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Electrical engineering (Vocabularies)."
+}

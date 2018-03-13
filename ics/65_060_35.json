@@ -1,0 +1,9 @@
+{
+  "code": "65.060.35",
+  "fieldcode": "65",
+  "description": "Irrigation and drainage equipment",
+  "groupcode": "060",
+  "subgroupcode": "35",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Agriculture. Agricultural machines, implements and equipment. Irrigation and drainage equipment."
+}

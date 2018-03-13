@@ -1,0 +1,9 @@
+{
+  "code": "33.060.01",
+  "fieldcode": "33",
+  "description": "Radiocommunications in general",
+  "groupcode": "060",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Radiocommunications. Radiocommunications in general."
+}

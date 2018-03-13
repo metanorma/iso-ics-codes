@@ -1,0 +1,9 @@
+{
+  "code": "31.220.20",
+  "fieldcode": "31",
+  "description": "Switches",
+  "groupcode": "220",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electronics. Electromechanical components for electronic and telecommunications equipment. Switches."
+}

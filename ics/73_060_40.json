@@ -1,0 +1,9 @@
+{
+  "code": "73.060.40",
+  "fieldcode": "73",
+  "description": "Aluminium ores",
+  "groupcode": "060",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Mining and minerals. Metalliferous minerals and their concentrates. Aluminium ores."
+}

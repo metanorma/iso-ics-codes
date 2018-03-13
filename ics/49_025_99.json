@@ -1,0 +1,9 @@
+{
+  "code": "49.025.99",
+  "fieldcode": "49",
+  "description": "Other materials",
+  "groupcode": "025",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Aircraft and space vehicle engineering. Materials for aerospace construction. Other materials."
+}

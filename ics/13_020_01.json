@@ -1,0 +1,9 @@
+{
+  "code": "13.020.01",
+  "fieldcode": "13",
+  "description": "Environment and environmental protection in general",
+  "groupcode": "020",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Environmental protection. Environment and environmental protection in general."
+}

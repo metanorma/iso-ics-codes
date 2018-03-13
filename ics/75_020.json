@@ -1,0 +1,8 @@
+{
+  "code": "75.020",
+  "fieldcode": "75",
+  "description": "Extraction and processing of petroleum and natural gas",
+  "groupcode": "020",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Petroleum and related technologies. Extraction and processing of petroleum and natural gas."
+}

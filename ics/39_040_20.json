@@ -1,0 +1,9 @@
+{
+  "code": "39.040.20",
+  "fieldcode": "39",
+  "description": "Clocks",
+  "groupcode": "040",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Precision mechanics. Jewellery. Horology. Clocks."
+}

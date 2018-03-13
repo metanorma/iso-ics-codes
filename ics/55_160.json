@@ -1,0 +1,13 @@
+{
+  "code": "55.160",
+  "fieldcode": "55",
+  "description": "Cases. Boxes. Crates",
+  "groupcode": "160",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Packaging and distribution of goods. Cases. Boxes. Crates.",
+  "notes": [
+    {
+      "text": "Containers for solid goods or objects and bulk materials"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "31.040.10",
+  "fieldcode": "31",
+  "description": "Fixed resistors",
+  "groupcode": "040",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electronics. Resistors. Fixed resistors."
+}

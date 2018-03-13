@@ -1,0 +1,9 @@
+{
+  "code": "91.080.10",
+  "fieldcode": "91",
+  "description": "Metal structures",
+  "groupcode": "080",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Structures of buildings. Metal structures."
+}

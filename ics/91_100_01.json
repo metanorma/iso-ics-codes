@@ -1,0 +1,9 @@
+{
+  "code": "91.100.01",
+  "fieldcode": "91",
+  "description": "Construction materials in general",
+  "groupcode": "100",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Construction materials. Construction materials in general."
+}

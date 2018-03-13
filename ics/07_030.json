@@ -1,0 +1,18 @@
+{
+  "code": "07.030",
+  "fieldcode": "07",
+  "description": "Physics. Chemistry",
+  "groupcode": "030",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Natural and applied sciences. Physics. Chemistry.",
+  "notes": [
+    {
+      "text": "Metrology and measurement. Physical phenomena, see {ics-code}",
+      "ics-code": "07.030"
+    },
+    {
+      "text": "Chemical technology, see {ics-code}",
+      "ics-code": "07.030"
+    }
+  ]
+}

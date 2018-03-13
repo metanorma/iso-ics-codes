@@ -1,0 +1,9 @@
+{
+  "code": "01.040.47",
+  "fieldcode": "01",
+  "description": "Shipbuilding and marine structures (Vocabularies)",
+  "groupcode": "040",
+  "subgroupcode": "47",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Shipbuilding and marine structures (Vocabularies)."
+}

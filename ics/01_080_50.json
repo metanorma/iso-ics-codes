@@ -1,0 +1,9 @@
+{
+  "code": "01.080.50",
+  "fieldcode": "01",
+  "description": "Graphical symbols for use on information technology and telecommunications technical drawings and in relevant technical product documentation",
+  "groupcode": "080",
+  "subgroupcode": "50",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Graphical symbols. Graphical symbols for use on information technology and telecommunications technical drawings and in relevant technical product documentation."
+}

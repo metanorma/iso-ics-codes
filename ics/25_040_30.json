@@ -1,0 +1,9 @@
+{
+  "code": "25.040.30",
+  "fieldcode": "25",
+  "description": "Industrial robots. Manipulators",
+  "groupcode": "040",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Industrial automation systems. Industrial robots. Manipulators."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "29.040.01",
+  "fieldcode": "29",
+  "description": "Insulating fluids in general",
+  "groupcode": "040",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electrical engineering. Insulating fluids. Insulating fluids in general."
+}

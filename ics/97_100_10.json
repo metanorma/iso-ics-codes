@@ -1,0 +1,9 @@
+{
+  "code": "97.100.10",
+  "fieldcode": "97",
+  "description": "Electric heaters",
+  "groupcode": "100",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Domestic, commercial and industrial heating appliances. Electric heaters."
+}

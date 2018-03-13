@@ -1,0 +1,9 @@
+{
+  "code": "39.040.99",
+  "fieldcode": "39",
+  "description": "Other time-measuring instruments",
+  "groupcode": "040",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Precision mechanics. Jewellery. Horology. Other time-measuring instruments."
+}

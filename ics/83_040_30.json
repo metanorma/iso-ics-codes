@@ -1,0 +1,14 @@
+{
+  "code": "83.040.30",
+  "fieldcode": "83",
+  "description": "Auxiliary materials and additives for plastics",
+  "groupcode": "040",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Rubber and plastic industries. Raw materials for rubber and plastics. Auxiliary materials and additives for plastics.",
+  "notes": [
+    {
+      "text": "Including fillers, extenders, hardeners, pigments, plasticizers, etc."
+    }
+  ]
+}

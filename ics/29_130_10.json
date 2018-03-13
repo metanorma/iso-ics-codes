@@ -1,0 +1,14 @@
+{
+  "code": "29.130.10",
+  "fieldcode": "29",
+  "description": "High voltage switchgear and controlgear",
+  "groupcode": "130",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electrical engineering. Switchgear and controlgear. High voltage switchgear and controlgear.",
+  "notes": [
+    {
+      "text": "Including enclosed switchgear and controlgear"
+    }
+  ]
+}

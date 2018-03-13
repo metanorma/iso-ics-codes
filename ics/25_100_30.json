@@ -1,0 +1,9 @@
+{
+  "code": "25.100.30",
+  "fieldcode": "25",
+  "description": "Drills, countersinks, reamers",
+  "groupcode": "100",
+  "subgroupcode": "30",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Manufacturing engineering. Cutting tools. Drills, countersinks, reamers."
+}

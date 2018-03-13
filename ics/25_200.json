@@ -1,0 +1,8 @@
+{
+  "code": "25.200",
+  "fieldcode": "25",
+  "description": "Heat treatment",
+  "groupcode": "200",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Manufacturing engineering. Heat treatment."
+}

@@ -1,0 +1,14 @@
+{
+  "code": "53.020.99",
+  "fieldcode": "53",
+  "description": "Other lifting equipment",
+  "groupcode": "020",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Materials handling equipment. Lifting equipment. Other lifting equipment.",
+  "notes": [
+    {
+      "text": "Including elevating work platforms"
+    }
+  ]
+}

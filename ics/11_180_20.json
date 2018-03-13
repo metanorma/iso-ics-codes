@@ -1,0 +1,9 @@
+{
+  "code": "11.180.20",
+  "fieldcode": "11",
+  "description": "Aids for incontinence and ostomy",
+  "groupcode": "180",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Aids for disabled or handicapped persons. Aids for incontinence and ostomy."
+}

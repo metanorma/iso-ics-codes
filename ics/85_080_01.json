@@ -1,0 +1,9 @@
+{
+  "code": "85.080.01",
+  "fieldcode": "85",
+  "description": "Paper products in general",
+  "groupcode": "080",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Paper technology. Paper products. Paper products in general."
+}

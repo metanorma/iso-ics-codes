@@ -1,0 +1,17 @@
+{
+  "code": "39.060",
+  "fieldcode": "39",
+  "description": "Jewellery",
+  "groupcode": "060",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Precision mechanics. Jewellery. Jewellery.",
+  "notes": [
+    {
+      "text": "Including precious metals, precious and semi-precious stones"
+    },
+    {
+      "text": "Cutting tools, see {ics-code}",
+      "ics-code": "39.060"
+    }
+  ]
+}

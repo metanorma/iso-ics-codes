@@ -1,0 +1,8 @@
+{
+  "code": "07.140",
+  "fieldcode": "07",
+  "description": "Forensic science",
+  "groupcode": "140",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Natural and applied sciences. Forensic science."
+}

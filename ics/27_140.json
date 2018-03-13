@@ -1,0 +1,13 @@
+{
+  "code": "27.140",
+  "fieldcode": "27",
+  "description": "Hydraulic energy engineering",
+  "groupcode": "140",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Energy and heat transfer engineering. Hydraulic energy engineering.",
+  "notes": [
+    {
+      "text": "Including hydraulic turbines"
+    }
+  ]
+}

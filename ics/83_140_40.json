@@ -1,0 +1,15 @@
+{
+  "code": "83.140.40",
+  "fieldcode": "83",
+  "description": "Hoses",
+  "groupcode": "140",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Rubber and plastic industries. Rubber and plastics products. Hoses.",
+  "notes": [
+    {
+      "text": "Hoses and hose assemblies, see {ics-code}",
+      "ics-code": "83.140.40"
+    }
+  ]
+}

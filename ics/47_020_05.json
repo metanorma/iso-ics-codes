@@ -1,0 +1,9 @@
+{
+  "code": "47.020.05",
+  "fieldcode": "47",
+  "description": "Materials and components for shipbuilding",
+  "groupcode": "020",
+  "subgroupcode": "05",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Shipbuilding and marine structures. Shipbuilding and marine structures in general. Materials and components for shipbuilding."
+}

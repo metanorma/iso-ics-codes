@@ -1,0 +1,14 @@
+{
+  "code": "29.140.50",
+  "fieldcode": "29",
+  "description": "Lighting installation systems",
+  "groupcode": "140",
+  "subgroupcode": "50",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electrical engineering. Lamps and related equipment. Lighting installation systems.",
+  "notes": [
+    {
+      "text": "Including supply track systems"
+    }
+  ]
+}

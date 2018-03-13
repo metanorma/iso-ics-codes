@@ -1,0 +1,14 @@
+{
+  "code": "93.160",
+  "fieldcode": "93",
+  "description": "Hydraulic construction",
+  "groupcode": "160",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Civil engineering. Hydraulic construction.",
+  "notes": [
+    {
+      "text": "Hydraulic energy engineering, see {ics-code}",
+      "ics-code": ""
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "33.040.35",
+  "fieldcode": "33",
+  "description": "Telephone networks",
+  "groupcode": "040",
+  "subgroupcode": "35",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Telecommunication systems. Telephone networks.",
+  "notes": [
+    {
+      "text": "Including Public Switched Telephone Networks (PSTN), Private Telecommunication Networks (PTN) and Private Integrated Service Networks (PISN)"
+    }
+  ]
+}

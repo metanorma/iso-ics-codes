@@ -1,0 +1,9 @@
+{
+  "code": "71.100.80",
+  "fieldcode": "71",
+  "description": "Chemicals for purification of water",
+  "groupcode": "100",
+  "subgroupcode": "80",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Products of the chemical industry. Chemicals for purification of water."
+}

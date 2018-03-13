@@ -1,0 +1,9 @@
+{
+  "code": "75.180.20",
+  "fieldcode": "75",
+  "description": "Processing equipment",
+  "groupcode": "180",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Petroleum and related technologies. Equipment for petroleum and natural gas industries. Processing equipment."
+}

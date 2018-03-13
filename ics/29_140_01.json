@@ -1,0 +1,9 @@
+{
+  "code": "29.140.01",
+  "fieldcode": "29",
+  "description": "Lamps in general",
+  "groupcode": "140",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Electrical engineering. Lamps and related equipment. Lamps in general."
+}

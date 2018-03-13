@@ -1,0 +1,8 @@
+{
+  "code": "55.020",
+  "fieldcode": "55",
+  "description": "Packaging and distribution of goods in general",
+  "groupcode": "020",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Packaging and distribution of goods. Packaging and distribution of goods in general."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "35.100.60",
+  "fieldcode": "35",
+  "description": "Presentation layer",
+  "groupcode": "100",
+  "subgroupcode": "60",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Information technology. Open systems interconnection (OSI). Presentation layer."
+}

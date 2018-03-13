@@ -1,0 +1,8 @@
+{
+  "code": "67.040",
+  "fieldcode": "67",
+  "description": "Food products in general",
+  "groupcode": "040",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Food technology. Food products in general."
+}

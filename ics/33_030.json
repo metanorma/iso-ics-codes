@@ -1,0 +1,13 @@
+{
+  "code": "33.030",
+  "fieldcode": "33",
+  "description": "Telecommunication services. Applications",
+  "groupcode": "030",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Telecommunication services. Applications.",
+  "notes": [
+    {
+      "text": "Including supplementary services, service aspects and associated legal traceability aspects"
+    }
+  ]
+}

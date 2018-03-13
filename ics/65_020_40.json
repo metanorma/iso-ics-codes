@@ -1,0 +1,9 @@
+{
+  "code": "65.020.40",
+  "fieldcode": "65",
+  "description": "Landscaping and silviculture",
+  "groupcode": "020",
+  "subgroupcode": "40",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Agriculture. Farming and forestry. Landscaping and silviculture."
+}

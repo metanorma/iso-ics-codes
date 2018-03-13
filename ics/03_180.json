@@ -1,0 +1,14 @@
+{
+  "code": "03.180",
+  "fieldcode": "03",
+  "description": "Education",
+  "groupcode": "180",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Education.",
+  "notes": [
+    {
+      "text": "IT applications in other fields, see {ics-code}",
+      "ics-code": "03.180"
+    }
+  ]
+}

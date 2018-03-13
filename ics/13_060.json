@@ -1,0 +1,13 @@
+{
+  "code": "13.060",
+  "fieldcode": "13",
+  "description": "Water quality",
+  "groupcode": "060",
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "descriptionFull": "Environment. Health protection. Safety. Water quality.",
+  "notes": [
+    {
+      "text": "Including toxicity, biodegradability, protection against pollution, related installations and equipment"
+    }
+  ]
+}

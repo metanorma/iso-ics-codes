@@ -1,0 +1,9 @@
+{
+  "code": "67.160.01",
+  "fieldcode": "67",
+  "description": "Beverages in general",
+  "groupcode": "160",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Food technology. Beverages. Beverages in general."
+}

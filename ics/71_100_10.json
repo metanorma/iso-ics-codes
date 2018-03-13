@@ -1,0 +1,9 @@
+{
+  "code": "71.100.10",
+  "fieldcode": "71",
+  "description": "Materials for aluminium production",
+  "groupcode": "100",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Chemical technology. Products of the chemical industry. Materials for aluminium production."
+}

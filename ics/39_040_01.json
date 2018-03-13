@@ -1,0 +1,9 @@
+{
+  "code": "39.040.01",
+  "fieldcode": "39",
+  "description": "Horology in general",
+  "groupcode": "040",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Precision mechanics. Jewellery. Horology. Horology in general."
+}

@@ -1,0 +1,14 @@
+{
+  "code": "11.020.10",
+  "fieldcode": "11",
+  "description": "Health care services in general",
+  "groupcode": "020",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Health care technology. Medical sciences and health care facilities in general. Health care services in general.",
+  "notes": [
+    {
+      "text": "Including care homes, dementia care, assisted living, aesthetic surgery, chiropractic services, etc."
+    }
+  ]
+}

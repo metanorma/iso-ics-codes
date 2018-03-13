@@ -1,0 +1,9 @@
+{
+  "code": "23.020.35",
+  "fieldcode": "23",
+  "description": "Gas cylinders",
+  "groupcode": "020",
+  "subgroupcode": "35",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Fluid storage devices. Gas cylinders."
+}

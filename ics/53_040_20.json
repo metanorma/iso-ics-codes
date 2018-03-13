@@ -1,0 +1,14 @@
+{
+  "code": "53.040.20",
+  "fieldcode": "53",
+  "description": "Components for conveyors",
+  "groupcode": "040",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Materials handling equipment. Continuous handling equipment. Components for conveyors.",
+  "notes": [
+    {
+      "text": "Including conveyor belts, chains, chain wheels, etc."
+    }
+  ]
+}

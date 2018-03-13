@@ -1,0 +1,9 @@
+{
+  "code": "23.020.99",
+  "fieldcode": "23",
+  "description": "Other fluid storage devices",
+  "groupcode": "020",
+  "subgroupcode": "99",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Fluid systems and components for general use. Fluid storage devices. Other fluid storage devices."
+}

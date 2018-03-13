@@ -1,0 +1,9 @@
+{
+  "code": "75.180.01",
+  "fieldcode": "75",
+  "description": "Equipment for petroleum and natural gas industries in general",
+  "groupcode": "180",
+  "subgroupcode": "01",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Petroleum and related technologies. Equipment for petroleum and natural gas industries. Equipment for petroleum and natural gas industries in general."
+}

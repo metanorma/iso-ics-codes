@@ -1,0 +1,14 @@
+{
+  "code": "91.010.20",
+  "fieldcode": "91",
+  "description": "Contractual aspects",
+  "groupcode": "010",
+  "subgroupcode": "20",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Construction industry. Contractual aspects.",
+  "notes": [
+    {
+      "text": "Including construction procurement"
+    }
+  ]
+}

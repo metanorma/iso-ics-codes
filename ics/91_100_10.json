@@ -1,0 +1,9 @@
+{
+  "code": "91.100.10",
+  "fieldcode": "91",
+  "description": "Cement. Gypsum. Lime. Mortar",
+  "groupcode": "100",
+  "subgroupcode": "10",
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "descriptionFull": "Construction materials and building. Construction materials. Cement. Gypsum. Lime. Mortar."
+}
