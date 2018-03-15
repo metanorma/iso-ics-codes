@@ -12,15 +12,15 @@
     },
     {
       "text": "Protection against crime, see {ics-code}",
-      "ics-code": "03.100.01"
+      "ics-code": "13.310"
     },
     {
       "text": "Management systems, see {ics-code}",
-      "ics-code": "03.100.01"
+      "ics-code": "03.100.70"
     },
     {
       "text": "Services for companies, see {ics-code}",
-      "ics-code": "03.100.01"
+      "ics-code": "03.080.20"
     }
   ]
 }

@@ -9,15 +9,15 @@
   "notes": [
     {
       "text": "Non-alcoholic beverages, see {ics-code}",
-      "ics-code": "13.060.20"
+      "ics-code": "67.160.20"
     },
     {
       "text": "Chemicals for purification of water, see {ics-code}",
-      "ics-code": "13.060.20"
+      "ics-code": "71.100.80"
     },
     {
       "text": "Water supply systems, see {ics-code}",
-      "ics-code": "13.060.20"
+      "ics-code": "91.140.60"
     }
   ]
 }

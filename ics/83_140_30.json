@@ -9,15 +9,15 @@
   "notes": [
     {
       "text": "Plastics pipes, see {ics-code}",
-      "ics-code": "83.140.30"
+      "ics-code": "23.040.20"
     },
     {
       "text": "Plastics fittings, see {ics-code}",
-      "ics-code": "83.140.30"
+      "ics-code": "23.040.45"
     },
     {
       "text": "Valves, see {ics-code}",
-      "ics-code": "83.140.30"
+      "ics-code": "23.060"
     }
   ]
 }

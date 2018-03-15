@@ -8,11 +8,11 @@
   "notes": [
     {
       "text": "Protection against crime, see {ics-code}",
-      "ics-code": "13.320"
+      "ics-code": "13.310"
     },
     {
       "text": "Lighting, signalling and warning devices, see {ics-code}",
-      "ics-code": "13.320"
+      "ics-code": "43.040.20"
     }
   ]
 }

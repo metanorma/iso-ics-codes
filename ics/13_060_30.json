@@ -12,15 +12,15 @@
     },
     {
       "text": "Liquid wastes. Sludge, see {ics-code}",
-      "ics-code": "13.060.30"
+      "ics-code": "13.030.20"
     },
     {
       "text": "Drainage systems, see {ics-code}",
-      "ics-code": "13.060.30"
+      "ics-code": "91.140.80"
     },
     {
       "text": "External sewage systems, see {ics-code}",
-      "ics-code": "13.060.30"
+      "ics-code": "93.030"
     }
   ]
 }

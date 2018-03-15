@@ -11,19 +11,19 @@
     },
     {
       "text": "Nuclear power plants. Safety, see {ics-code}",
-      "ics-code": "27.100"
+      "ics-code": "27.120.20"
     },
     {
       "text": "Hydraulic energy engineering, see {ics-code}",
-      "ics-code": "27.100"
+      "ics-code": "27.140"
     },
     {
       "text": "Solar energy engineering, see {ics-code}",
-      "ics-code": "27.100"
+      "ics-code": "27.160"
     },
     {
       "text": "Wind turbine energy systems, see {ics-code}",
-      "ics-code": "27.100"
+      "ics-code": "27.180"
     }
   ]
 }

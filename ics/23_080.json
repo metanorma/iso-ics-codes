@@ -8,11 +8,11 @@
   "notes": [
     {
       "text": "Pumps and motors, see {ics-code}",
-      "ics-code": "23.080"
+      "ics-code": "23.100.10"
     },
     {
       "text": "Vacuum technology, see {ics-code}",
-      "ics-code": "23.080"
+      "ics-code": "23.160"
     }
   ]
 }

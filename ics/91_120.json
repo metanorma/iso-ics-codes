@@ -8,19 +8,19 @@
   "notes": [
     {
       "text": "Accident and disaster control, see {ics-code}",
-      "ics-code": "91.120"
+      "ics-code": "13.200"
     },
     {
       "text": "Fire protection, see {ics-code}",
-      "ics-code": "91.120"
+      "ics-code": "13.220.20"
     },
     {
       "text": "Fire-resistance of building materials and elements, see {ics-code}",
-      "ics-code": "91.120"
+      "ics-code": "13.220.50"
     },
     {
       "text": "Alarm and warning systems, see {ics-code}",
-      "ics-code": "91.120"
+      "ics-code": "13.320"
     }
   ]
 }

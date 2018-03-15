@@ -12,23 +12,23 @@
     },
     {
       "text": "Ophthalmic equipment, see {ics-code}",
-      "ics-code": "17.180.30"
+      "ics-code": "11.040.70"
     },
     {
       "text": "Optoelectronics. Laser equipment, see {ics-code}",
-      "ics-code": "17.180.30"
+      "ics-code": "31.260"
     },
     {
       "text": "Fibre optic communications, see {ics-code}",
-      "ics-code": "17.180.30"
+      "ics-code": "33.180"
     },
     {
       "text": "Optical equipment, see {ics-code}",
-      "ics-code": "17.180.30"
+      "ics-code": "37.020"
     },
     {
       "text": "Photographic equipment. Projectors, see {ics-code}",
-      "ics-code": "17.180.30"
+      "ics-code": "37.040.10"
     }
   ]
 }

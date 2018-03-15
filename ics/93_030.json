@@ -8,15 +8,15 @@
   "notes": [
     {
       "text": "Sewage water, see {ics-code}",
-      "ics-code": "93.030"
+      "ics-code": "13.060.30"
     },
     {
       "text": "Pipelines and its parts for external sewage systems, see {ics-code}",
-      "ics-code": "93.030"
+      "ics-code": "23.040.05"
     },
     {
       "text": "Drainage systems, see {ics-code}",
-      "ics-code": "93.030"
+      "ics-code": "91.140.80"
     }
   ]
 }

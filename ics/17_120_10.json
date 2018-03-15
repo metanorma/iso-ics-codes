@@ -9,11 +9,11 @@
   "notes": [
     {
       "text": "Gas supply systems, see {ics-code}",
-      "ics-code": "17.120.10"
+      "ics-code": "91.140.40"
     },
     {
       "text": "Water supply systems, see {ics-code}",
-      "ics-code": "17.120.10"
+      "ics-code": "91.140.60"
     }
   ]
 }

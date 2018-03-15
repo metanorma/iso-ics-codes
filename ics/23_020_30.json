@@ -9,11 +9,11 @@
   "notes": [
     {
       "text": "Boilers and heat exchangers, see {ics-code}",
-      "ics-code": "23.020.30"
+      "ics-code": "27.060.30"
     },
     {
       "text": "Steels for pressure purposes, see {ics-code}",
-      "ics-code": "23.020.30"
+      "ics-code": "77.140.30"
     }
   ]
 }

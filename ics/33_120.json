@@ -8,11 +8,11 @@
   "notes": [
     {
       "text": "Plug-and-socket devices. Connectors, see {ics-code}",
-      "ics-code": "33.120"
+      "ics-code": "31.220.10"
     },
     {
       "text": "Switches, see {ics-code}",
-      "ics-code": "33.120"
+      "ics-code": "31.220.20"
     }
   ]
 }

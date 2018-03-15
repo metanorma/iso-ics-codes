@@ -8,11 +8,11 @@
   "notes": [
     {
       "text": "Graphical symbols for use on mechanical engineering and construction drawings, diagrams, plans, maps and in relevant technical product documentation, see {ics-code}",
-      "ics-code": "01.100"
+      "ics-code": "01.080.30"
     },
     {
       "text": "Computer-aided design (CAD), see {ics-code}",
-      "ics-code": "01.100"
+      "ics-code": "35.240.10"
     }
   ]
 }

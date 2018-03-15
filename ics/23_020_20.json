@@ -9,19 +9,19 @@
   "notes": [
     {
       "text": "Trucks and trailers, see {ics-code}",
-      "ics-code": ""
+      "ics-code": "43.080.10"
     },
     {
       "text": "Trailing stock, see {ics-code}",
-      "ics-code": ""
+      "ics-code": "45.060.20"
     },
     {
       "text": "Cargo spaces, see {ics-code}",
-      "ics-code": ""
+      "ics-code": "47.020.85"
     },
     {
       "text": "Barrels. Drums. Canisters, see {ics-code}",
-      "ics-code": ""
+      "ics-code": "55.140"
     }
   ]
 }

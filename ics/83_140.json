@@ -8,23 +8,23 @@
   "notes": [
     {
       "text": "Belt drives and their components, see {ics-code}",
-      "ics-code": "83.140"
+      "ics-code": "21.220.10"
     },
     {
       "text": "Components for conveyors, see {ics-code}",
-      "ics-code": "83.140"
+      "ics-code": "53.040.20"
     },
     {
       "text": "Coated fabrics, see {ics-code}",
-      "ics-code": "83.140"
+      "ics-code": "59.080.40"
     },
     {
       "text": "Footwear, see {ics-code}",
-      "ics-code": "83.140"
+      "ics-code": "61.060"
     },
     {
       "text": "Tyres, see {ics-code}",
-      "ics-code": "83.140"
+      "ics-code": "83.160"
     }
   ]
 }

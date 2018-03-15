@@ -8,19 +8,19 @@
   "notes": [
     {
       "text": "Ventilators. Fans. Air-conditioners, see {ics-code}",
-      "ics-code": "27.200"
+      "ics-code": "23.120"
     },
     {
       "text": "Refrigerants and antifreezes, see {ics-code}",
-      "ics-code": "27.200"
+      "ics-code": "71.100.45"
     },
     {
       "text": "Commercial refrigerating appliances, see {ics-code}",
-      "ics-code": "27.200"
+      "ics-code": "97.130.20"
     },
     {
       "text": "Domestic refrigerating appliances, see {ics-code}",
-      "ics-code": "27.200"
+      "ics-code": "97.040.30"
     }
   ]
 }

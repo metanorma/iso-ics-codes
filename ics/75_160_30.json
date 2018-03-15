@@ -12,15 +12,15 @@
     },
     {
       "text": "Gases for industrial application, see {ics-code}",
-      "ics-code": "75.160.30"
+      "ics-code": "71.100.20"
     },
     {
       "text": "Biofuels, see {ics-code}",
-      "ics-code": "75.160.30"
+      "ics-code": "75.160.40"
     },
     {
       "text": "Natural gas, see {ics-code}",
-      "ics-code": "75.160.30"
+      "ics-code": "75.060"
     }
   ]
 }

@@ -8,15 +8,15 @@
   "notes": [
     {
       "text": "Marine ventilation, air conditioning and heating systems, see {ics-code}",
-      "ics-code": "23.120"
+      "ics-code": "47.020.90"
     },
     {
       "text": "Ventilation, air-conditioning and illumination equipment, see {ics-code}",
-      "ics-code": "23.120"
+      "ics-code": "73.100.20"
     },
     {
       "text": "Ventilation and air-conditioning systems, see {ics-code}",
-      "ics-code": "23.120"
+      "ics-code": "91.140.30"
     }
   ]
 }

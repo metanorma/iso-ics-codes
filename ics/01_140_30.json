@@ -9,15 +9,15 @@
   "notes": [
     {
       "text": "Technical product documentation, see {ics-code}",
-      "ics-code": "01.140.30"
+      "ics-code": "01.110"
     },
     {
       "text": "Finances. Banking. Monetary systems. Insurance, see {ics-code}",
-      "ics-code": "01.140.30"
+      "ics-code": "03.060"
     },
     {
       "text": "IT applications in transport, see {ics-code}",
-      "ics-code": "01.140.30"
+      "ics-code": "35.240.60"
     }
   ]
 }

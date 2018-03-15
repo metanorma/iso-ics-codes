@@ -9,23 +9,23 @@
   "notes": [
     {
       "text": "Chemical analysis, see {ics-code}",
-      "ics-code": ""
+      "ics-code": "71.040.40"
     },
     {
       "text": "Ferroalloys, see {ics-code}",
-      "ics-code": ""
+      "ics-code": "77.100"
     },
     {
       "text": "Non-ferrous metals, see {ics-code}",
-      "ics-code": ""
+      "ics-code": "77.120"
     },
     {
       "text": "Powder metallurgy, see {ics-code}",
-      "ics-code": ""
+      "ics-code": "77.160"
     },
     {
       "text": "Ferrous metals, see {ics-code}",
-      "ics-code": ""
+      "ics-code": "77.080"
     }
   ]
 }
