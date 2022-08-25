@@ -1,4 +1,4 @@
-= ISO ICS codes in JSON
+= ISO ICS codes (edition 7) in machine-processible formats
 
 == General
 
@@ -8,11 +8,11 @@ especially in ISO and IEC standards.
 
 == Purpose
 
-While ISO provides them in a PDF form for public usage, but they are
+While ISO provides them in a PDF form for public usage, they are
 not available in machine-readable form.
 
 The contents of this repository aims to provide ICS codes in
-machine-readable form (JSON).
+machine-readable form (JSON and JSON-LD).
 
 
 == Models
@@ -25,8 +25,11 @@ ICS codes are made up of one to three code sections.
 * The second is optional, represents the "`group`" (the "`group code`")
 * The third is optional, represents the "`subgroup`" (the "`subgroup code`")
 
-NOTE: For example, `03.100.30` has field code of `03`, group code `100`,
-and subgroup code `30`.
+[example]
+.ICS code entry
+====
+`03.100.30` has field code `03`, group code `100`, and subgroup code `30`.
+====
 
 
 === ICS code data
@@ -48,12 +51,12 @@ An ICS code represents a data structure that contains:
   "groupcode": "100",
   "subgroupcode": "30",
   "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
-  "descriptionFull": "Services. Company organization, management and quality.
-                      Administration. Transport. Sociology. Company organization
-                      and management. Management systems. Management of human
-                      resources.",
+  "descriptionFull": "Services. Company organization, management and quality."
+                     "Administration. Transport. Sociology. Company organization"
+                     "and management. Management systems. Management of human"
+                     "resources.",
   "notes": [
-    ...
+    "..."
   ]
 }
 ----
@@ -70,8 +73,8 @@ Example without link:
 [source,json]
 ----
 {
-  "text": "Including staff training, staff responsibilities,
-          staff qualifications and certification"
+  "text": "Including staff training, staff responsibilities,"
+          "staff qualifications and certification"
 }
 ----
 
@@ -147,7 +150,7 @@ https://github.com/metanorma/iso-ics-codes-scripts[`iso-ics-codes-scripts`].
 
 == Credits
 
-This code list is maintained by the https://www.metanorma.com[Ribose Metanorma project].
+This code list is maintained by the https://www.metanorma.org[Ribose Metanorma project].
 
 == License
 
