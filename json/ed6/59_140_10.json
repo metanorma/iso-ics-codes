@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "59.140.10",
+  "description": "Processes and auxiliary materials",
+  "edition": 6,
+  "fieldcode": "59",
+  "groupcode": "140",
+  "subgroupcode": "10"
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "45.060.20",
+  "description": "Trailing stock",
+  "descriptionFull": "Railway Engineering. Trailing stock.\n",
+  "edition": 6,
+  "fieldcode": "45",
+  "groupcode": "060",
+  "notes": [
+    {
+      "text": "lnclucSng tank wagons"
+    }
+  ],
+  "subgroupcode": "20"
+}

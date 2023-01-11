@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "71.120.99",
+  "description": "Other equipment for the chemical industry",
+  "edition": 6,
+  "fieldcode": "71",
+  "groupcode": "120",
+  "subgroupcode": "99"
+}

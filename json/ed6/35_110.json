@@ -1,0 +1,22 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "35.110",
+  "description": "Networking",
+  "descriptionFull": "Information Technology. Office Machines. Networking.\n",
+  "edition": 6,
+  "fieldcode": "35",
+  "groupcode": "110",
+  "notes": [
+    {
+      "text": "Including local area networks (LAN), metropolitan area networks (MAN), wide area networks (WAN), etc."
+    },
+    {
+      "ics-code": "33.040.35",
+      "text": "Private Integrated Services Network (PISN), see {ics-code}"
+    },
+    {
+      "ics-code": "33.080",
+      "text": "integrated Services Digital Network (ISDN), see {ics-code}"
+    }
+  ]
+}

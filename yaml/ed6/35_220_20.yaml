@@ -1,0 +1,7 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 35.220.20
+description: Magnetic storage devices in general
+edition: 6
+fieldcode: "35"
+groupcode: "220"
+subgroupcode: "20"

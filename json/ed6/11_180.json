@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "11.180",
+  "description": "Aids for disabled or handicapped persons",
+  "descriptionFull": "Health Care Technology. Aids for disabled or handicapped person.\n",
+  "edition": 6,
+  "fieldcode": "11",
+  "groupcode": "180",
+  "notes": [
+    {
+      "text": "Including aids for elderly people"
+    }
+  ]
+}

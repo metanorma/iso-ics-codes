@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 91.100.30
+description: Concrete and concrete product
+descriptionFull: |
+  Construction Materials and Building. Concrete and concrete product.
+edition: 6
+fieldcode: "91"
+groupcode: "100"
+notes:
+  - text: Including admixtures
+subgroupcode: "30"

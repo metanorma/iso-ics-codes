@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "77.140.50",
+  "description": "Flat steel products and semi-products",
+  "descriptionFull": "Metallurgy. Flat steel products and semi-products.\n",
+  "edition": 6,
+  "fieldcode": "77",
+  "groupcode": "140",
+  "notes": [
+    {
+      "text": "Including plate, sheet and strip"
+    },
+    {
+      "ics-code": "77.140.25",
+      "text": "Steel strips for springs, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "50"
+}

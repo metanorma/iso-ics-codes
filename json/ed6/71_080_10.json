@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "71.080.10",
+  "description": "Aliphatic hydrocarbons",
+  "edition": 6,
+  "fieldcode": "71",
+  "groupcode": "080",
+  "subgroupcode": "10"
+}

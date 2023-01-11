@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "81.080"
+description: Refractories
+descriptionFull: |
+  Glass and Ceramics Industries. Refractories.
+edition: 6
+fieldcode: "81"
+groupcode: "080"
+notes:
+  - text: Including ceramic refractories

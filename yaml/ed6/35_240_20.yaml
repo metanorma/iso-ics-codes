@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 35.240.20
+description: IT applications in office work
+descriptionFull: |
+  Information Technology. Office Machines. IT applications in office work.
+edition: 6
+fieldcode: "35"
+groupcode: "240"
+notes:
+  - text: including text processing systems, text communication, text presentation, Office Document Architecture (ODA), etc.
+subgroupcode: "20"

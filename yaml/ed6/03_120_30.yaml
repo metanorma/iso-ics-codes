@@ -1,0 +1,7 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 03.120.30
+description: Application of statistical methods
+edition: 6
+fieldcode: "03"
+groupcode: "120"
+subgroupcode: "30"

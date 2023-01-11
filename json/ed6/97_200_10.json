@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "97.200.10",
+  "description": "Theatre, stage and studio equipment",
+  "descriptionFull": "Domestic and Commercial Equipment. Entertainment. Sports. Theatre, stage and studio equipment.\n",
+  "edition": 6,
+  "fieldcode": "97",
+  "groupcode": "200",
+  "notes": [
+    {
+      "text": "Including lighting equipment"
+    }
+  ],
+  "subgroupcode": "10"
+}

@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "67.240",
+  "description": "Sensory analysis",
+  "edition": 6,
+  "fieldcode": "67",
+  "groupcode": "240"
+}

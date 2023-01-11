@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "49.080",
+  "description": "Aerospace fluid systems and components",
+  "edition": 6,
+  "fieldcode": "49",
+  "groupcode": "080"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "33.160.01",
+  "description": "Audio, video and audiovisual systems in general",
+  "descriptionFull": "Telecommunications. Audio and Video Engineering. Audio, video and audiovisual systems in general.\n",
+  "edition": 6,
+  "fieldcode": "33",
+  "groupcode": "160",
+  "notes": [
+    {
+      "ics-code": "97.200.10",
+      "text": "Stage and studio equipment, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "01"
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "11.040.30",
+  "description": "Surgical instruments and materials",
+  "descriptionFull": "Health Care Technology. Surgical instruments and materials.\n",
+  "edition": 6,
+  "fieldcode": "11",
+  "groupcode": "040",
+  "notes": [
+    {
+      "text": "Including surgical dressings, sutures, etc."
+    }
+  ],
+  "subgroupcode": "30"
+}

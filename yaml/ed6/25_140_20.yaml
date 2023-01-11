@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 25.140.20
+description: Electric tools
+descriptionFull: |
+  Manufacturing Engineering. Electric tools.
+edition: 6
+fieldcode: "25"
+groupcode: "140"
+notes:
+  - ics-code: 65.060.80
+    text: Chain-and brush-saws, see {ics-code}
+subgroupcode: "20"

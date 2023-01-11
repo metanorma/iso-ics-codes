@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "33.060.30",
+  "description": "Radio relay and fixed satellite communications systems",
+  "edition": 6,
+  "fieldcode": "33",
+  "groupcode": "060",
+  "subgroupcode": "30"
+}

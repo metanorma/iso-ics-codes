@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "21.060",
+  "description": "Fasteners",
+  "descriptionFull": "Mechanical Systems and Components for General Use. Fasteners.\n",
+  "edition": 6,
+  "fieldcode": "21",
+  "groupcode": "060",
+  "notes": [
+    {
+      "ics-code": "11.040.40",
+      "text": "Fasteners related to surgery, prosthetics and orthotics, see {ics-code}"
+    },
+    {
+      "ics-code": "49.030",
+      "text": "Fasteners for aerospace construction, see {ics-code}"
+    }
+  ]
+}

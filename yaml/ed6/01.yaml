@@ -1,0 +1,5 @@
+'@context': https://isoics.org/ics/ns/field.jsonld
+code: "01"
+description: Generalities. Terminology. Standardization. Documentation.
+edition: 6
+fieldcode: "01"

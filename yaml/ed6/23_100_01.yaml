@@ -1,0 +1,7 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 23.100.01
+description: Fluid power systems in general
+edition: 6
+fieldcode: "23"
+groupcode: "100"
+subgroupcode: "01"

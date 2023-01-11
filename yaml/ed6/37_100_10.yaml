@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 37.100.10
+description: Reproduction equipment
+descriptionFull: |
+  Image Technology. Reproduction equipment.
+edition: 6
+fieldcode: "37"
+groupcode: "100"
+notes:
+  - text: Including printing, copying and duplicating machines, bookbinding equipment, etc.
+subgroupcode: "10"

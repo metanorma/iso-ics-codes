@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "27.160"
+description: Solar energy engineering
+descriptionFull: |
+  Energy and Heat Transfer Engineering. Solar energy engineering.
+edition: 6
+fieldcode: "27"
+groupcode: "160"
+notes:
+  - text: Including photovoltaic energy systems

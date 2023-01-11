@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "11.040.99",
+  "description": "Other medical equipment",
+  "edition": 6,
+  "fieldcode": "11",
+  "groupcode": "040",
+  "subgroupcode": "99"
+}

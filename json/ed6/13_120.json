@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "13.120",
+  "description": "Domestic safety",
+  "descriptionFull": "Environment. Health Protection. Safety. Domestic safety.\n",
+  "edition": 6,
+  "fieldcode": "13",
+  "groupcode": "120",
+  "notes": [
+    {
+      "ics-code": "97.190",
+      "text": "Child safety, see {ics-code}"
+    },
+    {
+      "ics-code": "97.200.50",
+      "text": "Safety of toys, see {ics-code}"
+    }
+  ]
+}

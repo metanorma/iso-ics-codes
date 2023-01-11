@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "35.240.50",
+  "description": "IT applications in industry",
+  "descriptionFull": "Information Technology. Office Machines. IT applications in industry.\n",
+  "edition": 6,
+  "fieldcode": "35",
+  "groupcode": "240",
+  "notes": [
+    {
+      "text": "Including design automation"
+    }
+  ],
+  "subgroupcode": "50"
+}

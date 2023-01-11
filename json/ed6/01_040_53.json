@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "01.040.53",
+  "description": "Materials handling equipment (Vocabularies)",
+  "edition": 6,
+  "fieldcode": "01",
+  "groupcode": "040",
+  "subgroupcode": "53"
+}

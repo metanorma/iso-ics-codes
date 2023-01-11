@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "83.060"
+description: Rubber
+descriptionFull: |
+  Rubber and Plastic Industries. Rubber.
+edition: 6
+fieldcode: "83"
+groupcode: "060"
+notes:
+  - ics-code: 83.040.10
+    text: Raw rubber, see {ics-code}

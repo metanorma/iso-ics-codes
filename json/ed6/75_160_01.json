@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "75.160.01",
+  "description": "Fuels in general",
+  "edition": 6,
+  "fieldcode": "75",
+  "groupcode": "160",
+  "subgroupcode": "01"
+}

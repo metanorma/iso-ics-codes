@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 11.080.20
+description: Disinfectants and antiseptics
+descriptionFull: |
+  Health Care Technology. Disinfectants and antiseptics.
+edition: 6
+fieldcode: "11"
+groupcode: "080"
+notes:
+  - ics-code: 71.100.35
+    text: Chemicals for industrial and domestic disinfection purposes, see {ics-code}
+subgroupcode: "20"

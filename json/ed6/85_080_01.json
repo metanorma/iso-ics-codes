@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "85.080.01",
+  "description": "Paper products in general",
+  "edition": 6,
+  "fieldcode": "85",
+  "groupcode": "080",
+  "subgroupcode": "01"
+}

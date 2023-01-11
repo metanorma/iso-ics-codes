@@ -1,0 +1,15 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 03.080.30
+description: Services for consumers
+descriptionFull: |
+  Services. Company Organization. Management and Quality. Administration. Transport. Socliology. Services for consumers.
+edition: 6
+fieldcode: "03"
+groupcode: "080"
+notes:
+  - text: Including hotels, restaurants, washing, cleaning, removals, funerals, etc.
+  - ics-code: "03.220"
+    text: transport services and costs, see {ics-code}
+  - ics-code: "97.020"
+    text: Consumer information, see {ics-code}
+subgroupcode: "30"

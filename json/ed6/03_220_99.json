@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "03.220.99",
+  "description": "Other forms of transport",
+  "edition": 6,
+  "fieldcode": "03",
+  "groupcode": "220",
+  "subgroupcode": "99"
+}

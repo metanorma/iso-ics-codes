@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "31.020",
+  "description": "Electronic components in general",
+  "descriptionFull": "Electronics. Electronic components in general.\n",
+  "edition": 6,
+  "fieldcode": "31",
+  "groupcode": "020",
+  "notes": [
+    {
+      "ics-code": "29.100.10",
+      "text": "Magnetic components, see {ics-code}"
+    }
+  ]
+}

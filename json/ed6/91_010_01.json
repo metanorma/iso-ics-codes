@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "91.010.01",
+  "description": "Construction industry in general",
+  "edition": 6,
+  "fieldcode": "91",
+  "groupcode": "010",
+  "subgroupcode": "01"
+}

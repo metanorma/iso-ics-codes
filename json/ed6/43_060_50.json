@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "43.060.50",
+  "description": "Electrical and electronic equipment. Control systems",
+  "descriptionFull": "Road Vehicles Engineering. Electrical and electronic equipment. Control systems.\n",
+  "edition": 6,
+  "fieldcode": "43",
+  "groupcode": "060",
+  "notes": [
+    {
+      "text": "Including ignition systems and starter motors"
+    }
+  ],
+  "subgroupcode": "50"
+}

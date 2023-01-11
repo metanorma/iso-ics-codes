@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "13.340.20",
+  "description": "Head protective equipment",
+  "descriptionFull": "Environment. Health Protection. Safety. Head protective equipment.\n",
+  "edition": 6,
+  "fieldcode": "13",
+  "groupcode": "340",
+  "notes": [
+    {
+      "text": "Including helmets, eye-protectors, hearing protectors, ear muffs, teeth protectors and hoods."
+    }
+  ],
+  "subgroupcode": "20"
+}

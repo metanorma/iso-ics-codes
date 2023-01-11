@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "65.040.30",
+  "description": "Greenhouses and other installations",
+  "edition": 6,
+  "fieldcode": "65",
+  "groupcode": "040",
+  "subgroupcode": "30"
+}

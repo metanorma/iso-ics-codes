@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 23.040.20
+description: Plastics pipes
+descriptionFull: |
+  Fluid Systems and Components for General. Plastics pipes.
+edition: 6
+fieldcode: "23"
+groupcode: "040"
+notes:
+  - ics-code: "77.150"
+    text: Non-ferrous metal pipes and tubes for specific use, see {ics-code}
+subgroupcode: "20"

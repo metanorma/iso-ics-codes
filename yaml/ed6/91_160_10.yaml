@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 91.160.10
+description: Interior lighting
+descriptionFull: |
+  Construction Materials and Building. Interior lighting.
+edition: 6
+fieldcode: "91"
+groupcode: "160"
+notes:
+  - text: Including workplace lighting, emergency and safety lighting
+subgroupcode: "10"

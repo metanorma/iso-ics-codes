@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "55.230",
+  "description": "Distribution and vending machines",
+  "descriptionFull": "Packaging and Distribution of Goods. Distribution and vending machines.\n",
+  "edition": 6,
+  "fieldcode": "55",
+  "groupcode": "230",
+  "notes": [
+    {
+      "text": "including distribution of tickets, food, beverages, tobacco products, etc."
+    }
+  ]
+}

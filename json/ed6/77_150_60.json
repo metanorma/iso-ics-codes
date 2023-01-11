@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "77.150.60",
+  "description": "Lead, zinc and tin products",
+  "edition": 6,
+  "fieldcode": "77",
+  "groupcode": "150",
+  "subgroupcode": "60"
+}

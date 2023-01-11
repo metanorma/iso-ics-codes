@@ -1,0 +1,6 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "11.080"
+description: Sterilization and disinfection
+edition: 6
+fieldcode: "11"
+groupcode: "080"

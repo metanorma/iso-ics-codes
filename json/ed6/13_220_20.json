@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "13.220.20",
+  "description": "Fire protection",
+  "descriptionFull": "Environment. Health Protection. Safety. Fire protection.\n",
+  "edition": 6,
+  "fieldcode": "13",
+  "groupcode": "220",
+  "notes": [
+    {
+      "text": "Including equipment"
+    }
+  ],
+  "subgroupcode": "20"
+}

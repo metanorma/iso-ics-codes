@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "11.040.40",
+  "description": "Implants for surgery, prosthetics and orthotics",
+  "descriptionFull": "Health Care Technology. Implants for surgery, prosthetics and orthotics.\n",
+  "edition": 6,
+  "fieldcode": "11",
+  "groupcode": "040",
+  "notes": [
+    {
+      "text": "Including pacemakers"
+    },
+    {
+      "ics-code": "11.040.70",
+      "text": "Ophthalmicimplants, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "40"
+}

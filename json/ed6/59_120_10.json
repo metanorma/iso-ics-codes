@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "59.120.10",
+  "description": "Spinning, twisting and texturing machines",
+  "descriptionFull": "Textile and Leather Technology. Spinning, twisting and texturing machines.\n",
+  "edition": 6,
+  "fieldcode": "59",
+  "groupcode": "120",
+  "notes": [
+    {
+      "text": "Including machines and equipment for manufacturing manmade filaments and fibres and for preparing fibres for spinning"
+    }
+  ],
+  "subgroupcode": "10"
+}

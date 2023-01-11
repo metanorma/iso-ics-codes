@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "25.140"
+description: Hand-held tools
+descriptionFull: |
+  Manufacturing Engineering. Hand-held tools.
+edition: 6
+fieldcode: "25"
+groupcode: "140"
+notes:
+  - ics-code: "13.260"
+    text: Tools for working with voltages, see {ics-code}

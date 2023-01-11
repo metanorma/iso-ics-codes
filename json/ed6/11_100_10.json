@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "11.100.10",
+  "description": "In vitro diagnostic test systems",
+  "edition": 6,
+  "fieldcode": "11",
+  "groupcode": "100",
+  "subgroupcode": "10"
+}

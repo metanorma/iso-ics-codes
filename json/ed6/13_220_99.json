@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "13.220.99",
+  "description": "Other standards related to protection against fire",
+  "edition": 6,
+  "fieldcode": "13",
+  "groupcode": "220",
+  "subgroupcode": "99"
+}

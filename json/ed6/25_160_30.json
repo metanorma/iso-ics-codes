@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "25.160.30",
+  "description": "Welding equipment",
+  "descriptionFull": "Manufacturing Engineering. Welding equipment.\n",
+  "edition": 6,
+  "fieldcode": "25",
+  "groupcode": "160",
+  "notes": [
+    {
+      "text": "including thermal cutting equipment"
+    }
+  ],
+  "subgroupcode": "30"
+}

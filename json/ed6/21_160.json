@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "21.160",
+  "description": "Springs",
+  "descriptionFull": "Mechanical Systems and Components for General Use. Springs.\n",
+  "edition": 6,
+  "fieldcode": "21",
+  "groupcode": "160",
+  "notes": [
+    {
+      "ics-code": "77.140.25",
+      "text": "Steel for springs, see {ics-code}"
+    }
+  ]
+}

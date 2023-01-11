@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 53.020.30
+description: Accessories for lifting equipment
+descriptionFull: |
+  Materials Handling Equipment. Accessories for lifting equipment.
+edition: 6
+fieldcode: "53"
+groupcode: "020"
+notes:
+  - text: Including lifting hooks, shackles, link chains, wire ropes, etc.
+  - ics-code: 77.140.65
+    text: Wire ropes and link chains for general use, see {ics-code}
+subgroupcode: "30"

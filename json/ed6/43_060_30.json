@@ -1,0 +1,20 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "43.060.30",
+  "description": "Cooling systems. Lubricating systems",
+  "descriptionFull": "Road Vehicles Engineering. Cooling systems. Lubricating systems.\n",
+  "edition": 6,
+  "fieldcode": "43",
+  "groupcode": "060",
+  "notes": [
+    {
+      "ics-code": "71.100.45",
+      "text": "Antifreezes, see {ics-code}"
+    },
+    {
+      "ics-code": "75.100",
+      "text": "Lubricants, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "30"
+}

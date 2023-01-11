@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "21.040.20",
+  "description": "Inch screw threads",
+  "descriptionFull": "Mechanical Systems and Components for General Use. Inch screw threads.\n",
+  "edition": 6,
+  "fieldcode": "21",
+  "groupcode": "040",
+  "notes": [
+    {
+      "text": "inciudng Whitworth screw threads"
+    },
+    {
+      "ics-code": "21.040.30",
+      "text": "Pipe threads, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "20"
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "49.040",
+  "description": "Coatings and related processes used in aerospace industry",
+  "descriptionFull": "Shipbuilding and Marine Structures. Coatings and related processes used in aerospace industry.\n",
+  "edition": 6,
+  "fieldcode": "49",
+  "groupcode": "040",
+  "notes": [
+    {
+      "ics-code": "25.220",
+      "text": "Coatings for general use, see {ics-code}"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "49.030.50",
+  "description": "Washers and other locking elements",
+  "edition": 6,
+  "fieldcode": "49",
+  "groupcode": "030",
+  "subgroupcode": "50"
+}

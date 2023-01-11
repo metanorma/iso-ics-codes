@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "29.160.10",
+  "description": "Components for rotating machines",
+  "edition": 6,
+  "fieldcode": "29",
+  "groupcode": "160",
+  "subgroupcode": "10"
+}

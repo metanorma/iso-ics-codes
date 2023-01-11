@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "35.040",
+  "description": "Character sets and information coding",
+  "descriptionFull": "Information Technology. Office Machines. Character sets and information coding.\n",
+  "edition": 6,
+  "fieldcode": "35",
+  "groupcode": "040",
+  "notes": [
+    {
+      "text": "Including coding of audio, picture, multimedia and hypermedia information, IT security techniques, encryption, bar coding, electronic signatures, etc."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "59.100",
+  "description": "Materials for the reinforcement of composites",
+  "edition": 6,
+  "fieldcode": "59",
+  "groupcode": "100"
+}

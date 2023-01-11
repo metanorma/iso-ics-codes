@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "29.080.10",
+  "description": "Insulators",
+  "descriptionFull": "Electrical Engineering. Insulators.\n",
+  "edition": 6,
+  "fieldcode": "29",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including fittings and other components for insulators"
+    }
+  ],
+  "subgroupcode": "10"
+}

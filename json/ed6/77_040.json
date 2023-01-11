@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "77.040",
+  "description": "Testing of metals",
+  "edition": 6,
+  "fieldcode": "77",
+  "groupcode": "040"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "43.040.50",
+  "description": "Transmissions, suspensions",
+  "descriptionFull": "Road Vehicles Engineering. Transmissions, suspensions.\n",
+  "edition": 6,
+  "fieldcode": "43",
+  "groupcode": "040",
+  "notes": [
+    {
+      "text": "Including clutches, gearboxes, power-steering systems, cardan shafts, differentials, wheels, rims, etc."
+    },
+    {
+      "ics-code": "83.160.10",
+      "text": "Tyres for road vehicles, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "50"
+}

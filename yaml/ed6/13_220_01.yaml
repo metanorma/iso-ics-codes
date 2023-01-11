@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 13.220.01
+description: Protection against fire in general
+descriptionFull: |
+  Environment. Health Protection. Safety. Protection against fire in general.
+edition: 6
+fieldcode: "13"
+groupcode: "220"
+notes:
+  - text: Including fire safety
+subgroupcode: "01"

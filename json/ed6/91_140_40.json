@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "91.140.40",
+  "description": "Gas supply systems",
+  "descriptionFull": "Construction Materials and Building. Gas supply systems.\n",
+  "edition": 6,
+  "fieldcode": "91",
+  "groupcode": "140",
+  "notes": [
+    {
+      "text": "Including gas meters in buildings"
+    }
+  ],
+  "subgroupcode": "40"
+}

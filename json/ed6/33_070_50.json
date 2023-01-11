@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "33.070.50",
+  "description": "Global System for Mobile Communication (GSM)",
+  "edition": 6,
+  "fieldcode": "33",
+  "groupcode": "070",
+  "subgroupcode": "50"
+}

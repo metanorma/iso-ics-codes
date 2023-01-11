@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "71.060",
+  "description": "Inorganic chemicals",
+  "edition": 6,
+  "fieldcode": "71",
+  "groupcode": "060"
+}

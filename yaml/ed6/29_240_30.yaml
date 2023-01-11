@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 29.240.30
+description: Control equipment for electric power systems
+descriptionFull: |
+  Electrical Engineering. Control equipment for electric power systems.
+edition: 6
+fieldcode: "29"
+groupcode: "240"
+notes:
+  - ics-code: 17.220.20
+    text: Measuring instruments for electrical quantities, see {ics-code}
+subgroupcode: "30"

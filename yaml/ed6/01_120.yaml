@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "01.120"
+description: Standardization. General rules
+descriptionFull: |
+  Generalities. Terminology. Standardization. Documentation. Standardization. General rules.
+edition: 6
+fieldcode: "01"
+groupcode: "120"
+notes:
+  - text: Including rules for the preparation of standards catalogues and management of technical documents

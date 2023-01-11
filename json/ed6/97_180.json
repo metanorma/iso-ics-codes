@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "97.180",
+  "description": "Miscellaneous domestic and commercial equipment",
+  "descriptionFull": "Domestic and Commercial Equipment. Entertainment. Sports. Miscellaneous domestic and commercial equipment.\n",
+  "edition": 6,
+  "fieldcode": "97",
+  "groupcode": "180",
+  "notes": [
+    {
+      "text": "Including scissors, aquarium equipment, articles for domestic animals, battery chargers, mops, insect electrocutors, lighters, matches, paperclips, pens, pencils, etc."
+    }
+  ]
+}

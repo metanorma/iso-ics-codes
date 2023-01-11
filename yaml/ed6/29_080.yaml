@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "29.080"
+description: Insulation
+descriptionFull: |
+  Electrical Engineering. Insulation.
+edition: 6
+fieldcode: "29"
+groupcode: "080"
+notes:
+  - ics-code: "29.035"
+    text: lnsulatlng materials, see {ics-code}
+  - ics-code: "29.040"
+    text: lnsulating fluids, see {ics-code}

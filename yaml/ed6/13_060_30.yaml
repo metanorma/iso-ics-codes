@@ -1,0 +1,17 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 13.060.30
+description: Sewage water
+descriptionFull: |
+  Environment. Health Protection. Safety. Sewage water.
+edition: 6
+fieldcode: "13"
+groupcode: "060"
+notes:
+  - text: Including sewage water disposal and treatment
+  - ics-code: 13.030.20
+    text: Liquid wastes, see {ics-code}
+  - ics-code: 91.140.80
+    text: Drainage systems, see {ics-code}
+  - ics-code: "93.030"
+    text: Sewage systems, see {ics-code}
+subgroupcode: "30"

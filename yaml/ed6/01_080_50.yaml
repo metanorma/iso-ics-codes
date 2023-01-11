@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 01.080.50
+description: Graphical symbols for use on information technology and telecommunications technical drawings and in relevant technical product documentation
+descriptionFull: |
+  Generalities. Terminology. Standardization. Documentation. Graphical symbols for use on information technology and telecommunications technical drawings and in relevant technical product documentation.
+edition: 6
+fieldcode: "01"
+groupcode: "080"
+notes:
+  - text: Standards included in this group shall also be included in other groups and/or sub -groups according to their subject
+subgroupcode: "50"

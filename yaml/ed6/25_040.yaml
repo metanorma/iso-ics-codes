@@ -1,0 +1,6 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "25.040"
+description: Industrial automation systems
+edition: 6
+fieldcode: "25"
+groupcode: "040"

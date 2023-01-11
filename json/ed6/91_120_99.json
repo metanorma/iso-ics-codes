@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "91.120.99",
+  "description": "Other standards related to protection of and in buildings",
+  "edition": 6,
+  "fieldcode": "91",
+  "groupcode": "120",
+  "subgroupcode": "99"
+}

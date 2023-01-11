@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "07.080"
+description: Biology. Botany. Zoology
+descriptionFull: |
+  Mathematics. Natural Sciences. Biology. Botany. Zoology.
+edition: 6
+fieldcode: "07"
+groupcode: "080"
+notes:
+  - text: Including biotechnology

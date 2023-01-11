@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "11.060.15",
+  "description": "Dental implants",
+  "descriptionFull": "Health Care Technology. Dental implants.\n",
+  "edition": 6,
+  "fieldcode": "11",
+  "groupcode": "060",
+  "notes": [
+    {
+      "text": "Including dentures"
+    }
+  ],
+  "subgroupcode": "15"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "79.120.10",
+  "description": "Woodworking machines",
+  "descriptionFull": "Wood Technology. Woodworking machines.\n",
+  "edition": 6,
+  "fieldcode": "79",
+  "groupcode": "120",
+  "notes": [
+    {
+      "ics-code": "65.060.80",
+      "text": "Chain- and brush-saws, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "10"
+}

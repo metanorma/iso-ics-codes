@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "59.140.99",
+  "description": "Other standards related to leather technology",
+  "edition": 6,
+  "fieldcode": "59",
+  "groupcode": "140",
+  "subgroupcode": "99"
+}

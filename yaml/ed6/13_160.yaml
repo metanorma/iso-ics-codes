@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "13.160"
+description: Vibration and shock with respect to human beings
+descriptionFull: |
+  Environment. Health Protection. Safety. Vibration and shock with respect to human beings.
+edition: 6
+fieldcode: "13"
+groupcode: "160"
+notes:
+  - ics-code: "17.160"
+    text: Vibrations, shock and vibration measurements, see {ics-code}

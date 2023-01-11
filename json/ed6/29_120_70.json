@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "29.120.70",
+  "description": "Relays",
+  "edition": 6,
+  "fieldcode": "29",
+  "groupcode": "120",
+  "subgroupcode": "70"
+}

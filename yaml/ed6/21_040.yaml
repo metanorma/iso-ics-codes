@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "21.040"
+description: Screw threads
+descriptionFull: |
+  Mechanical Systems and Components for General Use. Screw threads.
+edition: 6
+fieldcode: "21"
+groupcode: "040"
+notes:
+  - ics-code: 49.030.10
+    text: Screw threads for aerospace construction, see {ics-code}

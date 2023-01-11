@@ -1,0 +1,16 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "53.020.01",
+  "description": "Lifting appliances in general",
+  "descriptionFull": "Materials Handling Equipment. Lifting appliances in general.\n",
+  "edition": 6,
+  "fieldcode": "53",
+  "groupcode": "020",
+  "notes": [
+    {
+      "ics-code": "11.180.10",
+      "text": "Lifting platforms for disabled people, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "01"
+}

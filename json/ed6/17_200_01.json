@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "17.200.01",
+  "description": "Thermodynamics in general",
+  "edition": 6,
+  "fieldcode": "17",
+  "groupcode": "200",
+  "subgroupcode": "01"
+}

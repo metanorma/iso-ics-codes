@@ -1,0 +1,16 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "47.020"
+description: Shipbuilding and marine structures in general
+descriptionFull: |
+  Shipbuilding and Marine Structures. Shipbuilding and marine structures in general.
+edition: 6
+fieldcode: "47"
+groupcode: "020"
+notes:
+  - text: Including offshore structures, except offshore structures for petroleum and natural gas industries, and seabed mining
+  - ics-code: 03.220.40
+    text: Water transport, see {ics-code}
+  - ics-code: 73.100.30
+    text: Offshore structures for seabed mining, see {ics-code}
+  - ics-code: 75.180.10
+    text: Offshore structures for petroleum and natural gas industries, see {ics-code}

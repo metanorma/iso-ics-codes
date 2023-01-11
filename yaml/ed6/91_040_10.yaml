@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 91.040.10
+description: Public buildings
+descriptionFull: |
+  Construction Materials and Building. Public buildings.
+edition: 6
+fieldcode: "91"
+groupcode: "040"
+notes:
+  - text: including ecclesiastical buildings and hospitals
+subgroupcode: "10"

@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 11.040.55
+description: Diagnostic equipment
+descriptionFull: |
+  Health Care Technology. Diagnostic equipment.
+edition: 6
+fieldcode: "11"
+groupcode: "040"
+notes:
+  - text: Including medical monitoring equipment, medical thermometers and related materials
+subgroupcode: "55"

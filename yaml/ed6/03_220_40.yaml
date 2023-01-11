@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 03.220.40
+description: Transport by water
+descriptionFull: |
+  Services. Company Organization. Management and Quality. Administration. Transport. Socliology. Transport by water.
+edition: 6
+fieldcode: "03"
+groupcode: "220"
+notes:
+  - text: Including water transport services
+  - ics-code: "93.140"
+    text: Water transport control equipment and installations, see {ics-code}
+subgroupcode: "40"

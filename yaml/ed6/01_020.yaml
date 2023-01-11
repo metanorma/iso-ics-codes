@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "01.020"
+description: Terminology (principles and coordination)
+descriptionFull: |
+  Generalities. Terminology. Standardization. Documentation. Terminology (principles and coordination).
+edition: 6
+fieldcode: "01"
+groupcode: "020"
+notes:
+  - text: Including terminography

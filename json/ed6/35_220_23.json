@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "35.220.23",
+  "description": "Cassettes and cartridges for magnetic tapes",
+  "edition": 6,
+  "fieldcode": "35",
+  "groupcode": "220",
+  "subgroupcode": "23"
+}

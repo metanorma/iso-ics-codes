@@ -1,0 +1,6 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "25.060"
+description: Machine tool systems
+edition: 6
+fieldcode: "25"
+groupcode: "060"

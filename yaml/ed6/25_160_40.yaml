@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 25.160.40
+description: Welded joints and welds
+descriptionFull: |
+  Manufacturing Engineering. Welded joints and welds.
+edition: 6
+fieldcode: "25"
+groupcode: "160"
+notes:
+  - text: Including welding position and mechanical and non-destructive testing of welded joints
+subgroupcode: "40"

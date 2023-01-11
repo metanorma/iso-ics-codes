@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "43.140"
+description: Motorcycles and mopeds
+descriptionFull: |
+  Road Vehicles Engineering. Motorcycles and mopeds.
+edition: 6
+fieldcode: "43"
+groupcode: "140"
+notes:
+  - text: Including their components and systems
+  - ics-code: 83.160.10
+    text: Tyres for road vehicles, see {ics-code}

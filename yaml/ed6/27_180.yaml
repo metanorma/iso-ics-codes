@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "27.180"
+description: Wind turbine energy systems
+descriptionFull: |
+  Energy and Heat Transfer Engineering. Wind turbine energy systems.
+edition: 6
+fieldcode: "27"
+groupcode: "180"
+notes:
+  - text: Including generation of electrical energy

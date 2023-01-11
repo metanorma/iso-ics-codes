@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "65.020"
+description: Farming and forestry
+descriptionFull: |
+  Agriculture. Farming and forestry.
+edition: 6
+fieldcode: "65"
+groupcode: "020"
+notes:
+  - ics-code: "13.080"
+    text: Pedology, soil analysis, see {ics-code}
+  - ics-code: "79.020"
+    text: Logging, see {ics-code}

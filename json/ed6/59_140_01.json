@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "59.140.01",
+  "description": "Leather technology in general",
+  "edition": 6,
+  "fieldcode": "59",
+  "groupcode": "140",
+  "subgroupcode": "01"
+}

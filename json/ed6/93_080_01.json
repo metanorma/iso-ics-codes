@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "93.080.01",
+  "description": "Road engineering in general",
+  "edition": 6,
+  "fieldcode": "93",
+  "groupcode": "080",
+  "subgroupcode": "01"
+}

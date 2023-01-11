@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "93.080.40",
+  "description": "Street lighting and related equipment",
+  "edition": 6,
+  "fieldcode": "93",
+  "groupcode": "080",
+  "subgroupcode": "40"
+}

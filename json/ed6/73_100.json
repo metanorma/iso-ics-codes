@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "73.100",
+  "description": "Mining equipment",
+  "descriptionFull": "Mining and Minerals. Mining equipment.\n",
+  "edition": 6,
+  "fieldcode": "73",
+  "groupcode": "100",
+  "notes": [
+    {
+      "ics-code": "29.260.20",
+      "text": "Electrical apparatus for explosive atmospheres, see {ics-code}"
+    }
+  ]
+}

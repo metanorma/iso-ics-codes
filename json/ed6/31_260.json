@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "31.260",
+  "description": "Optoelectronics. Laser equipment",
+  "descriptionFull": "Electronics. Optoelectronics. Laser equipment.\n",
+  "edition": 6,
+  "fieldcode": "31",
+  "groupcode": "260",
+  "notes": [
+    {
+      "text": "Including photoelectric tubes and cells"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "21.060.50",
+  "description": "Pins, nails",
+  "edition": 6,
+  "fieldcode": "21",
+  "groupcode": "060",
+  "subgroupcode": "50"
+}

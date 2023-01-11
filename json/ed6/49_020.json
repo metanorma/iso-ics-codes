@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "49.020",
+  "description": "Aircraft and space vehicles in general",
+  "descriptionFull": "Aircraft and Space Vehicle Engineering. Aircraft and space vehicles in general.\n",
+  "edition": 6,
+  "fieldcode": "49",
+  "groupcode": "020",
+  "notes": [
+    {
+      "text": "Including aircraft performance, flight dynamics, etc."
+    },
+    {
+      "ics-code": "03.220.50",
+      "text": "Air transport, see {ics-code}"
+    }
+  ]
+}

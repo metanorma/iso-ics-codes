@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 03.220.20
+description: Road transport
+descriptionFull: |
+  Services. Company Organization. Management and Quality. Administration. Transport. Socliology. Road transport.
+edition: 6
+fieldcode: "03"
+groupcode: "220"
+notes:
+  - text: Including road transport services
+  - ics-code: 93.080.30
+    text: Road traffic control equipment and installations, see {ics-code}
+subgroupcode: "20"

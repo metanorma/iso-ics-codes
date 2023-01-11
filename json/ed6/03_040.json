@@ -1,0 +1,16 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "03.040",
+  "description": "Labour. Employment",
+  "descriptionFull": "Services. Company Organization. Management and Quality. Administration. Transport. Socliology. Labour. Employment.\n",
+  "edition": 6,
+  "fieldcode": "03",
+  "groupcode": "040",
+  "notes": [
+    {
+      "ics-code": "13.040.30",
+      "ics-code1": "13.180",
+      "text": "Working environment, see {ics-code} and {ics-code1}"
+    }
+  ]
+}

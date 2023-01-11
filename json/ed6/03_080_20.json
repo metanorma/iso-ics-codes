@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "03.080.20",
+  "description": "Services for companies",
+  "descriptionFull": "Services. Company Organization. Management and Quality. Administration. Transport. Socliology. Services for companies.\n",
+  "edition": 6,
+  "fieldcode": "03",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including publicity, advertising, etc."
+    },
+    {
+      "ics-code": "03.100.30",
+      "text": "Staff training and staff certification, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "20"
+}

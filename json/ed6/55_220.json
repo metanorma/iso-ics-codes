@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "55.220",
+  "description": "Storing. Warehousing",
+  "descriptionFull": "Packaging and Distribution of Goods. Storing. Warehousing.\n",
+  "edition": 6,
+  "fieldcode": "55",
+  "groupcode": "220",
+  "notes": [
+    {
+      "ics-code": "53.080",
+      "text": "Storage equipment, see {ics-code}"
+    }
+  ]
+}

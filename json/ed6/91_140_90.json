@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "91.140.90",
+  "description": "Lifts. Escalators",
+  "edition": 6,
+  "fieldcode": "91",
+  "groupcode": "140",
+  "subgroupcode": "90"
+}

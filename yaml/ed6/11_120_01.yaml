@@ -1,0 +1,7 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 11.120.01
+description: Pharmaceutics in general
+edition: 6
+fieldcode: "11"
+groupcode: "120"
+subgroupcode: "01"

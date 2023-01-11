@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "33.040.20",
+  "description": "Transmission systems",
+  "descriptionFull": "Telecommunications. Audio and Video Engineering. Transmission systems.\n",
+  "edition": 6,
+  "fieldcode": "33",
+  "groupcode": "040",
+  "notes": [
+    {
+      "text": "Including synchronization, cable systems, integrated cabling, pathways and multiplexing"
+    }
+  ],
+  "subgroupcode": "20"
+}

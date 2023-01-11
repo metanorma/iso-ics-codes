@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "21.060.70",
+  "description": "Clamps and staples",
+  "edition": 6,
+  "fieldcode": "21",
+  "groupcode": "060",
+  "subgroupcode": "70"
+}

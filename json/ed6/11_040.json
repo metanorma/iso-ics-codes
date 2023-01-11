@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "11.040",
+  "description": "Medical equipment",
+  "edition": 6,
+  "fieldcode": "11",
+  "groupcode": "040"
+}

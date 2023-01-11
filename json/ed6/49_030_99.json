@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "49.030.99",
+  "description": "Other fasteners",
+  "edition": 6,
+  "fieldcode": "49",
+  "groupcode": "030",
+  "subgroupcode": "99"
+}

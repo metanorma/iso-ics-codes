@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "33.050.99",
+  "description": "Other telecommunication terminal equipment",
+  "edition": 6,
+  "fieldcode": "33",
+  "groupcode": "050",
+  "subgroupcode": "99"
+}

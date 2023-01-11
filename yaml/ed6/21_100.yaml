@@ -1,0 +1,6 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "21.100"
+description: Bearings
+edition: 6
+fieldcode: "21"
+groupcode: "100"

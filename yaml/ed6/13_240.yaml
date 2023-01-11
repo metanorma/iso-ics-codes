@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "13.240"
+description: Protection against excessive pressure
+descriptionFull: |
+  Environment. Health Protection. Safety. Protection against excessive pressure.
+edition: 6
+fieldcode: "13"
+groupcode: "240"
+notes:
+  - text: Including safety valves, bursting disc devices, etc.

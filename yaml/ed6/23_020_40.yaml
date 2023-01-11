@@ -1,0 +1,14 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 23.020.40
+description: Cryogenic vessels
+descriptionFull: |
+  Fluid Systems and Components for General. Cryogenic vessels.
+edition: 6
+fieldcode: "23"
+groupcode: "020"
+notes:
+  - ics-code: 27.060.30
+    text: Steam pressure vessels, see {ics-code}
+  - ics-code: 77.140.30
+    text: Steel for pressure purposes, see {ics-code}
+subgroupcode: "40"

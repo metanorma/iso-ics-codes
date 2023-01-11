@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "11.120.20",
+  "description": "Wound dressings and compresses",
+  "edition": 6,
+  "fieldcode": "11",
+  "groupcode": "120",
+  "subgroupcode": "20"
+}

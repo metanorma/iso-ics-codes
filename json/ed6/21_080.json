@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "21.080",
+  "description": "Hinges, eyelets and other articulated joints",
+  "edition": 6,
+  "fieldcode": "21",
+  "groupcode": "080"
+}

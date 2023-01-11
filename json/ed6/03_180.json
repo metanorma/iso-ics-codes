@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "03.180",
+  "description": "Education",
+  "descriptionFull": "Services. Company Organization. Management and Quality. Administration. Transport. Socliology. Education.\n",
+  "edition": 6,
+  "fieldcode": "03",
+  "groupcode": "180",
+  "notes": [
+    {
+      "ics-code": "35.240.99",
+      "text": "E-learning, see {ics-code}"
+    }
+  ]
+}

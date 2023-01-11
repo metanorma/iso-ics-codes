@@ -1,0 +1,16 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "27.060.01",
+  "description": "Burners and boilers in general",
+  "descriptionFull": "Energy and Heat Transfer Engineering. Burners and boilers in general.\n",
+  "edition": 6,
+  "fieldcode": "27",
+  "groupcode": "060",
+  "notes": [
+    {
+      "ics-code": "91.140.10",
+      "text": "Burners and boilers for central heating systems, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "01"
+}

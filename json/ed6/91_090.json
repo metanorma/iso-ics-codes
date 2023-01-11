@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "91.090",
+  "description": "External Structures",
+  "descriptionFull": "Construction Materials and Building. External Structures.\n",
+  "edition": 6,
+  "fieldcode": "91",
+  "groupcode": "090",
+  "notes": [
+    {
+      "text": "Including fences, gates, arches, sheds, garages, etc."
+    }
+  ]
+}

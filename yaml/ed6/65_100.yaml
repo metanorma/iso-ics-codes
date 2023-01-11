@@ -1,0 +1,6 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "65.100"
+description: Pesticides and other agrochemicals
+edition: 6
+fieldcode: "65"
+groupcode: "100"

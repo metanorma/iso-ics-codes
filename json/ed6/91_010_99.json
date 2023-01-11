@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "91.010.99",
+  "description": "Other aspects",
+  "edition": 6,
+  "fieldcode": "91",
+  "groupcode": "010",
+  "subgroupcode": "99"
+}

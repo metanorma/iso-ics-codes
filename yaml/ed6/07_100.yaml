@@ -1,0 +1,6 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "07.100"
+description: Microbiology
+edition: 6
+fieldcode: "07"
+groupcode: "100"

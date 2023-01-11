@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "33.180.30",
+  "description": "Optic amplifiers",
+  "edition": 6,
+  "fieldcode": "33",
+  "groupcode": "180",
+  "subgroupcode": "30"
+}

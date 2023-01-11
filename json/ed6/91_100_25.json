@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "91.100.25",
+  "description": "Terracotta building products",
+  "descriptionFull": "Construction Materials and Building. Terracotta building products.\n",
+  "edition": 6,
+  "fieldcode": "91",
+  "groupcode": "100",
+  "notes": [
+    {
+      "text": "Including roofing tiles, bricks, etc."
+    }
+  ],
+  "subgroupcode": "25"
+}

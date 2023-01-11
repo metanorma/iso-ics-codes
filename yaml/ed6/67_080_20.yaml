@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 67.080.20
+description: Vegetables and derived products
+descriptionFull: |
+  Food Technology. Vegetables and derived products.
+edition: 6
+fieldcode: "67"
+groupcode: "080"
+notes:
+  - text: Including tomato concentrates, ketchup, etc.
+subgroupcode: "20"

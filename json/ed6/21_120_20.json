@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "21.120.20",
+  "description": "Couplings",
+  "edition": 6,
+  "fieldcode": "21",
+  "groupcode": "120",
+  "subgroupcode": "20"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "01.040.59",
+  "description": "Textile and leather technology (Vocabularies)",
+  "edition": 6,
+  "fieldcode": "01",
+  "groupcode": "040",
+  "subgroupcode": "59"
+}

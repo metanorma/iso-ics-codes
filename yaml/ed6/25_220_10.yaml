@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 25.220.10
+description: Surface preparation
+descriptionFull: |
+  Manufacturing Engineering. Surface preparation.
+edition: 6
+fieldcode: "25"
+groupcode: "220"
+notes:
+  - text: Including surface preparation for painting, cleaning, scouring, blasting, etc.
+subgroupcode: "10"

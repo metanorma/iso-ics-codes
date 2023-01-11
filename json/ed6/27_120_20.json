@@ -1,0 +1,16 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "27.120.20",
+  "description": "Nuclear power plants. Safety",
+  "descriptionFull": "Energy and Heat Transfer Engineering. Nuclear power plants. Safety.\n",
+  "edition": 6,
+  "fieldcode": "27",
+  "groupcode": "120",
+  "notes": [
+    {
+      "ics-code": "13.280",
+      "text": "Radiation protection, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "20"
+}

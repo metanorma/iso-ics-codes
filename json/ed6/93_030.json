@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "93.030",
+  "description": "External sewage systems",
+  "descriptionFull": "Civil Engineering. External sewage systems.\n",
+  "edition": 6,
+  "fieldcode": "93",
+  "groupcode": "030",
+  "notes": [
+    {
+      "ics-code": "13.060.30",
+      "text": "Sewage water disposal and treatment, see {ics-code}"
+    },
+    {
+      "ics-code": "91.140.80",
+      "text": "lnternal drainage systems, see {ics-code}"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "49.025.40",
+  "description": "Rubber and plastics",
+  "edition": 6,
+  "fieldcode": "49",
+  "groupcode": "025",
+  "subgroupcode": "40"
+}

@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 67.100.30
+description: Cheese
+descriptionFull: |
+  Food Technology. Cheese.
+edition: 6
+fieldcode: "67"
+groupcode: "100"
+notes:
+  - text: Including cottage cheese, whey cheese
+subgroupcode: "30"

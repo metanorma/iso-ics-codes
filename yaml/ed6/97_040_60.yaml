@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 97.040.60
+description: Cookware, cutlery and flatware
+descriptionFull: |
+  Domestic and Commercial Equipment. Entertainment. Sports. Cookware, cutlery and flatware.
+edition: 6
+fieldcode: "97"
+groupcode: "040"
+notes:
+  - text: Including table cutlery and table ware
+subgroupcode: "60"

@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "11.160"
+description: First aid
+descriptionFull: |
+  Health Care Technology. First aid.
+edition: 6
+fieldcode: "11"
+groupcode: "160"
+notes:
+  - text: Including kits, equipment, facilities and medical transport for first aid

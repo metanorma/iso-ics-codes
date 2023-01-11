@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 17.120.20
+description: Flow in open channels
+descriptionFull: |
+  Metrology and Measurement. Physical Phenomena. Flow in open channels.
+edition: 6
+fieldcode: "17"
+groupcode: "120"
+notes:
+  - text: Including hydrometric determinations
+subgroupcode: "20"

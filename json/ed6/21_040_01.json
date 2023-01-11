@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "21.040.01",
+  "description": "Screw threads in general",
+  "edition": 6,
+  "fieldcode": "21",
+  "groupcode": "040",
+  "subgroupcode": "01"
+}

@@ -1,0 +1,6 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "33.180"
+description: Fibre optic communications
+edition: 6
+fieldcode: "33"
+groupcode: "180"

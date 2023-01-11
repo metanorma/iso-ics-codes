@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "77.140.75",
+  "description": "Steel pipes and tubes for specific use",
+  "descriptionFull": "Metallurgy. Steel pipes and tubes for specific use.\n",
+  "edition": 6,
+  "fieldcode": "77",
+  "groupcode": "140",
+  "notes": [
+    {
+      "text": "Including hollow steel bars and sections for construction"
+    },
+    {
+      "ics-code": "23.040.10",
+      "text": "Steel pipes for conducting fluids, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "75"
+}

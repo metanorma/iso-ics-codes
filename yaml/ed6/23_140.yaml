@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "23.140"
+description: Compressors and pneumatic machines
+descriptionFull: |
+  Fluid Systems and Components for General. Compressors and pneumatic machines.
+edition: 6
+fieldcode: "23"
+groupcode: "140"
+notes:
+  - ics-code: 71.100.20
+    text: Compressed air, see {ics-code}

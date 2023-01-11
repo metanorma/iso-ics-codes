@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 49.025.60
+description: Textiles
+descriptionFull: |
+  Shipbuilding and Marine Structures. Textiles.
+edition: 6
+fieldcode: "49"
+groupcode: "025"
+notes:
+  - text: including textile glass and coated fabrics
+subgroupcode: "60"

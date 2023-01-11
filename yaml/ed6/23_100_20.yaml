@@ -1,0 +1,7 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 23.100.20
+description: Cylinders
+edition: 6
+fieldcode: "23"
+groupcode: "100"
+subgroupcode: "20"

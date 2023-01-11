@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "55.100"
+description: Bottles. Pots. Jars
+descriptionFull: |
+  Packaging and Distribution of Goods. Bottles. Pots. Jars
+edition: 6
+fieldcode: "55"
+groupcode: "100"
+notes:
+  - text: Small containers for liquids and their closures

@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "87.100",
+  "description": "Paint coating equipment",
+  "edition": 6,
+  "fieldcode": "87",
+  "groupcode": "100"
+}

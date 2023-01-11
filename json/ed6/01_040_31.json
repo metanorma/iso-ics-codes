@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "01.040.31",
+  "description": "Electronics (Vocabularies)",
+  "edition": 6,
+  "fieldcode": "01",
+  "groupcode": "040",
+  "subgroupcode": "31"
+}

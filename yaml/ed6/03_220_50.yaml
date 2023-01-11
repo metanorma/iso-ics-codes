@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 03.220.50
+description: Air transport
+descriptionFull: |
+  Services. Company Organization. Management and Quality. Administration. Transport. Socliology. Air transport.
+edition: 6
+fieldcode: "03"
+groupcode: "220"
+notes:
+  - text: Including air transport services
+  - ics-code: "93.120"
+    text: Air transport control equipment and installations, see {ics-code}
+subgroupcode: "50"

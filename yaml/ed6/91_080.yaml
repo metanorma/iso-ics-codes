@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "91.080"
+description: Structures of buildings
+descriptionFull: |
+  Construction Materials and Building. Structures of buildings.
+edition: 6
+fieldcode: "91"
+groupcode: "080"
+notes:
+  - text: Including design, loading on and calculation of structures

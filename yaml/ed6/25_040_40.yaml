@@ -1,0 +1,7 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 25.040.40
+description: Industrial process measurement and control
+edition: 6
+fieldcode: "25"
+groupcode: "040"
+subgroupcode: "40"

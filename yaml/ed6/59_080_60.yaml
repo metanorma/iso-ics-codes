@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 59.080.60
+description: Textile floor coverings
+descriptionFull: |
+  Textile and Leather Technology. Textile floor coverings.
+edition: 6
+fieldcode: "59"
+groupcode: "080"
+notes:
+  - text: Including carpets, rugs, floor mats, etc.
+  - ics-code: "97.150"
+    text: Non-textile floor coverings, see {ics-code}
+subgroupcode: "60"

@@ -1,0 +1,16 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "33.040.60",
+  "description": "Powerline telecommunications",
+  "descriptionFull": "Telecommunications. Audio and Video Engineering. Powerline telecommunications.\n",
+  "edition": 6,
+  "fieldcode": "33",
+  "groupcode": "040",
+  "notes": [
+    {
+      "ics-code": "29.240.01",
+      "text": "Power transmission and distribution, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "60"
+}

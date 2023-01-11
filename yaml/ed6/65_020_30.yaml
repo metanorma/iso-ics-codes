@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 65.020.30
+description: Animal husbandry and breeding
+descriptionFull: |
+  Agriculture. Animal husbandry and breeding.
+edition: 6
+fieldcode: "65"
+groupcode: "020"
+notes:
+  - text: Including sanitary inspection
+  - ics-code: "11.220"
+    text: Veterinary medicine, see {ics-code}
+subgroupcode: "30"

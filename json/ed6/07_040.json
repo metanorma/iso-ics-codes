@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "07.040",
+  "description": "Astronomy. Geodesy. Geography",
+  "edition": 6,
+  "fieldcode": "07",
+  "groupcode": "040"
+}

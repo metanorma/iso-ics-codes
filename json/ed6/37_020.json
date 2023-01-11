@@ -1,0 +1,26 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "37.020",
+  "description": "Optical equipment",
+  "descriptionFull": "Image Technology. Optical equipment.\n",
+  "edition": 6,
+  "fieldcode": "37",
+  "groupcode": "020",
+  "notes": [
+    {
+      "text": "1 including microscopes, telescopes, binoculars, optical materials, optical components and optical systems"
+    },
+    {
+      "ics-code": "11.040.70",
+      "text": "Ophthalmic equipment, see {ics-code}"
+    },
+    {
+      "ics-code": "17.180.30",
+      "text": "Optical measuring instruments, see {ics-code}"
+    },
+    {
+      "ics-code": "37.040.10",
+      "text": "Photographic equipment lenses, see {ics-code}"
+    }
+  ]
+}

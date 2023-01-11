@@ -1,0 +1,23 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "43.040",
+  "description": "Road vehicle systems",
+  "descriptionFull": "Road Vehicles Engineering. Road vehicle systems.\n",
+  "edition": 6,
+  "fieldcode": "43",
+  "groupcode": "040",
+  "notes": [
+    {
+      "ics-code": "43.120",
+      "text": "Electric road vehicle systems, see {ics-code}"
+    },
+    {
+      "ics-code": "43.140",
+      "text": "Motorcycle and moped systems, see {ics-code}"
+    },
+    {
+      "ics-code": "43.150",
+      "text": "Cycle systems, see {ics-code}"
+    }
+  ]
+}

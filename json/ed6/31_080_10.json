@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "31.080.10",
+  "description": "Diodes",
+  "edition": 6,
+  "fieldcode": "31",
+  "groupcode": "080",
+  "subgroupcode": "10"
+}

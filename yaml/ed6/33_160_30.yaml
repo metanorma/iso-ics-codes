@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 33.160.30
+description: Audio systems
+descriptionFull: |
+  Telecommunications. Audio and Video Engineering. Audio systems.
+edition: 6
+fieldcode: "33"
+groupcode: "160"
+notes:
+  - text: Including tape recorders, records, magnetic tapes, cassettes, CDs, etc.
+subgroupcode: "30"

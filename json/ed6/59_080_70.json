@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "59.080.70",
+  "description": "Geotextiles",
+  "descriptionFull": "Textile and Leather Technology. Geotextiles.\n",
+  "edition": 6,
+  "fieldcode": "59",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including geosynthetics"
+    }
+  ],
+  "subgroupcode": "70"
+}

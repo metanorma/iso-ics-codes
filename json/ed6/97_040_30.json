@@ -1,0 +1,20 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "97.040.30",
+  "description": "Domestic refrigerating appliances",
+  "descriptionFull": "Domestic and Commercial Equipment. Entertainment. Sports. Domestic refrigerating appliances.\n",
+  "edition": 6,
+  "fieldcode": "97",
+  "groupcode": "040",
+  "notes": [
+    {
+      "ics-code": "27.200",
+      "text": "Refrigerating technology, see {ics-code}"
+    },
+    {
+      "ics-code": "97.130.20",
+      "text": "Refrigerated display cabinets and cold rooms, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "30"
+}

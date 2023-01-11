@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "39.060",
+  "description": "Jewellery",
+  "descriptionFull": "Precision Mechanics. Jewellery. Jewellery.\n",
+  "edition": 6,
+  "fieldcode": "39",
+  "groupcode": "060",
+  "notes": [
+    {
+      "text": "Including precious metals, precious and semi-precious stones"
+    },
+    {
+      "ics-code": "25.100",
+      "text": "lndustrial diamonds, see {ics-code}"
+    }
+  ]
+}

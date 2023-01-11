@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "85.080"
+description: Paper products
+descriptionFull: |
+  Paper Technology. Paper products.
+edition: 6
+fieldcode: "85"
+groupcode: "080"
+notes:
+  - text: Including paper based stationery
+  - ics-codes: 35.260, 97.180
+    text: Other forms of stationery (non-paper based), see {ics-codes}

@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 83.140.30
+description: Plastics pipes and fittings for non fluid use
+descriptionFull: |
+  Rubber and Plastic Industries. Plastics pipes and fittings for non fluid use.
+edition: 6
+fieldcode: "83"
+groupcode: "140"
+notes:
+  - ics-codes: 23.040.20, 23.040.45, 23.060
+    text: Piastics pipes, fittings and valves for general use, see {ics-codes}
+subgroupcode: "30"

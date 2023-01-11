@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "35.080"
+description: Software
+descriptionFull: |
+  Information Technology. Office Machines. Software.
+edition: 6
+fieldcode: "35"
+groupcode: "080"
+notes:
+  - text: Including software development, documentation, internet applications and use

@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "21.200",
+  "description": "Gears",
+  "edition": 6,
+  "fieldcode": "21",
+  "groupcode": "200"
+}

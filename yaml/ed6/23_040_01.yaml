@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 23.040.01
+description: Pipeline components and pipelines in general
+descriptionFull: |
+  Fluid Systems and Components for General. Pipeline components and pipelines in general.
+edition: 6
+fieldcode: "23"
+groupcode: "040"
+notes:
+  - ics-code: "75.200"
+    text: Pipeiine components and pipelines for petroleum products and natural gas, see {ics-code}
+subgroupcode: "01"

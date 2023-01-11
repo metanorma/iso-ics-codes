@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "17.220.99",
+  "description": "Other standards related to electricity and magnetism",
+  "edition": 6,
+  "fieldcode": "17",
+  "groupcode": "220",
+  "subgroupcode": "99"
+}

@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "67.250"
+description: Materials and articles in contact with foodstuffs
+descriptionFull: |
+  Food Technology. Materials and articles in contact with foodstuffs.
+edition: 6
+fieldcode: "67"
+groupcode: "250"
+notes:
+  - text: Including catering containers, and materials and articles in contact with drinking water

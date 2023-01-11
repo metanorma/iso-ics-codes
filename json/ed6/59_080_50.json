@@ -1,0 +1,23 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "59.080.50",
+  "description": "Ropes",
+  "descriptionFull": "Textile and Leather Technology. Ropes.\n",
+  "edition": 6,
+  "fieldcode": "59",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including strings, straps, bands"
+    },
+    {
+      "ics-code": "53.020.30",
+      "text": "Wire ropes for lifting, see {ics-code}"
+    },
+    {
+      "ics-code": "77.140.65",
+      "text": "Steel wire ropes, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "50"
+}

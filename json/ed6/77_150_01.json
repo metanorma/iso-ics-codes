@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "77.150.01",
+  "description": "Products of non-ferrous metals in general",
+  "edition": 6,
+  "fieldcode": "77",
+  "groupcode": "150",
+  "subgroupcode": "01"
+}

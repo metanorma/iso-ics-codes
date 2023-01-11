@@ -1,0 +1,19 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 27.060.30
+description: Boilers and heat exchangers
+descriptionFull: |
+  Energy and Heat Transfer Engineering. Boilers and heat exchangers.
+edition: 6
+fieldcode: "27"
+groupcode: "060"
+notes:
+  - text: Including steam pressure vessels
+  - ics-code: 11.040.10
+    text: Heat exchangers for medical use, see {ics-code}
+  - ics-code: 71.120.30
+    text: Heat exchangers for the chemical industry, see {ics-code}
+  - ics-code: 75.180.20
+    text: Heat exchangers for the petroleum and natural gas industry, see {ics-code}
+  - ics-code: "97.100"
+    text: Heating appliances for buildings, see {ics-code}
+subgroupcode: "30"

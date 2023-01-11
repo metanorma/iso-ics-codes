@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "21.120.01",
+  "description": "Shafts and couplings in general",
+  "edition": 6,
+  "fieldcode": "21",
+  "groupcode": "120",
+  "subgroupcode": "01"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "13.020.70",
+  "description": "Environmental projects",
+  "edition": 6,
+  "fieldcode": "13",
+  "groupcode": "020",
+  "subgroupcode": "70"
+}

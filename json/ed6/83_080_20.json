@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "83.080.20",
+  "description": "Thermoplastic materials",
+  "edition": 6,
+  "fieldcode": "83",
+  "groupcode": "080",
+  "subgroupcode": "20"
+}

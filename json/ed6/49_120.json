@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "49.120",
+  "description": "Cargo equipment",
+  "descriptionFull": "Shipbuilding and Marine Structures. Cargo equipment.\n",
+  "edition": 6,
+  "fieldcode": "49",
+  "groupcode": "120",
+  "notes": [
+    {
+      "ics-code": "55.180.30",
+      "text": "Air mode containers, pallets and nets, see {ics-code}"
+    }
+  ]
+}

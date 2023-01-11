@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "91.180",
+  "description": "Interior finishing",
+  "descriptionFull": "Construction Materials and Building. Interior finishing.\n",
+  "edition": 6,
+  "fieldcode": "91",
+  "groupcode": "180",
+  "notes": [
+    {
+      "ics-code": "87.020",
+      "text": "Paint coating processes, see {ics-code}"
+    }
+  ]
+}

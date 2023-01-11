@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "83.080.10",
+  "description": "Thermosetting materials",
+  "descriptionFull": "Rubber and Plastic Industries. Thermosetting materials.\n",
+  "edition": 6,
+  "fieldcode": "83",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including ebonite"
+    },
+    {
+      "ics-code": "71.100.55",
+      "text": "Silicones, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "10"
+}

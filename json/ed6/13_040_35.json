@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "13.040.35",
+  "description": "Cleanrooms and associated controlled environments",
+  "edition": 6,
+  "fieldcode": "13",
+  "groupcode": "040",
+  "subgroupcode": "35"
+}

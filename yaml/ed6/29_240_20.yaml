@@ -1,0 +1,7 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 29.240.20
+description: Power transmission and distribution lines
+edition: 6
+fieldcode: "29"
+groupcode: "240"
+subgroupcode: "20"

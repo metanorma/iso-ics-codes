@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "55.180.10",
+  "description": "General purpose containers",
+  "edition": 6,
+  "fieldcode": "55",
+  "groupcode": "180",
+  "subgroupcode": "10"
+}

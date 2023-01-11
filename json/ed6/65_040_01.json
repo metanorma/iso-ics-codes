@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "65.040.01",
+  "description": "Farm buildings and installations in general",
+  "edition": 6,
+  "fieldcode": "65",
+  "groupcode": "040",
+  "subgroupcode": "01"
+}

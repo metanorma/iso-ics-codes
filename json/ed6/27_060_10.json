@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "27.060.10",
+  "description": "Liquid and solid fuel burners",
+  "edition": 6,
+  "fieldcode": "27",
+  "groupcode": "060",
+  "subgroupcode": "10"
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "01.140.20",
+  "description": "Information sciences",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Information sciences.\n",
+  "edition": 6,
+  "fieldcode": "01",
+  "groupcode": "140",
+  "notes": [
+    {
+      "text": "Including documentation, librarianship and archive systems"
+    }
+  ],
+  "subgroupcode": "20"
+}

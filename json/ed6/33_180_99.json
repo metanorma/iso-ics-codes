@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "33.180.99",
+  "description": "Other fibre optic equipment",
+  "edition": 6,
+  "fieldcode": "33",
+  "groupcode": "180",
+  "subgroupcode": "99"
+}

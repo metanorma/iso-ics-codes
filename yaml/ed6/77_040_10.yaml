@@ -1,0 +1,14 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 77.040.10
+description: Mechanical testing of metals
+descriptionFull: |
+  Metallurgy. Mechanical testing of metals.
+edition: 6
+fieldcode: "77"
+groupcode: "040"
+notes:
+  - ics-code: "19.060"
+    text: Mechanicai testing in general, see {ics-code}
+  - ics-code: 25.160.40
+    text: Mechanical testing of welded joints, see {ics-code}
+subgroupcode: "10"

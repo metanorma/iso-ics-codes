@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "25.160.20",
+  "description": "Welding consumables",
+  "descriptionFull": "Manufacturing Engineering. Welding consumables.\n",
+  "edition": 6,
+  "fieldcode": "25",
+  "groupcode": "160",
+  "notes": [
+    {
+      "text": "Including electrodes, filler metals, gases, etc."
+    }
+  ],
+  "subgroupcode": "20"
+}

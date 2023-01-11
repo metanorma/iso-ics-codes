@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "97.200.99",
+  "description": "Other equipment for entertainment",
+  "edition": 6,
+  "fieldcode": "97",
+  "groupcode": "200",
+  "subgroupcode": "99"
+}

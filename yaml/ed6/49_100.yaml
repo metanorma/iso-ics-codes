@@ -1,0 +1,6 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "49.100"
+description: Ground service and maintenance equipment
+edition: 6
+fieldcode: "49"
+groupcode: "100"

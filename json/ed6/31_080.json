@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "31.080",
+  "description": "Semiconductor devices",
+  "descriptionFull": "Electronics. Semiconductor devices.\n",
+  "edition": 6,
+  "fieldcode": "31",
+  "groupcode": "080",
+  "notes": [
+    {
+      "ics-code": "29.045",
+      "text": "Semiconducting materials, see {ics-code}"
+    }
+  ]
+}

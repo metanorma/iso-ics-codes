@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "13.020.30",
+  "description": "Environmental impact assessment",
+  "descriptionFull": "Environment. Health Protection. Safety. Environmental impact assessment.\n",
+  "edition": 6,
+  "fieldcode": "13",
+  "groupcode": "020",
+  "notes": [
+    {
+      "text": "Including environmental risk management"
+    }
+  ],
+  "subgroupcode": "30"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "35.240.10",
+  "description": "Computer-aided design (CAD)",
+  "edition": 6,
+  "fieldcode": "35",
+  "groupcode": "240",
+  "subgroupcode": "10"
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "91.060.30",
+  "description": "Ceilings. Floors. Stairs",
+  "descriptionFull": "Construction Materials and Building. Ceilings. Floors. Stairs.\n",
+  "edition": 6,
+  "fieldcode": "91",
+  "groupcode": "060",
+  "notes": [
+    {
+      "text": "lncludlng screeds, ramps, etc."
+    }
+  ],
+  "subgroupcode": "30"
+}

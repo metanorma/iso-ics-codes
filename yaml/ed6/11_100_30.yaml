@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 11.100.30
+description: Analysis of blood and urine
+descriptionFull: |
+  Health Care Technology. Analysis of blood and urine.
+edition: 6
+fieldcode: "11"
+groupcode: "100"
+notes:
+  - text: Including doping control
+subgroupcode: "30"

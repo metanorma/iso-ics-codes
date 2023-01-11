@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "85.040",
+  "description": "Pulps",
+  "edition": 6,
+  "fieldcode": "85",
+  "groupcode": "040"
+}

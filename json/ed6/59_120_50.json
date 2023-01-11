@@ -1,0 +1,16 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "59.120.50",
+  "description": "Dyeing and finishing equipment",
+  "descriptionFull": "Textile and Leather Technology. Dyeing and finishing equipment.\n",
+  "edition": 6,
+  "fieldcode": "59",
+  "groupcode": "120",
+  "notes": [
+    {
+      "ics-code": "97.060",
+      "text": "Laundry appliances, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "50"
+}

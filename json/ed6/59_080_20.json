@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "59.080.20",
+  "description": "Yarns",
+  "descriptionFull": "Textile and Leather Technology. Yarns.\n",
+  "edition": 6,
+  "fieldcode": "59",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including plied yarns, textured yarns, threads"
+    }
+  ],
+  "subgroupcode": "20"
+}

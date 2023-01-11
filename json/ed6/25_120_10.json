@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "25.120.10",
+  "description": "Forging equipment. Presses. Shears",
+  "edition": 6,
+  "fieldcode": "25",
+  "groupcode": "120",
+  "subgroupcode": "10"
+}

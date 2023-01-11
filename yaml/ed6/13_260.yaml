@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "13.260"
+description: Protection against electric shock. Live working
+descriptionFull: |
+  Environment. Health Protection. Safety. Protection against electric shock. Live working.
+edition: 6
+fieldcode: "13"
+groupcode: "260"
+notes:
+  - text: Including tools for working with voltages

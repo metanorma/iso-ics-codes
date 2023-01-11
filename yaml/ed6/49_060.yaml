@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "49.060"
+description: Aerospace electric equipment and systems
+descriptionFull: |
+  Shipbuilding and Marine Structures. Aerospace electric equipment and systems.
+edition: 6
+fieldcode: "49"
+groupcode: "060"
+notes:
+  - text: Including Avionics

@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "29.100",
+  "description": "Components for electrical equipment",
+  "descriptionFull": "Electrical Engineering. Components for electrical equipment.\n",
+  "edition": 6,
+  "fieldcode": "29",
+  "groupcode": "100",
+  "notes": [
+    {
+      "ics-code": "31",
+      "text": "Electronic components, see {ics-code}"
+    }
+  ]
+}

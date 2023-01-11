@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "29.040.99",
+  "description": "Other insulating fluids",
+  "edition": 6,
+  "fieldcode": "29",
+  "groupcode": "040",
+  "subgroupcode": "99"
+}

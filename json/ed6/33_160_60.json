@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "33.160.60",
+  "description": "Multimedia systems and teleconferencing equipment",
+  "edition": 6,
+  "fieldcode": "33",
+  "groupcode": "160",
+  "subgroupcode": "60"
+}

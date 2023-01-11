@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 03.100.40
+description: Research and development
+descriptionFull: |
+  Services. Company Organization. Management and Quality. Administration. Transport. Socliology. Research and development.
+edition: 6
+fieldcode: "03"
+groupcode: "100"
+notes:
+  - text: Including project management, value analysis, etc.
+subgroupcode: "40"

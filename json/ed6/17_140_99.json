@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "17.140.99",
+  "description": "Other standards related to acoustics",
+  "edition": 6,
+  "fieldcode": "17",
+  "groupcode": "140",
+  "subgroupcode": "99"
+}

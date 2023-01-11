@@ -1,0 +1,7 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 97.100.30
+description: Solid fuel heaters
+edition: 6
+fieldcode: "97"
+groupcode: "100"
+subgroupcode: "30"

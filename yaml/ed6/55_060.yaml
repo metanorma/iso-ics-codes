@@ -1,0 +1,16 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "55.060"
+description: Spools. Bobbins
+descriptionFull: |
+  Packaging and Distribution of Goods. Spools. Bobbins.
+edition: 6
+fieldcode: "55"
+groupcode: "060"
+notes:
+  - text: Including holders, supports, etc. for externally wound or mounted material
+  - ics-code: 37.040.20
+    text: Photographic and cinematographic film rolls, cores, spools, reels, etc., see {ics-code}
+  - ics-code: 37.060.20
+    text: Photographic fils rolls, cores, spools, reels, etc., see {ics-code}
+  - ics-code: 59.120.20
+    text: Cones, tubes, beams, etc. for textile materials, see {ics-code}

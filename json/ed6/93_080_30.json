@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "93.080.30",
+  "description": "Road equipment and installations",
+  "descriptionFull": "Civil Engineering. Road equipment and installations.\n",
+  "edition": 6,
+  "fieldcode": "93",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including road traffic warning and control systems, devices and installations (speed controls, traffic signal installations, vehicle loop detectors, pavement markers, manholes, etc.)"
+    }
+  ],
+  "subgroupcode": "30"
+}

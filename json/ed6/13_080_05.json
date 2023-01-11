@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "13.080.05",
+  "description": "Examination of soils in general",
+  "descriptionFull": "Environment. Health Protection. Safety. Examination of soils in general.\n",
+  "edition": 6,
+  "fieldcode": "13",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including sampling"
+    }
+  ],
+  "subgroupcode": "05"
+}

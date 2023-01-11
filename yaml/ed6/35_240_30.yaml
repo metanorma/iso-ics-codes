@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 35.240.30
+description: IT applications in information, documentation and publishing
+descriptionFull: |
+  Information Technology. Office Machines. IT applications in information, documentation and publishing.
+edition: 6
+fieldcode: "35"
+groupcode: "240"
+notes:
+  - text: Including Standard Generalized Markup Language (SGML), automatic translation machines, etc.
+subgroupcode: "30"

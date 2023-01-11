@@ -1,0 +1,16 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 91.140.80
+description: Drainage systems
+descriptionFull: |
+  Construction Materials and Building. Drainage systems.
+edition: 6
+fieldcode: "91"
+groupcode: "140"
+notes:
+  - ics-code: 13.060.30
+    text: Sewage water disposal and treatment, see {ics-code}
+  - ics-code: 91.060.20
+    text: Drainage systems for rainwater, see {ics-code}
+  - ics-code: "93.030"
+    text: External sewage systems, see {ics-code}
+subgroupcode: "80"

@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 71.060.20
+description: Oxides
+descriptionFull: |
+  Chemical Technology. Oxides.
+edition: 6
+fieldcode: "71"
+groupcode: "060"
+notes:
+  - text: Including dioxides, peroxides, etc.
+subgroupcode: "20"

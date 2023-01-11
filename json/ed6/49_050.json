@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "49.050",
+  "description": "Aerospace engines and propulsion systems",
+  "descriptionFull": "Shipbuilding and Marine Structures. Aerospace engines and propulsion systems.\n",
+  "edition": 6,
+  "fieldcode": "49",
+  "groupcode": "050",
+  "notes": [
+    {
+      "text": "Including fuel systems"
+    }
+  ]
+}

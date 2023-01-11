@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "33.070.99",
+  "description": "Other mobile services",
+  "edition": 6,
+  "fieldcode": "33",
+  "groupcode": "070",
+  "subgroupcode": "99"
+}

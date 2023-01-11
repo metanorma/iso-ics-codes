@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "71.060.40",
+  "description": "Bases",
+  "edition": 6,
+  "fieldcode": "71",
+  "groupcode": "060",
+  "subgroupcode": "40"
+}

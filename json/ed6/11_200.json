@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "11.200",
+  "description": "Birth control. Mechanical contraceptives",
+  "edition": 6,
+  "fieldcode": "11",
+  "groupcode": "200"
+}

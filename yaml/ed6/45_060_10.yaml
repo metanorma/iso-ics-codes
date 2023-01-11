@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 45.060.10
+description: Tractive stock
+descriptionFull: |
+  Railway Engineering. Tractive stock.
+edition: 6
+fieldcode: "45"
+groupcode: "060"
+notes:
+  - ics-code: "29.280"
+    text: Electric traction equipment, see {ics-code}
+subgroupcode: "10"

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "45.060.01",
+  "description": "Railway rolling stock in general",
+  "edition": 6,
+  "fieldcode": "45",
+  "groupcode": "060",
+  "subgroupcode": "01"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "67.120.10",
+  "description": "Meat and meat products",
+  "edition": 6,
+  "fieldcode": "67",
+  "groupcode": "120",
+  "subgroupcode": "10"
+}

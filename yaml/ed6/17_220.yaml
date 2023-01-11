@@ -1,0 +1,6 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "17.220"
+description: Electricity. Magnetism. Electrical and magnetic measurements
+edition: 6
+fieldcode: "17"
+groupcode: "220"

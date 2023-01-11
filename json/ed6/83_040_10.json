@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "83.040.10",
+  "description": "Latex and raw rubber",
+  "edition": 6,
+  "fieldcode": "83",
+  "groupcode": "040",
+  "subgroupcode": "10"
+}

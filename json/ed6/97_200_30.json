@@ -1,0 +1,16 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "97.200.30",
+  "description": "Camping equipment and camp-sites",
+  "descriptionFull": "Domestic and Commercial Equipment. Entertainment. Sports. Camping equipment and camp-sites.\n",
+  "edition": 6,
+  "fieldcode": "97",
+  "groupcode": "200",
+  "notes": [
+    {
+      "ics-code": "43.100",
+      "text": "Caravans, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "30"
+}

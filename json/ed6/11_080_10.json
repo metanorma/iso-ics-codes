@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "11.080.10",
+  "description": "Sterilizing equipment",
+  "edition": 6,
+  "fieldcode": "11",
+  "groupcode": "080",
+  "subgroupcode": "10"
+}

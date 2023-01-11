@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "23.020",
+  "description": "Fluid storage devices",
+  "descriptionFull": "Fluid Systems and Components for General. Fluid storage devices.\n",
+  "edition": 6,
+  "fieldcode": "23",
+  "groupcode": "020",
+  "notes": [
+    {
+      "ics-code": "17.120",
+      "text": "Measurement of fluid flow, see {ics-code}"
+    }
+  ]
+}

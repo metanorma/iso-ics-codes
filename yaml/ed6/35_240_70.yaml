@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 35.240.70
+description: IT applications in science
+descriptionFull: |
+  Information Technology. Office Machines. IT applications in science.
+edition: 6
+fieldcode: "35"
+groupcode: "240"
+notes:
+  - text: including digital geographic information
+subgroupcode: "70"

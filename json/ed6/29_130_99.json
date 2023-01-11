@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "29.130.99",
+  "description": "Other switchgear and controlgear",
+  "edition": 6,
+  "fieldcode": "29",
+  "groupcode": "130",
+  "subgroupcode": "99"
+}

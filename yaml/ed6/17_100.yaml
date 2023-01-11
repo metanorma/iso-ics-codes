@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "17.100"
+description: Measurement of force, weight and pressure
+descriptionFull: |
+  Metrology and Measurement. Physical Phenomena. Measurement of force, weight and pressure.
+edition: 6
+fieldcode: "17"
+groupcode: "100"
+notes:
+  - text: Including measuring and weighing instruments

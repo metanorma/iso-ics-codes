@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "55.180.40",
+  "description": "Complete, filled transport packages",
+  "descriptionFull": "Packaging and Distribution of Goods. Complete, filled transport packages.\n",
+  "edition": 6,
+  "fieldcode": "55",
+  "groupcode": "180",
+  "notes": [
+    {
+      "text": "Including reusable packages and unit loads"
+    }
+  ],
+  "subgroupcode": "40"
+}

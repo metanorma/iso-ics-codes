@@ -1,0 +1,14 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "61.040"
+description: Headgear. Clothing accessories. Fastening of clothing
+descriptionFull: |
+  Clothing Industry. Headgear. Clothing accessories. Fastening of clothing.
+edition: 6
+fieldcode: "61"
+groupcode: "040"
+notes:
+  - text: Including ties, gloves, scarves, handkerchiefs, belts, braces, buttons, zip-fasteners, umbrellas, etc.
+  - ics-code: 13.340.20
+    text: Protective headgear, see {ics-code}
+  - ics-code: 13.340.40
+    text: Protective gloves, see {ics-code}

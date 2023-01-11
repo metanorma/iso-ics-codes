@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "47.020.80",
+  "description": "Accommodation spaces",
+  "edition": 6,
+  "fieldcode": "47",
+  "groupcode": "020",
+  "subgroupcode": "80"
+}
