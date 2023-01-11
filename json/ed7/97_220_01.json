@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "97.220.01",
+  "description": "Sports equipment and facilities in general",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Sports equipment and facilities. Sports equipment and facilities in general.",
+  "fieldcode": "97",
+  "groupcode": "220",
+  "subgroupcode": "01"
+}

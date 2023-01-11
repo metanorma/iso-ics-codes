@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "23.100.60",
+  "description": "Filters, seals and contamination of fluids",
+  "descriptionFull": "Fluid systems and components for general use. Fluid power systems. Filters, seals and contamination of fluids.",
+  "fieldcode": "23",
+  "groupcode": "100",
+  "notes": [
+    {
+      "ics-code": "75.120",
+      "text": "Hydraulic fluids, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "60"
+}

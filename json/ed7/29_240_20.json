@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "29.240.20",
+  "description": "Power transmission and distribution lines",
+  "descriptionFull": "Electrical engineering. Power transmission and distribution networks. Power transmission and distribution lines.",
+  "fieldcode": "29",
+  "groupcode": "240",
+  "subgroupcode": "20"
+}

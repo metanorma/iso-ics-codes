@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "01.060",
+  "description": "Quantities and units",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Quantities and units.",
+  "edition": 7,
+  "fieldcode": "01",
+  "groupcode": "060"
+}

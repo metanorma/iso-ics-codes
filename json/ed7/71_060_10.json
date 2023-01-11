@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "71.060.10",
+  "description": "Chemical elements",
+  "descriptionFull": "Chemical technology. Inorganic chemicals. Chemical elements.",
+  "fieldcode": "71",
+  "groupcode": "060",
+  "subgroupcode": "10"
+}

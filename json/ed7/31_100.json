@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "31.100",
+  "description": "Electronic tubes",
+  "descriptionFull": "Electronics. Electronic tubes.",
+  "edition": 7,
+  "fieldcode": "31",
+  "groupcode": "100"
+}

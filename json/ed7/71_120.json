@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "71.120",
+  "description": "Equipment for the chemical industry",
+  "descriptionFull": "Chemical technology. Equipment for the chemical industry.",
+  "edition": 7,
+  "fieldcode": "71",
+  "groupcode": "120",
+  "notes": [
+    {
+      "ics-code": "13.300",
+      "text": "Protection against dangerous goods, see {ics-code}"
+    }
+  ]
+}

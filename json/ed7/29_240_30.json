@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "29.240.30",
+  "description": "Control equipment for electric power systems",
+  "descriptionFull": "Electrical engineering. Power transmission and distribution networks. Control equipment for electric power systems.",
+  "fieldcode": "29",
+  "groupcode": "240",
+  "notes": [
+    {
+      "ics-code": "17.220.20",
+      "text": "Measurement of electrical and magnetic quantities, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "30"
+}

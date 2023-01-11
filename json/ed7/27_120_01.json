@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "27.120.01",
+  "description": "Nuclear energy in general",
+  "descriptionFull": "Energy and heat transfer engineering. Nuclear energy engineering. Nuclear energy in general.",
+  "fieldcode": "27",
+  "groupcode": "120",
+  "subgroupcode": "01"
+}

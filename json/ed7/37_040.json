@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "37.040",
+  "description": "Photography",
+  "descriptionFull": "Image technology. Photography.",
+  "edition": 7,
+  "fieldcode": "37",
+  "groupcode": "040",
+  "notes": [
+    {
+      "ics-code": "97.200.10",
+      "text": "Theatre, stage and studio equipment, see {ics-code}"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "55.140",
+  "description": "Barrels. Drums. Canisters",
+  "descriptionFull": "Packaging and distribution of goods. Barrels. Drums. Canisters.",
+  "edition": 7,
+  "fieldcode": "55",
+  "groupcode": "140",
+  "notes": [
+    {
+      "text": "Containers mainly for transportation of fluids, including also casks, pails, large tin cans for shipping materials, etc."
+    },
+    {
+      "ics-code": "23.020",
+      "text": "Fluid storage devices, see {ics-code}"
+    }
+  ]
+}

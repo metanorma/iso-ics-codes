@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "01.140",
+  "description": "Information sciences. Publishing",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Information sciences. Publishing.",
+  "edition": 7,
+  "fieldcode": "01",
+  "groupcode": "140",
+  "notes": [
+    {
+      "ics-code": "35.240.30",
+      "text": "IT applications in information, documentation and publishing, see {ics-code}"
+    }
+  ]
+}

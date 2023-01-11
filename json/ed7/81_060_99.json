@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "81.060.99",
+  "description": "Other standards related to ceramics",
+  "descriptionFull": "Glass and ceramics industries. Ceramics. Other standards related to ceramics.",
+  "fieldcode": "81",
+  "groupcode": "060",
+  "subgroupcode": "99"
+}

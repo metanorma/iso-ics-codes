@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "31.080.10",
+  "description": "Diodes",
+  "descriptionFull": "Electronics. Semiconductor devices. Diodes.",
+  "fieldcode": "31",
+  "groupcode": "080",
+  "subgroupcode": "10"
+}

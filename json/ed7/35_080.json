@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "35.080",
+  "description": "Software",
+  "descriptionFull": "Information technology. Software.",
+  "edition": 7,
+  "fieldcode": "35",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including software development, documentation and use"
+    },
+    {
+      "ics-code": "35.240.95",
+      "text": "Internet applications, see {ics-code}"
+    }
+  ]
+}

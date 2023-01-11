@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "01.140.10",
+  "description": "Writing and transliteration",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Information sciences. Publishing. Writing and transliteration.",
+  "fieldcode": "01",
+  "groupcode": "140",
+  "notes": [
+    {
+      "ics-code": "35.040.10",
+      "text": "Coding of character sets, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "10"
+}

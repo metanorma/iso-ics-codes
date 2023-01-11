@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "33.160.20",
+  "description": "Radio receivers",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Audio, video and audiovisual engineering. Radio receivers.",
+  "fieldcode": "33",
+  "groupcode": "160",
+  "subgroupcode": "20"
+}

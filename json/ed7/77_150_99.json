@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "77.150.99",
+  "description": "Other products of non-ferrous metals",
+  "descriptionFull": "Metallurgy. Products of non-ferrous metals. Other products of non-ferrous metals.",
+  "fieldcode": "77",
+  "groupcode": "150",
+  "subgroupcode": "99"
+}

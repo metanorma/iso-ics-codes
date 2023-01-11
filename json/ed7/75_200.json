@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "75.200",
+  "description": "Petroleum products and natural gas handling equipment",
+  "descriptionFull": "Petroleum and related technologies. Petroleum products and natural gas handling equipment.",
+  "edition": 7,
+  "fieldcode": "75",
+  "groupcode": "200",
+  "notes": [
+    {
+      "text": "Including petroleum and natural gas storage devices, distribution systems, pipelines, petrol stations, dispensing devices, etc."
+    }
+  ]
+}

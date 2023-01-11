@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "91.140",
+  "description": "Installations in buildings",
+  "descriptionFull": "Construction materials and building. Installations in buildings.",
+  "edition": 7,
+  "fieldcode": "91",
+  "groupcode": "140",
+  "notes": [
+    {
+      "ics-code": "27.060",
+      "text": "Burners. Boilers, see {ics-code}"
+    },
+    {
+      "ics-code": "27.080",
+      "text": "Heat pumps, see {ics-code}"
+    }
+  ]
+}

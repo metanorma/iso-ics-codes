@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "33.200",
+  "description": "Telecontrol. Telemetering",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Telecontrol. Telemetering.",
+  "edition": 7,
+  "fieldcode": "33",
+  "groupcode": "200",
+  "notes": [
+    {
+      "text": "Including Supervising, Control and Data Acquisition System (SCADA)"
+    }
+  ]
+}

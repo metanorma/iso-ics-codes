@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "03.100.40",
+  "description": "Research and development",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Company organization and management. Management systems. Research and development.",
+  "fieldcode": "03",
+  "groupcode": "100",
+  "notes": [
+    {
+      "text": "Including project management, value analysis, etc."
+    }
+  ],
+  "subgroupcode": "40"
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "37.100.01",
+  "description": "Graphic technology in general",
+  "descriptionFull": "Image technology. Graphic technology. Graphic technology in general.",
+  "fieldcode": "37",
+  "groupcode": "100",
+  "notes": [
+    {
+      "text": "Including proof corrections"
+    }
+  ],
+  "subgroupcode": "01"
+}

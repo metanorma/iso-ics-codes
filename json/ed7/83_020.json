@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "83.020",
+  "description": "Manufacturing processes in the rubber and plastics industries",
+  "descriptionFull": "Rubber and plastic industries. Manufacturing processes in the rubber and plastics industries.",
+  "edition": 7,
+  "fieldcode": "83",
+  "groupcode": "020"
+}

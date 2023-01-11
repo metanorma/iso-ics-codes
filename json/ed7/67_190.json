@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "67.190",
+  "description": "Chocolate",
+  "descriptionFull": "Food technology. Chocolate.",
+  "edition": 7,
+  "fieldcode": "67",
+  "groupcode": "190"
+}

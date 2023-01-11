@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "37.100",
+  "description": "Graphic technology",
+  "descriptionFull": "Image technology. Graphic technology.",
+  "edition": 7,
+  "fieldcode": "37",
+  "groupcode": "100"
+}

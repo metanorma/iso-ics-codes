@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "93.080.99",
+  "description": "Other standards related to road engineering",
+  "descriptionFull": "Civil engineering. Road engineering. Other standards related to road engineering.",
+  "fieldcode": "93",
+  "groupcode": "080",
+  "subgroupcode": "99"
+}

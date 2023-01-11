@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "59.100",
+  "description": "Materials for the reinforcement of composites",
+  "descriptionFull": "Textile and leather technology. Materials for the reinforcement of composites.",
+  "edition": 7,
+  "fieldcode": "59",
+  "groupcode": "100"
+}

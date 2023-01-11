@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "77.060",
+  "description": "Corrosion of metals",
+  "descriptionFull": "Metallurgy. Corrosion of metals.",
+  "edition": 7,
+  "fieldcode": "77",
+  "groupcode": "060",
+  "notes": [
+    {
+      "ics-code": "25.220",
+      "text": "Surface treatment and coating, see {ics-code}"
+    }
+  ]
+}

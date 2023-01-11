@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "65.100",
+  "description": "Pesticides and other agrochemicals",
+  "descriptionFull": "Agriculture. Pesticides and other agrochemicals.",
+  "edition": 7,
+  "fieldcode": "65",
+  "groupcode": "100"
+}

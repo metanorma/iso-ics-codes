@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "65.040.30",
+  "description": "Greenhouses and other installations",
+  "descriptionFull": "Agriculture. Farm buildings, structures and installations. Greenhouses and other installations.",
+  "fieldcode": "65",
+  "groupcode": "040",
+  "subgroupcode": "30"
+}

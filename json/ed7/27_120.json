@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "27.120",
+  "description": "Nuclear energy engineering",
+  "descriptionFull": "Energy and heat transfer engineering. Nuclear energy engineering.",
+  "edition": 7,
+  "fieldcode": "27",
+  "groupcode": "120"
+}

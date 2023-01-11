@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "61.080",
+  "description": "Sewing machines and other equipment for the clothing industry",
+  "descriptionFull": "Clothing industry. Sewing machines and other equipment for the clothing industry.",
+  "edition": 7,
+  "fieldcode": "61",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including household sewing machines"
+    },
+    {
+      "ics-code": "97.060",
+      "text": "Laundry appliances, see {ics-code}"
+    }
+  ]
+}

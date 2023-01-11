@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "97.040.40",
+  "description": "Dishwashers",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Kitchen equipment. Dishwashers.",
+  "fieldcode": "97",
+  "groupcode": "040",
+  "subgroupcode": "40"
+}

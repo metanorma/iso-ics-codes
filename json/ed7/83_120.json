@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "83.120",
+  "description": "Reinforced plastics",
+  "descriptionFull": "Rubber and plastic industries. Reinforced plastics.",
+  "edition": 7,
+  "fieldcode": "83",
+  "groupcode": "120",
+  "notes": [
+    {
+      "ics-code": "59.100",
+      "text": "Materials for the reinforcement of composites, see {ics-code}"
+    }
+  ]
+}

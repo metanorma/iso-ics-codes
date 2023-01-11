@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "33.180.20",
+  "description": "Fibre optic interconnecting devices",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Fibre optic communications. Fibre optic interconnecting devices.",
+  "fieldcode": "33",
+  "groupcode": "180",
+  "subgroupcode": "20"
+}

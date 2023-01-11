@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "77.120.70",
+  "description": "Cadmium, cobalt and their alloys",
+  "descriptionFull": "Metallurgy. Non-ferrous metals. Cadmium, cobalt and their alloys.",
+  "fieldcode": "77",
+  "groupcode": "120",
+  "subgroupcode": "70"
+}

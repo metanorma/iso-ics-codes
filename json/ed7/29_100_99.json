@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "29.100.99",
+  "description": "Other components for electrical equipment",
+  "descriptionFull": "Electrical engineering. Components for electrical equipment. Other components for electrical equipment.",
+  "fieldcode": "29",
+  "groupcode": "100",
+  "subgroupcode": "99"
+}

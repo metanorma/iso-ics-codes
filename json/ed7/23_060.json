@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "23.060",
+  "description": "Valves",
+  "descriptionFull": "Fluid systems and components for general use. Valves.",
+  "edition": 7,
+  "fieldcode": "23",
+  "groupcode": "060"
+}

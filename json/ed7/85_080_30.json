@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "85.080.30",
+  "description": "Cardboard",
+  "descriptionFull": "Paper technology. Paper products. Cardboard.",
+  "fieldcode": "85",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including corrugated fibreboard"
+    },
+    {
+      "ics-code": "55.040",
+      "text": "Packaging materials and accessories, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "30"
+}

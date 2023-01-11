@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "91.100.60",
+  "description": "Thermal and sound insulating materials",
+  "descriptionFull": "Construction materials and building. Construction materials. Thermal and sound insulating materials.",
+  "fieldcode": "91",
+  "groupcode": "100",
+  "subgroupcode": "60"
+}

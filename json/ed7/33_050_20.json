@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "33.050.20",
+  "description": "Paging equipment",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Telecommunication terminal equipment. Paging equipment.",
+  "fieldcode": "33",
+  "groupcode": "050",
+  "subgroupcode": "20"
+}

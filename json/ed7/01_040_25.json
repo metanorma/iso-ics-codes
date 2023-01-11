@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "01.040.25",
+  "description": "Manufacturing engineering (Vocabularies)",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Vocabularies. Manufacturing engineering (Vocabularies).",
+  "fieldcode": "01",
+  "groupcode": "040",
+  "subgroupcode": "25"
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "11.140",
+  "description": "Hospital equipment",
+  "descriptionFull": "Health care technology. Hospital equipment.",
+  "edition": 7,
+  "fieldcode": "11",
+  "groupcode": "140",
+  "notes": [
+    {
+      "text": "Including hospital beds, surgical tables, medical garments, medical gloves, containers for sharp disposal, etc."
+    }
+  ]
+}

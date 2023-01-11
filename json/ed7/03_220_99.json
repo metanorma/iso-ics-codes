@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "03.220.99",
+  "description": "Other forms of transport",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Transport. Other forms of transport.",
+  "fieldcode": "03",
+  "groupcode": "220",
+  "subgroupcode": "99"
+}

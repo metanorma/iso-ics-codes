@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "25.140",
+  "description": "Hand-held tools",
+  "descriptionFull": "Manufacturing engineering. Hand-held tools.",
+  "edition": 7,
+  "fieldcode": "25",
+  "groupcode": "140",
+  "notes": [
+    {
+      "ics-code": "13.260",
+      "text": "Protection against electric shock.  Live working, see {ics-code}"
+    }
+  ]
+}

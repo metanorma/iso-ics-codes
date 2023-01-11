@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "25.120.30",
+  "description": "Moulding equipment",
+  "descriptionFull": "Manufacturing engineering. Chipless working equipment. Moulding equipment.",
+  "fieldcode": "25",
+  "groupcode": "120",
+  "subgroupcode": "30"
+}

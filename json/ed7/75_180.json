@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "75.180",
+  "description": "Equipment for petroleum and natural gas industries",
+  "descriptionFull": "Petroleum and related technologies. Equipment for petroleum and natural gas industries.",
+  "edition": 7,
+  "fieldcode": "75",
+  "groupcode": "180"
+}

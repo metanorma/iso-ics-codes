@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "21.060.50",
+  "description": "Pins, nails",
+  "descriptionFull": "Mechanical systems and components for general use. Fasteners. Pins, nails.",
+  "fieldcode": "21",
+  "groupcode": "060",
+  "subgroupcode": "50"
+}

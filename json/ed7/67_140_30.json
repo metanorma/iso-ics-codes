@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "67.140.30",
+  "description": "Cocoa",
+  "descriptionFull": "Food technology. Tea. Coffee. Cocoa. Cocoa.",
+  "fieldcode": "67",
+  "groupcode": "140",
+  "subgroupcode": "30"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "55.130",
+  "description": "Aerosol containers",
+  "descriptionFull": "Packaging and distribution of goods. Aerosol containers.",
+  "edition": 7,
+  "fieldcode": "55",
+  "groupcode": "130"
+}

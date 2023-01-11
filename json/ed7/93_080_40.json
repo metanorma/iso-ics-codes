@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "93.080.40",
+  "description": "Street lighting and related equipment",
+  "descriptionFull": "Civil engineering. Road engineering. Street lighting and related equipment.",
+  "fieldcode": "93",
+  "groupcode": "080",
+  "subgroupcode": "40"
+}

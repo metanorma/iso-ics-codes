@@ -1,0 +1,27 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "27.200",
+  "description": "Refrigerating technology",
+  "descriptionFull": "Energy and heat transfer engineering. Refrigerating technology.",
+  "edition": 7,
+  "fieldcode": "27",
+  "groupcode": "200",
+  "notes": [
+    {
+      "ics-code": "23.120",
+      "text": "Ventilators. Fans. Air-conditioners, see {ics-code}"
+    },
+    {
+      "ics-code": "71.100.45",
+      "text": "Refrigerants and antifreezes, see {ics-code}"
+    },
+    {
+      "ics-code": "97.130.20",
+      "text": "Commercial refrigerating appliances, see {ics-code}"
+    },
+    {
+      "ics-code": "97.040.30",
+      "text": "Domestic refrigerating appliances, see {ics-code}"
+    }
+  ]
+}

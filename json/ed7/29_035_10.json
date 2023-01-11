@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "29.035.10",
+  "description": "Paper and board insulating materials",
+  "descriptionFull": "Electrical engineering. Insulating materials. Paper and board insulating materials.",
+  "fieldcode": "29",
+  "groupcode": "035",
+  "subgroupcode": "10"
+}

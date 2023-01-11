@@ -1,0 +1,22 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "75.160.10",
+  "description": "Solid fuels",
+  "descriptionFull": "Petroleum and related technologies. Fuels. Solid fuels.",
+  "fieldcode": "75",
+  "groupcode": "160",
+  "notes": [
+    {
+      "text": "Including coal products, coke, peat, wood, derivatives of coal pyrolysis, etc."
+    },
+    {
+      "ics-code": "73.040",
+      "text": "Coals, see {ics-code}"
+    },
+    {
+      "ics-code": "75.160.40",
+      "text": "Biofuels, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "10"
+}

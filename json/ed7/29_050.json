@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "29.050",
+  "description": "Superconductivity and conducting materials",
+  "descriptionFull": "Electrical engineering. Superconductivity and conducting materials.",
+  "edition": 7,
+  "fieldcode": "29",
+  "groupcode": "050"
+}

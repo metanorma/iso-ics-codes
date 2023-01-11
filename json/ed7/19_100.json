@@ -1,0 +1,26 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "19.100",
+  "description": "Non-destructive testing",
+  "descriptionFull": "Testing. Non-destructive testing.",
+  "edition": 7,
+  "fieldcode": "19",
+  "groupcode": "100",
+  "notes": [
+    {
+      "text": "Including testing equipment: industrial apparatus for X-ray and gamma radiography, penetrant flaw detectors, etc."
+    },
+    {
+      "ics-code": "25.160.40",
+      "text": "Welded joints and welds, see {ics-code}"
+    },
+    {
+      "ics-code": "37.040.25",
+      "text": "Radiographic films, see {ics-code}"
+    },
+    {
+      "ics-code": "77.040.20",
+      "text": "Non-destructive testing of metals, see {ics-code}"
+    }
+  ]
+}

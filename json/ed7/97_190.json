@@ -1,0 +1,26 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "97.190",
+  "description": "Equipment for children",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Equipment for children.",
+  "edition": 7,
+  "fieldcode": "97",
+  "groupcode": "190",
+  "notes": [
+    {
+      "text": "Including child safety requirements for other household equipment"
+    },
+    {
+      "ics-code": "97.140",
+      "text": "Furniture, see {ics-code}"
+    },
+    {
+      "ics-code": "97.200.40",
+      "text": "Playgrounds, see {ics-code}"
+    },
+    {
+      "ics-code": "97.200.50",
+      "text": "Toys, see {ics-code}"
+    }
+  ]
+}

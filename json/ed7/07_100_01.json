@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "07.100.01",
+  "description": "Microbiology in general",
+  "descriptionFull": "Natural and applied sciences. Microbiology. Microbiology in general.",
+  "fieldcode": "07",
+  "groupcode": "100",
+  "subgroupcode": "01"
+}

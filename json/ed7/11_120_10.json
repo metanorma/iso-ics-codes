@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "11.120.10",
+  "description": "Medicaments",
+  "descriptionFull": "Health care technology. Pharmaceutics. Medicaments.",
+  "fieldcode": "11",
+  "groupcode": "120",
+  "notes": [
+    {
+      "text": "Including medical prescriptions and medicinal herbs"
+    }
+  ],
+  "subgroupcode": "10"
+}

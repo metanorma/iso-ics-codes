@@ -1,0 +1,23 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "13.060.20",
+  "description": "Drinking water",
+  "descriptionFull": "Environment. Health protection. Safety. Water quality. Drinking water.",
+  "fieldcode": "13",
+  "groupcode": "060",
+  "notes": [
+    {
+      "ics-code": "67.160.20",
+      "text": "Non-alcoholic beverages, see {ics-code}"
+    },
+    {
+      "ics-code": "71.100.80",
+      "text": "Chemicals for purification of water, see {ics-code}"
+    },
+    {
+      "ics-code": "91.140.60",
+      "text": "Water supply systems, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "20"
+}

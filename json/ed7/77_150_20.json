@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "77.150.20",
+  "description": "Magnesium products",
+  "descriptionFull": "Metallurgy. Products of non-ferrous metals. Magnesium products.",
+  "fieldcode": "77",
+  "groupcode": "150",
+  "subgroupcode": "20"
+}

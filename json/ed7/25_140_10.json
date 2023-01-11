@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "25.140.10",
+  "description": "Pneumatic tools",
+  "descriptionFull": "Manufacturing engineering. Hand-held tools. Pneumatic tools.",
+  "fieldcode": "25",
+  "groupcode": "140",
+  "subgroupcode": "10"
+}

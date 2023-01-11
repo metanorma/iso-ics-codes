@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "03.200.99",
+  "description": "Other standards relating to leisure and tourism",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Leisure. Tourism. Other standards relating to leisure and tourism.",
+  "fieldcode": "03",
+  "groupcode": "200",
+  "notes": [
+    {
+      "text": "Including recreational diving services"
+    }
+  ],
+  "subgroupcode": "99"
+}

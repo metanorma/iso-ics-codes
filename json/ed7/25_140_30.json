@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "25.140.30",
+  "description": "Hand-operated tools",
+  "descriptionFull": "Manufacturing engineering. Hand-held tools. Hand-operated tools.",
+  "fieldcode": "25",
+  "groupcode": "140",
+  "notes": [
+    {
+      "text": "Including wrenches, screwdrivers, pliers, nippers, hammers, etc."
+    }
+  ],
+  "subgroupcode": "30"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "33.070.10",
+  "description": "Terrestrial Trunked Radio (TETRA)",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Mobile services. Terrestrial Trunked Radio (TETRA).",
+  "fieldcode": "33",
+  "groupcode": "070",
+  "subgroupcode": "10"
+}

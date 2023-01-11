@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "21.120.99",
+  "description": "Other standards related to shafts and couplings",
+  "descriptionFull": "Mechanical systems and components for general use. Shafts and couplings. Other standards related to shafts and couplings.",
+  "fieldcode": "21",
+  "groupcode": "120",
+  "subgroupcode": "99"
+}

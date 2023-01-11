@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "91.010.10",
+  "description": "Legal aspects",
+  "descriptionFull": "Construction materials and building. Construction industry. Legal aspects.",
+  "fieldcode": "91",
+  "groupcode": "010",
+  "subgroupcode": "10"
+}

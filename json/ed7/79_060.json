@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "79.060",
+  "description": "Wood-based panels",
+  "descriptionFull": "Wood technology. Wood-based panels.",
+  "edition": 7,
+  "fieldcode": "79",
+  "groupcode": "060"
+}

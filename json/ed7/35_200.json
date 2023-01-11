@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "35.200",
+  "description": "Interface and interconnection equipment",
+  "descriptionFull": "Information technology. Interface and interconnection equipment.",
+  "edition": 7,
+  "fieldcode": "35",
+  "groupcode": "200"
+}

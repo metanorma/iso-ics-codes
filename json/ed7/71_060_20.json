@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "71.060.20",
+  "description": "Oxides",
+  "descriptionFull": "Chemical technology. Inorganic chemicals. Oxides.",
+  "fieldcode": "71",
+  "groupcode": "060",
+  "notes": [
+    {
+      "text": "Including dioxides, peroxides, etc."
+    }
+  ],
+  "subgroupcode": "20"
+}

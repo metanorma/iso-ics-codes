@@ -1,0 +1,38 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "91.100",
+  "description": "Construction materials",
+  "descriptionFull": "Construction materials and building. Construction materials.",
+  "edition": 7,
+  "fieldcode": "91",
+  "groupcode": "100",
+  "notes": [
+    {
+      "text": "Including sustainability of construction materials"
+    },
+    {
+      "ics-code": "77.140",
+      "text": "Iron and steel products, see {ics-code}"
+    },
+    {
+      "ics-code": "77.150",
+      "text": "Products of non-ferrous metals, see {ics-code}"
+    },
+    {
+      "ics-code": "79.040",
+      "text": "Wood, sawlogs and sawn timber, see {ics-code}"
+    },
+    {
+      "ics-code": "79.060",
+      "text": "Wood-based panels, see {ics-code}"
+    },
+    {
+      "ics-code": "81.040.20",
+      "text": "Glass in building, see {ics-code}"
+    },
+    {
+      "ics-code": "83.140",
+      "text": "Rubber and plastics products, see {ics-code}"
+    }
+  ]
+}

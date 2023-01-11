@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "13.030.99",
+  "description": "Other standards related to wastes",
+  "descriptionFull": "Environment. Health protection. Safety. Wastes. Other standards related to wastes.",
+  "fieldcode": "13",
+  "groupcode": "030",
+  "notes": [
+    {
+      "text": "Including waste prevention"
+    }
+  ],
+  "subgroupcode": "99"
+}

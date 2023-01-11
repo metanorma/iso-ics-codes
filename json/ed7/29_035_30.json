@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "29.035.30",
+  "description": "Glass and ceramic insulating materials",
+  "descriptionFull": "Electrical engineering. Insulating materials. Glass and ceramic insulating materials.",
+  "fieldcode": "29",
+  "groupcode": "035",
+  "subgroupcode": "30"
+}

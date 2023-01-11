@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "31.080.30",
+  "description": "Transistors",
+  "descriptionFull": "Electronics. Semiconductor devices. Transistors.",
+  "fieldcode": "31",
+  "groupcode": "080",
+  "subgroupcode": "30"
+}

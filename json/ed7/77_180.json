@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "77.180",
+  "description": "Equipment for the metallurgical industry",
+  "descriptionFull": "Metallurgy. Equipment for the metallurgical industry.",
+  "edition": 7,
+  "fieldcode": "77",
+  "groupcode": "180"
+}

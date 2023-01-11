@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "47.020.80",
+  "description": "Accommodation spaces",
+  "descriptionFull": "Shipbuilding and marine structures. Shipbuilding and marine structures in general. Accommodation spaces.",
+  "fieldcode": "47",
+  "groupcode": "020",
+  "subgroupcode": "80"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "35.140",
+  "description": "Computer graphics",
+  "descriptionFull": "Information technology. Computer graphics.",
+  "edition": 7,
+  "fieldcode": "35",
+  "groupcode": "140"
+}

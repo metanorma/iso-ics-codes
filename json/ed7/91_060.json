@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "91.060",
+  "description": "Elements of buildings",
+  "descriptionFull": "Construction materials and building. Elements of buildings.",
+  "edition": 7,
+  "fieldcode": "91",
+  "groupcode": "060",
+  "notes": [
+    {
+      "ics-code": "93.020",
+      "text": "Earthworks. Excavations. Foundation construction. Underground works, see {ics-code}"
+    }
+  ]
+}

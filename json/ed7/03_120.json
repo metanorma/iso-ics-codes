@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "03.120",
+  "description": "Quality",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Quality.",
+  "edition": 7,
+  "fieldcode": "03",
+  "groupcode": "120"
+}

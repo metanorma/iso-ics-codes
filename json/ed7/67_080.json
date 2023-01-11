@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "67.080",
+  "description": "Fruits. Vegetables",
+  "descriptionFull": "Food technology. Fruits. Vegetables.",
+  "edition": 7,
+  "fieldcode": "67",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including canned, dried and quick-frozen fruits and vegetables"
+    },
+    {
+      "ics-code": "67.160.20",
+      "text": "Non-alcoholic beverages, see {ics-code}"
+    }
+  ]
+}

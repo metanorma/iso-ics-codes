@@ -1,0 +1,22 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "11.040.50",
+  "description": "Radiographic equipment",
+  "descriptionFull": "Health care technology. Medical equipment. Radiographic equipment.",
+  "fieldcode": "11",
+  "groupcode": "040",
+  "notes": [
+    {
+      "text": "Including radiographic diagnostic and therapy equipment"
+    },
+    {
+      "ics-code": "11.100.10",
+      "text": "In vitro diagnostic test systems, see {ics-code}"
+    },
+    {
+      "ics-code": "37.040.25",
+      "text": "Radiographic films, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "50"
+}

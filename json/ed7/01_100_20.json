@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "01.100.20",
+  "description": "Mechanical engineering drawings",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Technical drawings. Mechanical engineering drawings.",
+  "fieldcode": "01",
+  "groupcode": "100",
+  "subgroupcode": "20"
+}

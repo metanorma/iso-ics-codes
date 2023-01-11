@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "03.200.01",
+  "description": "Leisure and tourism in general",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Leisure. Tourism. Leisure and tourism in general.",
+  "fieldcode": "03",
+  "groupcode": "200",
+  "notes": [
+    {
+      "text": "Including outdoor events management, tourist information offices, tourism services, hotels, etc."
+    }
+  ],
+  "subgroupcode": "01"
+}

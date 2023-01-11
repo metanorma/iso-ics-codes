@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "75.160.40",
+  "description": "Biofuels",
+  "descriptionFull": "Petroleum and related technologies. Fuels. Biofuels.",
+  "fieldcode": "75",
+  "groupcode": "160",
+  "notes": [
+    {
+      "text": "Including solid biofuels, liquid biofuels and biogas"
+    }
+  ],
+  "subgroupcode": "40"
+}

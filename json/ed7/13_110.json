@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "13.110",
+  "description": "Safety of machinery",
+  "descriptionFull": "Environment. Health protection. Safety. Safety of machinery.",
+  "edition": 7,
+  "fieldcode": "13",
+  "groupcode": "110"
+}

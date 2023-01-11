@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "67.260",
+  "description": "Plants and equipment for the food industry",
+  "descriptionFull": "Food technology. Plants and equipment for the food industry.",
+  "edition": 7,
+  "fieldcode": "67",
+  "groupcode": "260",
+  "notes": [
+    {
+      "ics-code": "27.200",
+      "text": "Refrigerating technology, see {ics-code}"
+    },
+    {
+      "ics-code": "97.130.20",
+      "text": "Commercial refrigerating appliances, see {ics-code}"
+    }
+  ]
+}

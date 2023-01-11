@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "11.120",
+  "description": "Pharmaceutics",
+  "descriptionFull": "Health care technology. Pharmaceutics.",
+  "edition": 7,
+  "fieldcode": "11",
+  "groupcode": "120"
+}

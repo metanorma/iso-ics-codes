@@ -1,0 +1,26 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "33.040.40",
+  "description": "Data communication networks",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Telecommunication systems. Data communication networks.",
+  "fieldcode": "33",
+  "groupcode": "040",
+  "notes": [
+    {
+      "text": "Including Packet Switched Public Data Networks (PSPDN) and Ethernet"
+    },
+    {
+      "ics-code": "33.080",
+      "text": "Integrated Services Digital Network (ISDN), see {ics-code}"
+    },
+    {
+      "ics-code": "35.110",
+      "text": "Networking, see {ics-code}"
+    },
+    {
+      "ics-code": "35.180",
+      "text": "IT terminal and other peripheral equipment, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "40"
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "91.200",
+  "description": "Construction technology",
+  "descriptionFull": "Construction materials and building. Construction technology.",
+  "edition": 7,
+  "fieldcode": "91",
+  "groupcode": "200",
+  "notes": [
+    {
+      "text": "Including measuring methods, construction sites, demolition of structures, etc."
+    }
+  ]
+}

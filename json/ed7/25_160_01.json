@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "25.160.01",
+  "description": "Welding, brazing and soldering in general",
+  "descriptionFull": "Manufacturing engineering. Welding, brazing and soldering. Welding, brazing and soldering in general.",
+  "fieldcode": "25",
+  "groupcode": "160",
+  "notes": [
+    {
+      "text": "Including welders' qualifications"
+    }
+  ],
+  "subgroupcode": "01"
+}

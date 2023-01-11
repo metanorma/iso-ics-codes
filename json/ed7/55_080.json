@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "55.080",
+  "description": "Sacks. Bags",
+  "descriptionFull": "Packaging and distribution of goods. Sacks. Bags.",
+  "edition": 7,
+  "fieldcode": "55",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including sachets, envelopes"
+    }
+  ]
+}

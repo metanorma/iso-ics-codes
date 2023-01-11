@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "95.060",
+  "description": "Weapons",
+  "descriptionFull": "Military affairs. Military engineering. Weapons. Weapons.",
+  "edition": 7,
+  "fieldcode": "95",
+  "groupcode": "060"
+}

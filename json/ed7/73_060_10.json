@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "73.060.10",
+  "description": "Iron ores",
+  "descriptionFull": "Mining and minerals. Metalliferous minerals and their concentrates. Iron ores.",
+  "fieldcode": "73",
+  "groupcode": "060",
+  "subgroupcode": "10"
+}

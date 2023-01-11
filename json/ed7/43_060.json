@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "43.060",
+  "description": "Internal combustion engines for road vehicles",
+  "descriptionFull": "Road vehicles engineering. Internal combustion engines for road vehicles.",
+  "edition": 7,
+  "fieldcode": "43",
+  "groupcode": "060",
+  "notes": [
+    {
+      "ics-code": "27.020",
+      "text": "Internal combustion engines, see {ics-code}"
+    }
+  ]
+}

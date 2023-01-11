@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "43.140",
+  "description": "Motorcycles and mopeds",
+  "descriptionFull": "Road vehicles engineering. Motorcycles and mopeds.",
+  "edition": 7,
+  "fieldcode": "43",
+  "groupcode": "140",
+  "notes": [
+    {
+      "text": "Including their components and systems"
+    },
+    {
+      "ics-code": "83.160.10",
+      "text": "Road vehicle tyres, see {ics-code}"
+    }
+  ]
+}

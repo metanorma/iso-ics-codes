@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "29.260.10",
+  "description": "Electrical installations for outdoor use",
+  "descriptionFull": "Electrical engineering. Electrical equipment for working in special conditions. Electrical installations for outdoor use.",
+  "fieldcode": "29",
+  "groupcode": "260",
+  "subgroupcode": "10"
+}

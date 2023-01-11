@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "97.040",
+  "description": "Kitchen equipment",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Kitchen equipment.",
+  "edition": 7,
+  "fieldcode": "97",
+  "groupcode": "040"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "71.100.40",
+  "description": "Surface active agents",
+  "descriptionFull": "Chemical technology. Products of the chemical industry. Surface active agents.",
+  "fieldcode": "71",
+  "groupcode": "100",
+  "subgroupcode": "40"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "71.080.99",
+  "description": "Other organic chemicals",
+  "descriptionFull": "Chemical technology. Organic chemicals. Other organic chemicals.",
+  "fieldcode": "71",
+  "groupcode": "080",
+  "subgroupcode": "99"
+}

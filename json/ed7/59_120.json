@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "59.120",
+  "description": "Textile machinery",
+  "descriptionFull": "Textile and leather technology. Textile machinery.",
+  "edition": 7,
+  "fieldcode": "59",
+  "groupcode": "120"
+}
