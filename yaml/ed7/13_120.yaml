@@ -1,0 +1,12 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "13.120"
+description: Domestic safety
+descriptionFull: Environment. Health protection. Safety. Domestic safety.
+edition: 7
+fieldcode: "13"
+groupcode: "120"
+notes:
+  - ics-code: "97.190"
+    text: Equipment for children, see {ics-code}
+  - ics-code: 97.200.50
+    text: Toys, see {ics-code}

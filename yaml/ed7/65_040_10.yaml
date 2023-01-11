@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 65.040.10
+description: Livestock buildings, installations and equipment
+descriptionFull: Agriculture. Farm buildings, structures and installations. Livestock buildings, installations and equipment.
+fieldcode: "65"
+groupcode: "040"
+notes:
+  - text: Including milking machines
+subgroupcode: "10"

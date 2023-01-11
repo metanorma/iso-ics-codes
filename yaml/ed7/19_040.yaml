@@ -1,0 +1,9 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "19.040"
+description: Environmental testing
+descriptionFull: Testing. Environmental testing.
+edition: 7
+fieldcode: "19"
+groupcode: "040"
+notes:
+  - text: Including testing equipment

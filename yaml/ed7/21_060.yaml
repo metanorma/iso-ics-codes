@@ -1,0 +1,12 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "21.060"
+description: Fasteners
+descriptionFull: Mechanical systems and components for general use. Fasteners.
+edition: 7
+fieldcode: "21"
+groupcode: "060"
+notes:
+  - ics-code: 11.040.40
+    text: Implants for surgery, prosthetics and orthotics, see {ics-code}
+  - ics-code: "49.030"
+    text: Fasteners for aerospace construction, see {ics-code}

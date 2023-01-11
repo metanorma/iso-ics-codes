@@ -1,0 +1,11 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "31.200"
+description: Integrated circuits. Microelectronics
+descriptionFull: Electronics. Integrated circuits. Microelectronics.
+edition: 7
+fieldcode: "31"
+groupcode: "200"
+notes:
+  - text: Including electronic chips, logical and analogue microstructures
+  - ics-code: "35.160"
+    text: Microprocessor systems, see {ics-code}

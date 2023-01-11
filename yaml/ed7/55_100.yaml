@@ -1,0 +1,13 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "55.100"
+description: Bottles. Pots. Jars
+descriptionFull: Packaging and distribution of goods. Bottles. Pots. Jars.
+edition: 7
+fieldcode: "55"
+groupcode: "100"
+notes:
+  - text: Small containers for liquids and their closures
+  - ics-code: 11.120.99
+    text: Other standards related to pharmaceutics, see {ics-code}
+  - ics-code: 11.040.20
+    text: Transfusion, infusion and injection equipment, see {ics-code}

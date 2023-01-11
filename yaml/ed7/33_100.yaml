@@ -1,0 +1,9 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "33.100"
+description: Electromagnetic compatibility (EMC)
+descriptionFull: Telecommunications. Audio and video engineering. Electromagnetic compatibility (EMC).
+edition: 7
+fieldcode: "33"
+groupcode: "100"
+notes:
+  - text: Including radio interference

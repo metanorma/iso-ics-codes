@@ -1,0 +1,7 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "11.040"
+description: Medical equipment
+descriptionFull: Health care technology. Medical equipment.
+edition: 7
+fieldcode: "11"
+groupcode: "040"

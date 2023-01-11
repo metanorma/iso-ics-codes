@@ -1,0 +1,15 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "37.020"
+description: Optical equipment
+descriptionFull: Image technology. Optical equipment.
+edition: 7
+fieldcode: "37"
+groupcode: "020"
+notes:
+  - text: Including microscopes, telescopes, binoculars, optical materials, optical components and optical systems
+  - ics-code: 11.040.70
+    text: Ophthalmic equipment, see {ics-code}
+  - ics-code: 17.180.30
+    text: Optical measuring instruments, see {ics-code}
+  - ics-code: 37.040.10
+    text: Photographic equipment. Projectors, see {ics-code}

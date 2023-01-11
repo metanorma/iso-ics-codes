@@ -1,0 +1,11 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "83.180"
+description: Adhesives
+descriptionFull: Rubber and plastic industries. Adhesives.
+edition: 7
+fieldcode: "83"
+groupcode: "180"
+notes:
+  - text: Including adhesive tapes
+  - ics-code: 29.035.20
+    text: Plastics and rubber insulating materials, see {ics-code}

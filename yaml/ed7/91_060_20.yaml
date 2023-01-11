@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 91.060.20
+description: Roofs
+descriptionFull: Construction materials and building. Elements of buildings. Roofs.
+fieldcode: "91"
+groupcode: "060"
+notes:
+  - text: Including related elements (gutters, etc.)
+subgroupcode: "20"

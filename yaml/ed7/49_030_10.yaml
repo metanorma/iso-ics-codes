@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 49.030.10
+description: Screw threads
+descriptionFull: Aircraft and space vehicle engineering. Fasteners for aerospace construction. Screw threads.
+fieldcode: "49"
+groupcode: "030"
+notes:
+  - ics-code: "21.040"
+    text: Screw threads, see {ics-code}
+subgroupcode: "10"

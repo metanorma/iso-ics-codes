@@ -1,0 +1,9 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "85.020"
+description: Paper production processes
+descriptionFull: Paper technology. Paper production processes.
+edition: 7
+fieldcode: "85"
+groupcode: "020"
+notes:
+  - text: Including paper recycling

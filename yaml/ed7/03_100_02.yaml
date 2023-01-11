@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 03.100.02
+description: Governance and ethics
+descriptionFull: Services. Company organization, management and quality. Administration. Transport. Sociology. Company organization and management. Management systems. Governance and ethics.
+fieldcode: "03"
+groupcode: "100"
+notes:
+  - text: Including anti-bribery, anti-procurement fraud, corporate social responsibility
+subgroupcode: "02"

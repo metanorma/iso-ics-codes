@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 03.220.40
+description: Transport by water
+descriptionFull: Services. Company organization, management and quality. Administration. Transport. Sociology. Transport. Transport by water.
+fieldcode: "03"
+groupcode: "220"
+notes:
+  - text: Including water transport services
+  - ics-code: "93.140"
+    text: Construction of waterways, ports and dykes, see {ics-code}
+subgroupcode: "40"

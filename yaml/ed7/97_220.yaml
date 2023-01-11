@@ -1,0 +1,14 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "97.220"
+description: Sports equipment and facilities
+descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Sports equipment and facilities.
+edition: 7
+fieldcode: "97"
+groupcode: "220"
+notes:
+  - ics-code: "03.200"
+    text: Leisure. Tourism, see {ics-code}
+  - ics-code: "43.140"
+    text: Motorcycles and mopeds, see {ics-code}
+  - ics-code: "43.150"
+    text: Cycles, see {ics-code}

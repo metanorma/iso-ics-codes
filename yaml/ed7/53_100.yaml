@@ -1,0 +1,9 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "53.100"
+description: Earth-moving machinery
+descriptionFull: Materials handling equipment. Earth-moving machinery.
+edition: 7
+fieldcode: "53"
+groupcode: "100"
+notes:
+  - text: Including tractors, excavators, loaders, graders, etc.

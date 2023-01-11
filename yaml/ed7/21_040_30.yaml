@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 21.040.30
+description: Special screw threads
+descriptionFull: Mechanical systems and components for general use. Screw threads. Special screw threads.
+fieldcode: "21"
+groupcode: "040"
+notes:
+  - text: Including miniature screw threads, pipe threads, etc.
+subgroupcode: "30"

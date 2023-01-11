@@ -1,0 +1,12 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "67.050"
+description: General methods of tests and analysis for food products
+descriptionFull: Food technology. General methods of tests and analysis for food products.
+edition: 7
+fieldcode: "67"
+groupcode: "050"
+notes:
+  - ics-code: "67.240"
+    text: Sensory analysis, see {ics-code}
+  - ics-code: 07.100.30
+    text: Food microbiology, see {ics-code}

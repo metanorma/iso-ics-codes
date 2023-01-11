@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 79.120.10
+description: Woodworking machines
+descriptionFull: Wood technology. Woodworking equipment. Woodworking machines.
+fieldcode: "79"
+groupcode: "120"
+notes:
+  - ics-code: 65.060.80
+    text: Forestry equipment, see {ics-code}
+subgroupcode: "10"

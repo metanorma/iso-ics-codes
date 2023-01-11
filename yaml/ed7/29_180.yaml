@@ -1,0 +1,10 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "29.180"
+description: Transformers. Reactors
+descriptionFull: Electrical engineering. Transformers. Reactors.
+edition: 7
+fieldcode: "29"
+groupcode: "180"
+notes:
+  - ics-code: 17.220.20
+    text: Measurement of electrical and magnetic quantities, see {ics-code}

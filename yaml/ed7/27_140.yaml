@@ -1,0 +1,9 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "27.140"
+description: Hydraulic energy engineering
+descriptionFull: Energy and heat transfer engineering. Hydraulic energy engineering.
+edition: 7
+fieldcode: "27"
+groupcode: "140"
+notes:
+  - text: Including hydraulic turbines

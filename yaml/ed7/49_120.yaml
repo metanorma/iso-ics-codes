@@ -1,0 +1,10 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "49.120"
+description: Cargo equipment
+descriptionFull: Aircraft and space vehicle engineering. Cargo equipment.
+edition: 7
+fieldcode: "49"
+groupcode: "120"
+notes:
+  - ics-code: 55.180.30
+    text: Air mode containers, pallets and nets, see {ics-code}

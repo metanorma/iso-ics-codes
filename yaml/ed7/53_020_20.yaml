@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 53.020.20
+description: Cranes
+descriptionFull: Materials handling equipment. Lifting equipment. Cranes.
+fieldcode: "53"
+groupcode: "020"
+notes:
+  - text: Including mobile cranes, tower cranes, jib cranes, bridge cranes, etc.
+subgroupcode: "20"

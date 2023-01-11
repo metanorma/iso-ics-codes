@@ -1,0 +1,9 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "19.120"
+description: Particle size analysis. Sieving
+descriptionFull: Testing. Particle size analysis. Sieving.
+edition: 7
+fieldcode: "19"
+groupcode: "120"
+notes:
+  - text: Including test sieves and porosimetry

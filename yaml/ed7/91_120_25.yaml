@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 91.120.25
+description: Seismic and vibration protection
+descriptionFull: Construction materials and building. Protection of and in buildings. Seismic and vibration protection.
+fieldcode: "91"
+groupcode: "120"
+notes:
+  - ics-code: "17.160"
+    text: Vibrations, shock and vibration measurements, see {ics-code}
+subgroupcode: "25"

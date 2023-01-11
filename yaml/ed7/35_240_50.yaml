@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 35.240.50
+description: IT applications in industry
+descriptionFull: Information technology. Applications of information technology. IT applications in industry.
+fieldcode: "35"
+groupcode: "240"
+notes:
+  - text: Including design automation
+subgroupcode: "50"

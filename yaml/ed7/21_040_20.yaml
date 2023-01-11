@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 21.040.20
+description: Inch screw threads
+descriptionFull: Mechanical systems and components for general use. Screw threads. Inch screw threads.
+fieldcode: "21"
+groupcode: "040"
+notes:
+  - text: Including Whitworth screw threads
+  - ics-code: 21.040.30
+    text: Special screw threads, see {ics-code}
+subgroupcode: "20"

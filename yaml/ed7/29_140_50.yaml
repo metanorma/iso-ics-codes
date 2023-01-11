@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 29.140.50
+description: Lighting installation systems
+descriptionFull: Electrical engineering. Lamps and related equipment. Lighting installation systems.
+fieldcode: "29"
+groupcode: "140"
+notes:
+  - text: Including supply track systems
+subgroupcode: "50"

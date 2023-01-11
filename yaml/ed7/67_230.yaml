@@ -1,0 +1,9 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "67.230"
+description: Prepackaged and prepared foods
+descriptionFull: Food technology. Prepackaged and prepared foods.
+edition: 7
+fieldcode: "67"
+groupcode: "230"
+notes:
+  - text: Including baby food

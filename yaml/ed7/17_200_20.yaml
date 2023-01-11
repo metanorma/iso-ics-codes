@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 17.200.20
+description: Temperature-measuring instruments
+descriptionFull: Metrology and measurement. Physical phenomena. Thermodynamics and temperature measurements. Temperature-measuring instruments.
+fieldcode: "17"
+groupcode: "200"
+notes:
+  - text: Including thermostats
+  - ics-code: 11.040.55
+    text: Diagnostic equipment, see {ics-code}
+subgroupcode: "20"

@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 35.040.50
+description: Automatic identification and data capture techniques
+descriptionFull: Information technology. Information coding. Automatic identification and data capture techniques.
+fieldcode: "35"
+groupcode: "040"
+notes:
+  - text: Including RFID, OCR, bar coding, etc.
+subgroupcode: "50"

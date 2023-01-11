@@ -1,0 +1,13 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "61.020"
+description: Clothes
+descriptionFull: Clothing industry. Clothes.
+edition: 7
+fieldcode: "61"
+groupcode: "020"
+notes:
+  - text: Including underwear, nightwear, knitwear, military clothing, hosiery, etc. and their labelling and size coding schemes
+  - ics-code: "11.140"
+    text: Hospital equipment, see {ics-code}
+  - ics-code: 13.340.10
+    text: Protective clothing, see {ics-code}

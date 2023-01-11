@@ -1,0 +1,15 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 03.100.01
+description: Company organization and management in general
+descriptionFull: Services. Company organization, management and quality. Administration. Transport. Sociology. Company organization and management. Management systems. Company organization and management in general.
+fieldcode: "03"
+groupcode: "100"
+notes:
+  - text: Including legal aspects and risk management, societal security, outsourcing
+  - ics-code: "13.310"
+    text: Protection against crime, see {ics-code}
+  - ics-code: 03.100.70
+    text: Management systems, see {ics-code}
+  - ics-code: 03.080.20
+    text: Services for companies, see {ics-code}
+subgroupcode: "01"

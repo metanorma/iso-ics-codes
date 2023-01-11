@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 91.010.30
+description: Technical aspects
+descriptionFull: Construction materials and building. Construction industry. Technical aspects.
+fieldcode: "91"
+groupcode: "010"
+notes:
+  - text: Including tolerances, modular coordination, etc.
+  - ics-code: 01.100.30
+    text: Construction drawings, see {ics-code}
+subgroupcode: "30"

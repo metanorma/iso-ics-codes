@@ -1,0 +1,12 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "23.080"
+description: Pumps
+descriptionFull: Fluid systems and components for general use. Pumps.
+edition: 7
+fieldcode: "23"
+groupcode: "080"
+notes:
+  - ics-code: 23.100.10
+    text: Pumps and motors, see {ics-code}
+  - ics-code: "23.160"
+    text: Vacuum technology, see {ics-code}

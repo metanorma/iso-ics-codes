@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 11.020.01
+description: Quality and environmental management in health care
+descriptionFull: Health care technology. Medical sciences and health care facilities in general. Quality and environmental management in health care.
+fieldcode: "11"
+groupcode: "020"
+notes:
+  - text: Including quality and environmental management in health care technology
+  - ics-code: 03.100.70
+    text: Management systems, see {ics-code}
+  - ics-code: 35.240.80
+    text: IT applications in health care technology, see {ics-code}
+subgroupcode: "01"

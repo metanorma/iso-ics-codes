@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 17.220.20
+description: Measurement of electrical and magnetic quantities
+descriptionFull: Metrology and measurement. Physical phenomena. Electricity. Magnetism. Electrical and magnetic measurements. Measurement of electrical and magnetic quantities.
+fieldcode: "17"
+groupcode: "220"
+notes:
+  - text: Including measuring instruments, instrument transformers
+  - ics-code: 91.140.50
+    text: Electricity supply systems, see {ics-code}
+subgroupcode: "20"

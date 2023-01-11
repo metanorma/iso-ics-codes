@@ -1,0 +1,9 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "03.240"
+description: Postal services
+descriptionFull: Services. Company organization, management and quality. Administration. Transport. Sociology. Postal services.
+edition: 7
+fieldcode: "03"
+groupcode: "240"
+notes:
+  - text: Including postal equipment, post-boxes and letter-boxes, etc.

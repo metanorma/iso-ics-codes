@@ -1,0 +1,7 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "25.200"
+description: Heat treatment
+descriptionFull: Manufacturing engineering. Heat treatment.
+edition: 7
+fieldcode: "25"
+groupcode: "200"

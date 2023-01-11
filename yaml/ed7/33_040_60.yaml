@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 33.040.60
+description: Powerline telecommunications
+descriptionFull: Telecommunications. Audio and video engineering. Telecommunication systems. Powerline telecommunications.
+fieldcode: "33"
+groupcode: "040"
+notes:
+  - ics-code: 29.240.01
+    text: Power transmission and distribution networks in general, see {ics-code}
+subgroupcode: "60"

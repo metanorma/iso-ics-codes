@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 03.120.10
+description: Quality management and quality assurance
+descriptionFull: Services. Company organization, management and quality. Administration. Transport. Sociology. Quality. Quality management and quality assurance.
+fieldcode: "03"
+groupcode: "120"
+notes:
+  - ics-code: 03.100.70
+    text: Management systems, see {ics-code}
+subgroupcode: "10"

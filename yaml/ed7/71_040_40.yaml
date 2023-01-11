@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 71.040.40
+description: Chemical analysis
+descriptionFull: Chemical technology. Analytical chemistry. Chemical analysis.
+fieldcode: "71"
+groupcode: "040"
+notes:
+  - text: Including analysis of gases and surface chemical analysis
+subgroupcode: "40"

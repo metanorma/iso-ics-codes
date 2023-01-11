@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 35.240.70
+description: IT applications in science
+descriptionFull: Information technology. Applications of information technology. IT applications in science.
+fieldcode: "35"
+groupcode: "240"
+notes:
+  - text: Including digital geographic information
+subgroupcode: "70"
