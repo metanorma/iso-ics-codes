@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "25.220.60",
+  "description": "Organic coatings",
+  "descriptionFull": "Manufacturing engineering. Surface treatment and coating. Organic coatings.",
+  "fieldcode": "25",
+  "groupcode": "220",
+  "subgroupcode": "60"
+}

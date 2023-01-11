@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "13.020.20",
+  "description": "Environmental economics. Sustainability",
+  "descriptionFull": "Environment. Health protection. Safety. Environmental protection. Environmental economics. Sustainability.",
+  "fieldcode": "13",
+  "groupcode": "020",
+  "notes": [
+    {
+      "text": "Including responsible sourcing, procurement, sustainable development, sustainable events management, sustainable communities, smart urban infrastructure, biodiversity"
+    }
+  ],
+  "subgroupcode": "20"
+}

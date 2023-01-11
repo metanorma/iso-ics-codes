@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "43.060.99",
+  "description": "Other components and systems of internal combustion engines",
+  "descriptionFull": "Road vehicles engineering. Internal combustion engines for road vehicles. Other components and systems of internal combustion engines.",
+  "fieldcode": "43",
+  "groupcode": "060",
+  "subgroupcode": "99"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "13.220",
+  "description": "Protection against fire",
+  "descriptionFull": "Environment. Health protection. Safety. Protection against fire.",
+  "edition": 7,
+  "fieldcode": "13",
+  "groupcode": "220"
+}

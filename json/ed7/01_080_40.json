@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "01.080.40",
+  "description": "Graphical symbols for use on electrical and electronics engineering drawings, diagrams, charts and in relevant technical product documentation",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Graphical symbols. Graphical symbols for use on electrical and electronics engineering drawings, diagrams, charts and in relevant technical product documentation.",
+  "fieldcode": "01",
+  "groupcode": "080",
+  "subgroupcode": "40"
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "21.260",
+  "description": "Lubrication systems",
+  "descriptionFull": "Mechanical systems and components for general use. Lubrication systems.",
+  "edition": 7,
+  "fieldcode": "21",
+  "groupcode": "260",
+  "notes": [
+    {
+      "ics-code": "75.100",
+      "text": "Lubricants, industrial oils and related products, see {ics-code}"
+    }
+  ]
+}

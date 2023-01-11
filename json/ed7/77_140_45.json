@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "77.140.45",
+  "description": "Non-alloyed steels",
+  "descriptionFull": "Metallurgy. Iron and steel products. Non-alloyed steels.",
+  "fieldcode": "77",
+  "groupcode": "140",
+  "subgroupcode": "45"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "21.060.30",
+  "description": "Washers, locking elements",
+  "descriptionFull": "Mechanical systems and components for general use. Fasteners. Washers, locking elements.",
+  "fieldcode": "21",
+  "groupcode": "060",
+  "subgroupcode": "30"
+}

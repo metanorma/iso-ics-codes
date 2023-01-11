@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "11.100.10",
+  "description": "In vitro diagnostic test systems",
+  "descriptionFull": "Health care technology. Laboratory medicine. In vitro diagnostic test systems.",
+  "fieldcode": "11",
+  "groupcode": "100",
+  "subgroupcode": "10"
+}

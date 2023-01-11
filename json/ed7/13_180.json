@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "13.180",
+  "description": "Ergonomics",
+  "descriptionFull": "Environment. Health protection. Safety. Ergonomics.",
+  "edition": 7,
+  "fieldcode": "13",
+  "groupcode": "180"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "29.120.50",
+  "description": "Fuses and other overcurrent protection devices",
+  "descriptionFull": "Electrical engineering. Electrical accessories. Fuses and other overcurrent protection devices.",
+  "fieldcode": "29",
+  "groupcode": "120",
+  "subgroupcode": "50"
+}

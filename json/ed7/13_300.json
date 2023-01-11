@@ -1,0 +1,22 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "13.300",
+  "description": "Protection against dangerous goods",
+  "descriptionFull": "Environment. Health protection. Safety. Protection against dangerous goods.",
+  "edition": 7,
+  "fieldcode": "13",
+  "groupcode": "300",
+  "notes": [
+    {
+      "text": "Including performance requirements for dangerous goods, their handling, storage, transportation, marking, labelling, etc."
+    },
+    {
+      "ics-code": "27.120.30",
+      "text": "Fissile materials and nuclear fuel technology, see {ics-code}"
+    },
+    {
+      "ics-code": "71.100.30",
+      "text": "Explosives. Pyrotechnics and fireworks, see {ics-code}"
+    }
+  ]
+}

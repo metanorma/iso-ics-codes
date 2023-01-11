@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "67.180",
+  "description": "Sugar. Sugar products. Starch",
+  "descriptionFull": "Food technology. Sugar. Sugar products. Starch.",
+  "edition": 7,
+  "fieldcode": "67",
+  "groupcode": "180"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "65.140",
+  "description": "Beekeeping",
+  "descriptionFull": "Agriculture. Beekeeping.",
+  "edition": 7,
+  "fieldcode": "65",
+  "groupcode": "140",
+  "notes": [
+    {
+      "text": "Including equipment and installations for beekeeping"
+    },
+    {
+      "ics-code": "67.180.10",
+      "text": "Sugar and sugar products, see {ics-code}"
+    }
+  ]
+}

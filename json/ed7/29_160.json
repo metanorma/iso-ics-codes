@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "29.160",
+  "description": "Rotating machinery",
+  "descriptionFull": "Electrical engineering. Rotating machinery.",
+  "edition": 7,
+  "fieldcode": "29",
+  "groupcode": "160"
+}

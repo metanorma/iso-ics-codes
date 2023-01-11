@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "91.160",
+  "description": "Lighting",
+  "descriptionFull": "Construction materials and building. Lighting.",
+  "edition": 7,
+  "fieldcode": "91",
+  "groupcode": "160",
+  "notes": [
+    {
+      "text": "Including oil and gas lamps"
+    },
+    {
+      "ics-code": "97.200.10",
+      "text": "Theatre, stage and studio equipment, see {ics-code}"
+    }
+  ]
+}

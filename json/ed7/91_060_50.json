@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "91.060.50",
+  "description": "Doors and windows",
+  "descriptionFull": "Construction materials and building. Elements of buildings. Doors and windows.",
+  "fieldcode": "91",
+  "groupcode": "060",
+  "notes": [
+    {
+      "text": "Including doorsets, their components, blinds, shutters"
+    },
+    {
+      "ics-code": "91.190",
+      "text": "Building accessories, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "50"
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "13.340",
+  "description": "Protective equipment",
+  "descriptionFull": "Environment. Health protection. Safety. Protective equipment.",
+  "edition": 7,
+  "fieldcode": "13",
+  "groupcode": "340",
+  "notes": [
+    {
+      "ics-code": "13.100",
+      "text": "Occupational safety. Industrial hygiene, see {ics-code}"
+    }
+  ]
+}

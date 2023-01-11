@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "59.120.99",
+  "description": "Other textile machinery",
+  "descriptionFull": "Textile and leather technology. Textile machinery. Other textile machinery.",
+  "fieldcode": "59",
+  "groupcode": "120",
+  "subgroupcode": "99"
+}

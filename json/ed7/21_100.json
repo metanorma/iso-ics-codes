@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "21.100",
+  "description": "Bearings",
+  "descriptionFull": "Mechanical systems and components for general use. Bearings.",
+  "edition": 7,
+  "fieldcode": "21",
+  "groupcode": "100"
+}

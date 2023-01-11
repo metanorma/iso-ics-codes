@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "13.040.50",
+  "description": "Transport exhaust emissions",
+  "descriptionFull": "Environment. Health protection. Safety. Air quality. Transport exhaust emissions.",
+  "fieldcode": "13",
+  "groupcode": "040",
+  "subgroupcode": "50"
+}

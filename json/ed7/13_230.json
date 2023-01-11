@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "13.230",
+  "description": "Explosion protection",
+  "descriptionFull": "Environment. Health protection. Safety. Explosion protection.",
+  "edition": 7,
+  "fieldcode": "13",
+  "groupcode": "230",
+  "notes": [
+    {
+      "ics-code": "29.260.20",
+      "text": "Electrical apparatus for explosive atmospheres, see {ics-code}"
+    },
+    {
+      "ics-code": "71.100.30",
+      "text": "Explosives. Pyrotechnics and fireworks, see {ics-code}"
+    }
+  ]
+}

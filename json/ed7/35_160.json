@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "35.160",
+  "description": "Microprocessor systems",
+  "descriptionFull": "Information technology. Microprocessor systems.",
+  "edition": 7,
+  "fieldcode": "35",
+  "groupcode": "160",
+  "notes": [
+    {
+      "text": "Including PCs, calculators, etc."
+    },
+    {
+      "ics-code": "31.200",
+      "text": "Integrated circuits. Microelectronics, see {ics-code}"
+    }
+  ]
+}

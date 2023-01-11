@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "21.060.40",
+  "description": "Rivets",
+  "descriptionFull": "Mechanical systems and components for general use. Fasteners. Rivets.",
+  "fieldcode": "21",
+  "groupcode": "060",
+  "subgroupcode": "40"
+}

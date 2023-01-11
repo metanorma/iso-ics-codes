@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "71.100.35",
+  "description": "Chemicals for industrial and domestic disinfection purposes",
+  "descriptionFull": "Chemical technology. Products of the chemical industry. Chemicals for industrial and domestic disinfection purposes.",
+  "fieldcode": "71",
+  "groupcode": "100",
+  "notes": [
+    {
+      "ics-code": "11.080.20",
+      "text": "Disinfectants and antiseptics, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "35"
+}

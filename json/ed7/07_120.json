@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "07.120",
+  "description": "Nanotechnologies",
+  "descriptionFull": "Natural and applied sciences. Nanotechnologies.",
+  "edition": 7,
+  "fieldcode": "07",
+  "groupcode": "120"
+}

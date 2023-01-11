@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "25.180.20",
+  "description": "Fuel furnaces",
+  "descriptionFull": "Manufacturing engineering. Industrial furnaces. Fuel furnaces.",
+  "fieldcode": "25",
+  "groupcode": "180",
+  "subgroupcode": "20"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "77.140.25",
+  "description": "Spring steels",
+  "descriptionFull": "Metallurgy. Iron and steel products. Spring steels.",
+  "fieldcode": "77",
+  "groupcode": "140",
+  "subgroupcode": "25"
+}

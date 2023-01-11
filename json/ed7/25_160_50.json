@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "25.160.50",
+  "description": "Brazing and soldering",
+  "descriptionFull": "Manufacturing engineering. Welding, brazing and soldering. Brazing and soldering.",
+  "fieldcode": "25",
+  "groupcode": "160",
+  "notes": [
+    {
+      "text": "Including brazing and soldering alloys and equipment"
+    }
+  ],
+  "subgroupcode": "50"
+}

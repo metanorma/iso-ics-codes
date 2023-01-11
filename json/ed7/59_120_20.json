@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "59.120.20",
+  "description": "Winding machines and equipment",
+  "descriptionFull": "Textile and leather technology. Textile machinery. Winding machines and equipment.",
+  "fieldcode": "59",
+  "groupcode": "120",
+  "notes": [
+    {
+      "text": "Including machines and equipment for reeling, balling, warping, sizing, beaming, etc. of yarns"
+    }
+  ],
+  "subgroupcode": "20"
+}

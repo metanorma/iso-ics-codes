@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "97.040.99",
+  "description": "Other kitchen equipment",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Kitchen equipment. Other kitchen equipment.",
+  "fieldcode": "97",
+  "groupcode": "040",
+  "subgroupcode": "99"
+}

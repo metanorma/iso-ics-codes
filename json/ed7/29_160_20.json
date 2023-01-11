@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "29.160.20",
+  "description": "Generators",
+  "descriptionFull": "Electrical engineering. Rotating machinery. Generators.",
+  "fieldcode": "29",
+  "groupcode": "160",
+  "subgroupcode": "20"
+}

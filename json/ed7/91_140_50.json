@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "91.140.50",
+  "description": "Electricity supply systems",
+  "descriptionFull": "Construction materials and building. Installations in buildings. Electricity supply systems.",
+  "fieldcode": "91",
+  "groupcode": "140",
+  "notes": [
+    {
+      "text": "Including electric energy meters in buildings, emergency electrical supplies, etc."
+    }
+  ],
+  "subgroupcode": "50"
+}

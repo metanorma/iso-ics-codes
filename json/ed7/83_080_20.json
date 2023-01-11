@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "83.080.20",
+  "description": "Thermoplastic materials",
+  "descriptionFull": "Rubber and plastic industries. Plastics. Thermoplastic materials.",
+  "fieldcode": "83",
+  "groupcode": "080",
+  "subgroupcode": "20"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "29.130.01",
+  "description": "Switchgear and controlgear in general",
+  "descriptionFull": "Electrical engineering. Switchgear and controlgear. Switchgear and controlgear in general.",
+  "fieldcode": "29",
+  "groupcode": "130",
+  "subgroupcode": "01"
+}

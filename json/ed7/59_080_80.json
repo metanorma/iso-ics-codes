@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "59.080.80",
+  "description": "Smart textiles",
+  "descriptionFull": "Textile and leather technology. Products of the textile industry. Smart textiles.",
+  "fieldcode": "59",
+  "groupcode": "080",
+  "subgroupcode": "80"
+}

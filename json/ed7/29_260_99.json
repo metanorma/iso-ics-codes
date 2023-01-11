@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "29.260.99",
+  "description": "Other electrical equipment for working in special conditions",
+  "descriptionFull": "Electrical engineering. Electrical equipment for working in special conditions. Other electrical equipment for working in special conditions.",
+  "fieldcode": "29",
+  "groupcode": "260",
+  "subgroupcode": "99"
+}

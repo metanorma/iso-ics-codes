@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "35.040",
+  "description": "Information coding",
+  "descriptionFull": "Information technology. Information coding.",
+  "edition": 7,
+  "fieldcode": "35",
+  "groupcode": "040",
+  "notes": [
+    {
+      "text": "Including coding of audio, picture, multimedia and hypermedia information, bar coding, etc."
+    },
+    {
+      "ics-code": "35.030",
+      "text": "IT Security, see {ics-code}"
+    }
+  ]
+}

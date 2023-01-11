@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "33.180.10",
+  "description": "Fibres and cables",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Fibre optic communications. Fibres and cables.",
+  "fieldcode": "33",
+  "groupcode": "180",
+  "subgroupcode": "10"
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "25.040",
+  "description": "Industrial automation systems",
+  "descriptionFull": "Manufacturing engineering. Industrial automation systems.",
+  "edition": 7,
+  "fieldcode": "25",
+  "groupcode": "040",
+  "notes": [
+    {
+      "ics-code": "35.240.50",
+      "text": "IT applications in industry, see {ics-code}"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "01.100",
+  "description": "Technical drawings",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Technical drawings.",
+  "edition": 7,
+  "fieldcode": "01",
+  "groupcode": "100",
+  "notes": [
+    {
+      "ics-code": "01.080.30",
+      "text": "Graphical symbols for use on mechanical engineering and construction drawings, diagrams, plans, maps and in relevant technical product documentation, see {ics-code}"
+    },
+    {
+      "ics-code": "35.240.10",
+      "text": "Computer-aided design (CAD), see {ics-code}"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "35.240.40",
+  "description": "IT applications in banking",
+  "descriptionFull": "Information technology. Applications of information technology. IT applications in banking.",
+  "fieldcode": "35",
+  "groupcode": "240",
+  "notes": [
+    {
+      "text": "Including automatic banking facilities"
+    },
+    {
+      "ics-code": "35.240.15",
+      "text": "Identification cards. Chip cards. Biometrics, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "40"
+}

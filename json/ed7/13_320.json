@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "13.320",
+  "description": "Alarm and warning systems",
+  "descriptionFull": "Environment. Health protection. Safety. Alarm and warning systems.",
+  "edition": 7,
+  "fieldcode": "13",
+  "groupcode": "320",
+  "notes": [
+    {
+      "ics-code": "13.310",
+      "text": "Protection against crime, see {ics-code}"
+    },
+    {
+      "ics-code": "43.040.20",
+      "text": "Lighting, signalling and warning devices, see {ics-code}"
+    }
+  ]
+}

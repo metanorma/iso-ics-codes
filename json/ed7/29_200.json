@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "29.200",
+  "description": "Rectifiers. Converters. Stabilized power supply",
+  "descriptionFull": "Electrical engineering. Rectifiers. Converters. Stabilized power supply.",
+  "edition": 7,
+  "fieldcode": "29",
+  "groupcode": "200",
+  "notes": [
+    {
+      "text": "Including semiconductor converters"
+    }
+  ]
+}

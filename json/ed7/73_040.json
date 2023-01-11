@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "73.040",
+  "description": "Coals",
+  "descriptionFull": "Mining and minerals. Coals.",
+  "edition": 7,
+  "fieldcode": "73",
+  "groupcode": "040",
+  "notes": [
+    {
+      "text": "Including lignites"
+    },
+    {
+      "ics-code": "75.160.10",
+      "text": "Solid fuels, see {ics-code}"
+    }
+  ]
+}

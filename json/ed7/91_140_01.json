@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "91.140.01",
+  "description": "Installations in buildings in general",
+  "descriptionFull": "Construction materials and building. Installations in buildings. Installations in buildings in general.",
+  "fieldcode": "91",
+  "groupcode": "140",
+  "subgroupcode": "01"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "91.140.90",
+  "description": "Lifts. Escalators",
+  "descriptionFull": "Construction materials and building. Installations in buildings. Lifts. Escalators.",
+  "fieldcode": "91",
+  "groupcode": "140",
+  "subgroupcode": "90"
+}

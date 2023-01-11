@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "53.120",
+  "description": "Equipment for manual handling",
+  "descriptionFull": "Materials handling equipment. Equipment for manual handling.",
+  "edition": 7,
+  "fieldcode": "53",
+  "groupcode": "120",
+  "notes": [
+    {
+      "text": "Including shovels, spades, crowbars, picks, etc."
+    }
+  ]
+}

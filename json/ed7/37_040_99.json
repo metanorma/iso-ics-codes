@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "37.040.99",
+  "description": "Other standards related to photography",
+  "descriptionFull": "Image technology. Photography. Other standards related to photography.",
+  "fieldcode": "37",
+  "groupcode": "040",
+  "subgroupcode": "99"
+}

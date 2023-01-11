@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "25.220.40",
+  "description": "Metallic coatings",
+  "descriptionFull": "Manufacturing engineering. Surface treatment and coating. Metallic coatings.",
+  "fieldcode": "25",
+  "groupcode": "220",
+  "notes": [
+    {
+      "text": "Including electrolytic depositions, cathodic coatings, autocatalytic coatings, etc."
+    }
+  ],
+  "subgroupcode": "40"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "01.080.01",
+  "description": "Graphical symbols in general",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Graphical symbols. Graphical symbols in general.",
+  "fieldcode": "01",
+  "groupcode": "080",
+  "subgroupcode": "01"
+}

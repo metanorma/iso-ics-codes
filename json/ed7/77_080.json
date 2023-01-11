@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "77.080",
+  "description": "Ferrous metals",
+  "descriptionFull": "Metallurgy. Ferrous metals.",
+  "edition": 7,
+  "fieldcode": "77",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including classification, designation, sampling, chemical analysis, etc."
+    },
+    {
+      "ics-code": "77.140",
+      "text": "Iron and steel products, see {ics-code}"
+    }
+  ]
+}

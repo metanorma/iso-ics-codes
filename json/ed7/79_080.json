@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "79.080",
+  "description": "Semi-manufactures of timber",
+  "descriptionFull": "Wood technology. Semi-manufactures of timber.",
+  "edition": 7,
+  "fieldcode": "79",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including parquet, wood paving, handles, etc."
+    }
+  ]
+}

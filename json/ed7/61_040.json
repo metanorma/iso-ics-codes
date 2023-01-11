@@ -1,0 +1,22 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "61.040",
+  "description": "Headgear. Clothing accessories. Fastening of clothing",
+  "descriptionFull": "Clothing industry. Headgear. Clothing accessories. Fastening of clothing.",
+  "edition": 7,
+  "fieldcode": "61",
+  "groupcode": "040",
+  "notes": [
+    {
+      "text": "Including ties, gloves, scarves, handkerchiefs, belts, braces, buttons, zip-fasteners, umbrellas, etc."
+    },
+    {
+      "ics-code": "13.340.20",
+      "text": "Head protective equipment, see {ics-code}"
+    },
+    {
+      "ics-code": "13.340.40",
+      "text": "Hand and arm protection, see {ics-code}"
+    }
+  ]
+}

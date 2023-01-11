@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "97.030",
+  "description": "Domestic electrical appliances in general",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Domestic electrical appliances in general.",
+  "edition": 7,
+  "fieldcode": "97",
+  "groupcode": "030",
+  "notes": [
+    {
+      "text": "Including water-bed heaters and electric blankets"
+    }
+  ]
+}

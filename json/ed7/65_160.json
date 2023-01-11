@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "65.160",
+  "description": "Tobacco, tobacco products and related equipment",
+  "descriptionFull": "Agriculture. Tobacco, tobacco products and related equipment.",
+  "edition": 7,
+  "fieldcode": "65",
+  "groupcode": "160"
+}

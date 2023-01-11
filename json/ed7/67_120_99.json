@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "67.120.99",
+  "description": "Other animal produce",
+  "descriptionFull": "Food technology. Meat, meat products and other animal produce. Other animal produce.",
+  "fieldcode": "67",
+  "groupcode": "120",
+  "subgroupcode": "99"
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "11.020",
+  "description": "Medical sciences and health care facilities in general",
+  "descriptionFull": "Health care technology. Medical sciences and health care facilities in general.",
+  "edition": 7,
+  "fieldcode": "11",
+  "groupcode": "020",
+  "notes": [
+    {
+      "ics-code": "07.140",
+      "text": "Forensic science, see {ics-code}"
+    }
+  ]
+}

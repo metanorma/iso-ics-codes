@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "83.100",
+  "description": "Cellular materials",
+  "descriptionFull": "Rubber and plastic industries. Cellular materials.",
+  "edition": 7,
+  "fieldcode": "83",
+  "groupcode": "100"
+}

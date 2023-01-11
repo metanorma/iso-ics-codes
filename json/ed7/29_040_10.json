@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "29.040.10",
+  "description": "Insulating oils",
+  "descriptionFull": "Electrical engineering. Insulating fluids. Insulating oils.",
+  "fieldcode": "29",
+  "groupcode": "040",
+  "subgroupcode": "10"
+}

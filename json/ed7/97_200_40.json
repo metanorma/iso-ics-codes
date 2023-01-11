@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "97.200.40",
+  "description": "Playgrounds",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Equipment for entertainment. Playgrounds.",
+  "fieldcode": "97",
+  "groupcode": "200",
+  "notes": [
+    {
+      "text": "Including amusement rides and devices"
+    }
+  ],
+  "subgroupcode": "40"
+}

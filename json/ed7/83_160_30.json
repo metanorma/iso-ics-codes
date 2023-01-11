@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "83.160.30",
+  "description": "Tyres for agricultural machinery",
+  "descriptionFull": "Rubber and plastic industries. Tyres. Tyres for agricultural machinery.",
+  "fieldcode": "83",
+  "groupcode": "160",
+  "subgroupcode": "30"
+}

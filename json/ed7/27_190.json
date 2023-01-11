@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "27.190",
+  "description": "Biological sources and alternative sources of energy",
+  "descriptionFull": "Energy and heat transfer engineering. Biological sources and alternative sources of energy.",
+  "edition": 7,
+  "fieldcode": "27",
+  "groupcode": "190"
+}

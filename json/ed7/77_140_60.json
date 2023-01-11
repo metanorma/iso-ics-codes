@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "77.140.60",
+  "description": "Steel bars and rods",
+  "descriptionFull": "Metallurgy. Iron and steel products. Steel bars and rods.",
+  "fieldcode": "77",
+  "groupcode": "140",
+  "subgroupcode": "60"
+}

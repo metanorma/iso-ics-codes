@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "77.040.10",
+  "description": "Mechanical testing of metals",
+  "descriptionFull": "Metallurgy. Testing of metals. Mechanical testing of metals.",
+  "fieldcode": "77",
+  "groupcode": "040",
+  "notes": [
+    {
+      "ics-code": "19.060",
+      "text": "Mechanical testing, see {ics-code}"
+    },
+    {
+      "ics-code": "25.160.40",
+      "text": "Welded joints and welds, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "10"
+}

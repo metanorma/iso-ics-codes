@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "25.040.10",
+  "description": "Machining centres",
+  "descriptionFull": "Manufacturing engineering. Industrial automation systems. Machining centres.",
+  "fieldcode": "25",
+  "groupcode": "040",
+  "subgroupcode": "10"
+}

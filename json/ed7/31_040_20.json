@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "31.040.20",
+  "description": "Potentiometers, variable resistors",
+  "descriptionFull": "Electronics. Resistors. Potentiometers, variable resistors.",
+  "fieldcode": "31",
+  "groupcode": "040",
+  "subgroupcode": "20"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "35.220.22",
+  "description": "Magnetic tapes",
+  "descriptionFull": "Information technology. Data storage devices. Magnetic tapes.",
+  "fieldcode": "35",
+  "groupcode": "220",
+  "subgroupcode": "22"
+}

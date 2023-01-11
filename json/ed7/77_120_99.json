@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "77.120.99",
+  "description": "Other non-ferrous metals and their alloys",
+  "descriptionFull": "Metallurgy. Non-ferrous metals. Other non-ferrous metals and their alloys.",
+  "fieldcode": "77",
+  "groupcode": "120",
+  "subgroupcode": "99"
+}

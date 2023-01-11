@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "81.060.30",
+  "description": "Advanced ceramics",
+  "descriptionFull": "Glass and ceramics industries. Ceramics. Advanced ceramics.",
+  "fieldcode": "81",
+  "groupcode": "060",
+  "subgroupcode": "30"
+}

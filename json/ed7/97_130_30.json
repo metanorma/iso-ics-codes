@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "97.130.30",
+  "description": "Trolleys for supermarket purposes",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Shop fittings. Trolleys for supermarket purposes.",
+  "fieldcode": "97",
+  "groupcode": "130",
+  "notes": [
+    {
+      "text": "Including baskets"
+    }
+  ],
+  "subgroupcode": "30"
+}

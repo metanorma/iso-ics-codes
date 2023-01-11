@@ -1,0 +1,23 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "27.020",
+  "description": "Internal combustion engines",
+  "descriptionFull": "Energy and heat transfer engineering. Internal combustion engines.",
+  "edition": 7,
+  "fieldcode": "27",
+  "groupcode": "020",
+  "notes": [
+    {
+      "ics-code": "29.160.40",
+      "text": "Generating sets, see {ics-code}"
+    },
+    {
+      "ics-code": "43.060",
+      "text": "Internal combustion engines for road vehicles, see {ics-code}"
+    },
+    {
+      "ics-code": "47.020.20",
+      "text": "Marine engines and propulsion systems, see {ics-code}"
+    }
+  ]
+}

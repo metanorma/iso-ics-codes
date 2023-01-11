@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "79.040",
+  "description": "Wood, sawlogs and sawn timber",
+  "descriptionFull": "Wood technology. Wood, sawlogs and sawn timber.",
+  "edition": 7,
+  "fieldcode": "79",
+  "groupcode": "040"
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "25.160",
+  "description": "Welding, brazing and soldering",
+  "descriptionFull": "Manufacturing engineering. Welding, brazing and soldering.",
+  "edition": 7,
+  "fieldcode": "25",
+  "groupcode": "160",
+  "notes": [
+    {
+      "text": "Including gas welding, electric welding, plasma welding, electron beam welding, plasma cutting, etc."
+    }
+  ]
+}

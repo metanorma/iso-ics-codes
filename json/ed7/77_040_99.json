@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "77.040.99",
+  "description": "Other methods of testing of metals",
+  "descriptionFull": "Metallurgy. Testing of metals. Other methods of testing of metals.",
+  "fieldcode": "77",
+  "groupcode": "040",
+  "subgroupcode": "99"
+}

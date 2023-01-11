@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "25.120",
+  "description": "Chipless working equipment",
+  "descriptionFull": "Manufacturing engineering. Chipless working equipment.",
+  "edition": 7,
+  "fieldcode": "25",
+  "groupcode": "120"
+}

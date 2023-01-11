@@ -1,0 +1,26 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "03.080.30",
+  "description": "Services for consumers",
+  "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Services. Services for consumers.",
+  "fieldcode": "03",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including hotels, restaurants, washing, cleaning, removals, funerals, real estate, vehicle repair and servicing, furniture removals, services for elderly, sheltered housing services for elderly, sheltered housing, etc."
+    },
+    {
+      "ics-code": "11.020.10",
+      "text": "Health care services in general, see {ics-code}"
+    },
+    {
+      "ics-code": "03.220",
+      "text": "Transport, see {ics-code}"
+    },
+    {
+      "ics-code": "97.020",
+      "text": "Home economics in general, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "30"
+}

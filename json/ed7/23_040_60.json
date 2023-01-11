@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "23.040.60",
+  "description": "Flanges, couplings and joints",
+  "descriptionFull": "Fluid systems and components for general use. Pipeline components and pipelines. Flanges, couplings and joints.",
+  "fieldcode": "23",
+  "groupcode": "040",
+  "subgroupcode": "60"
+}

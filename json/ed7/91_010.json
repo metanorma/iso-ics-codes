@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "91.010",
+  "description": "Construction industry",
+  "descriptionFull": "Construction materials and building. Construction industry.",
+  "edition": 7,
+  "fieldcode": "91",
+  "groupcode": "010"
+}

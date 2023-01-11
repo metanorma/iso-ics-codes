@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "25.020",
+  "description": "Manufacturing forming processes",
+  "descriptionFull": "Manufacturing engineering. Manufacturing forming processes.",
+  "edition": 7,
+  "fieldcode": "25",
+  "groupcode": "020"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "85.060",
+  "description": "Paper and board",
+  "descriptionFull": "Paper technology. Paper and board.",
+  "edition": 7,
+  "fieldcode": "85",
+  "groupcode": "060"
+}

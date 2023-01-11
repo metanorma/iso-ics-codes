@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "67.080.20",
+  "description": "Vegetables and derived products",
+  "descriptionFull": "Food technology. Fruits. Vegetables. Vegetables and derived products.",
+  "fieldcode": "67",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including tomato concentrates, ketchup, etc."
+    }
+  ],
+  "subgroupcode": "20"
+}

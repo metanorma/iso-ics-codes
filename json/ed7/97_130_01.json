@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "97.130.01",
+  "description": "Shop fittings in general",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Shop fittings. Shop fittings in general.",
+  "fieldcode": "97",
+  "groupcode": "130",
+  "subgroupcode": "01"
+}

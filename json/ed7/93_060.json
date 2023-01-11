@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "93.060",
+  "description": "Tunnel construction",
+  "descriptionFull": "Civil engineering. Tunnel construction.",
+  "edition": 7,
+  "fieldcode": "93",
+  "groupcode": "060"
+}

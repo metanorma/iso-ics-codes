@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "29.120.30",
+  "description": "Plugs, socket-outlets, couplers",
+  "descriptionFull": "Electrical engineering. Electrical accessories. Plugs, socket-outlets, couplers.",
+  "fieldcode": "29",
+  "groupcode": "120",
+  "subgroupcode": "30"
+}

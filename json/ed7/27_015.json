@@ -1,0 +1,22 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "27.015",
+  "description": "Energy efficiency. Energy conservation in general",
+  "descriptionFull": "Energy and heat transfer engineering. Energy efficiency. Energy conservation in general.",
+  "edition": 7,
+  "fieldcode": "27",
+  "groupcode": "015",
+  "notes": [
+    {
+      "text": "Including energy audits"
+    },
+    {
+      "ics-code": "03.100.70",
+      "text": "Management systems, see {ics-code}"
+    },
+    {
+      "ics-code": "91.120.10",
+      "text": "Thermal insulation of buildings, see {ics-code}"
+    }
+  ]
+}

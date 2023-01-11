@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "81.020",
+  "description": "Processes in the glass and ceramics industries",
+  "descriptionFull": "Glass and ceramics industries. Processes in the glass and ceramics industries.",
+  "edition": 7,
+  "fieldcode": "81",
+  "groupcode": "020"
+}

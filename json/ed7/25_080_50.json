@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "25.080.50",
+  "description": "Grinding and polishing machines",
+  "descriptionFull": "Manufacturing engineering. Machine tools. Grinding and polishing machines.",
+  "fieldcode": "25",
+  "groupcode": "080",
+  "subgroupcode": "50"
+}

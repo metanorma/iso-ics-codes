@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "31.060.99",
+  "description": "Other capacitors",
+  "descriptionFull": "Electronics. Capacitors. Other capacitors.",
+  "fieldcode": "31",
+  "groupcode": "060",
+  "subgroupcode": "99"
+}

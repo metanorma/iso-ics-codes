@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "31.080.01",
+  "description": "Semiconductor devices in general",
+  "descriptionFull": "Electronics. Semiconductor devices. Semiconductor devices in general.",
+  "fieldcode": "31",
+  "groupcode": "080",
+  "subgroupcode": "01"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "25.220.50",
+  "description": "Enamels",
+  "descriptionFull": "Manufacturing engineering. Surface treatment and coating. Enamels.",
+  "fieldcode": "25",
+  "groupcode": "220",
+  "subgroupcode": "50"
+}

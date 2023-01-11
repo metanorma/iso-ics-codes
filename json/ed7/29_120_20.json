@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "29.120.20",
+  "description": "Connecting devices",
+  "descriptionFull": "Electrical engineering. Electrical accessories. Connecting devices.",
+  "fieldcode": "29",
+  "groupcode": "120",
+  "subgroupcode": "20"
+}

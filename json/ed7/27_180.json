@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "27.180",
+  "description": "Wind turbine energy systems",
+  "descriptionFull": "Energy and heat transfer engineering. Wind turbine energy systems.",
+  "edition": 7,
+  "fieldcode": "27",
+  "groupcode": "180",
+  "notes": [
+    {
+      "text": "Including generation of electrical energy"
+    }
+  ]
+}

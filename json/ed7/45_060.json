@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "45.060",
+  "description": "Railway rolling stock",
+  "descriptionFull": "Railway engineering. Railway rolling stock.",
+  "edition": 7,
+  "fieldcode": "45",
+  "groupcode": "060",
+  "notes": [
+    {
+      "text": "Including materials, components, electric and electronic equipment for railway rolling stock"
+    }
+  ]
+}

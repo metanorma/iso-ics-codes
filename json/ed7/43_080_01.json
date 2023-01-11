@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "43.080.01",
+  "description": "Commercial vehicles in general",
+  "descriptionFull": "Road vehicles engineering. Commercial vehicles. Commercial vehicles in general.",
+  "fieldcode": "43",
+  "groupcode": "080",
+  "subgroupcode": "01"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "25.120.20",
+  "description": "Rolling, extruding and drawing equipment",
+  "descriptionFull": "Manufacturing engineering. Chipless working equipment. Rolling, extruding and drawing equipment.",
+  "fieldcode": "25",
+  "groupcode": "120",
+  "subgroupcode": "20"
+}

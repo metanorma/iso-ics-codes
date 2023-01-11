@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "91.120.01",
+  "description": "Protection of and in buildings in general",
+  "descriptionFull": "Construction materials and building. Protection of and in buildings. Protection of and in buildings in general.",
+  "fieldcode": "91",
+  "groupcode": "120",
+  "subgroupcode": "01"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "67.200",
+  "description": "Edible oils and fats. Oilseeds",
+  "descriptionFull": "Food technology. Edible oils and fats. Oilseeds.",
+  "edition": 7,
+  "fieldcode": "67",
+  "groupcode": "200"
+}

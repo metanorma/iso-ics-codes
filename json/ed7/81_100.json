@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "81.100",
+  "description": "Equipment for the glass and ceramics industries",
+  "descriptionFull": "Glass and ceramics industries. Equipment for the glass and ceramics industries.",
+  "edition": 7,
+  "fieldcode": "81",
+  "groupcode": "100"
+}

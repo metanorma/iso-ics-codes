@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "21.100.10",
+  "description": "Plain bearings",
+  "descriptionFull": "Mechanical systems and components for general use. Bearings. Plain bearings.",
+  "fieldcode": "21",
+  "groupcode": "100",
+  "subgroupcode": "10"
+}

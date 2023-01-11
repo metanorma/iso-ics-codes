@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "47.080",
+  "description": "Small craft",
+  "descriptionFull": "Shipbuilding and marine structures. Small craft.",
+  "edition": 7,
+  "fieldcode": "47",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including small craft systems and components, and life-saving appliances"
+    },
+    {
+      "ics-code": "13.340.70",
+      "text": "Lifejackets, buoyancy aids and flotation devices, see {ics-code}"
+    }
+  ]
+}

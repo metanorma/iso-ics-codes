@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "77.120.40",
+  "description": "Nickel, chromium and their alloys",
+  "descriptionFull": "Metallurgy. Non-ferrous metals. Nickel, chromium and their alloys.",
+  "fieldcode": "77",
+  "groupcode": "120",
+  "subgroupcode": "40"
+}

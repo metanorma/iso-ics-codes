@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "97.170",
+  "description": "Body care equipment",
+  "descriptionFull": "Domestic and commercial equipment. Entertainment. Sports. Body care equipment.",
+  "edition": 7,
+  "fieldcode": "97",
+  "groupcode": "170",
+  "notes": [
+    {
+      "text": "Including hair-driers, razors, shavers, toothbrushes, massage appliances, radiation skin treatment appliances, etc."
+    }
+  ]
+}

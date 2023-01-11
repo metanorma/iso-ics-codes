@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "49.045",
+  "description": "Structure and structure elements",
+  "descriptionFull": "Aircraft and space vehicle engineering. Structure and structure elements.",
+  "edition": 7,
+  "fieldcode": "49",
+  "groupcode": "045"
+}

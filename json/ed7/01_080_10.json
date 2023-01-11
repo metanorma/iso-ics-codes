@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "01.080.10",
+  "description": "Public information symbols. Signs. Plates. Labels",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Graphical symbols. Public information symbols. Signs. Plates. Labels.",
+  "fieldcode": "01",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including safety signs, safety colours, etc."
+    }
+  ],
+  "subgroupcode": "10"
+}

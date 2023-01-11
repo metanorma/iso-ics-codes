@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "77.150.70",
+  "description": "Cadmium and cobalt products",
+  "descriptionFull": "Metallurgy. Products of non-ferrous metals. Cadmium and cobalt products.",
+  "fieldcode": "77",
+  "groupcode": "150",
+  "subgroupcode": "70"
+}

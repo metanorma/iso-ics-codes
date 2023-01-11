@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "77.120.50",
+  "description": "Titanium and titanium alloys",
+  "descriptionFull": "Metallurgy. Non-ferrous metals. Titanium and titanium alloys.",
+  "fieldcode": "77",
+  "groupcode": "120",
+  "subgroupcode": "50"
+}

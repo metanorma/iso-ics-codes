@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "33.060.40",
+  "description": "Cabled distribution systems",
+  "descriptionFull": "Telecommunications. Audio and video engineering. Radiocommunications. Cabled distribution systems.",
+  "fieldcode": "33",
+  "groupcode": "060",
+  "subgroupcode": "40"
+}

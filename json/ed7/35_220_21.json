@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "35.220.21",
+  "description": "Magnetic disks",
+  "descriptionFull": "Information technology. Data storage devices. Magnetic disks.",
+  "fieldcode": "35",
+  "groupcode": "220",
+  "notes": [
+    {
+      "text": "Including flexible disks, diskettes, disk packs, disk cartridges, etc."
+    }
+  ],
+  "subgroupcode": "21"
+}

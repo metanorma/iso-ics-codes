@@ -1,0 +1,31 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "83.140",
+  "description": "Rubber and plastics products",
+  "descriptionFull": "Rubber and plastic industries. Rubber and plastics products.",
+  "edition": 7,
+  "fieldcode": "83",
+  "groupcode": "140",
+  "notes": [
+    {
+      "ics-code": "21.220.10",
+      "text": "Belt drives and their components, see {ics-code}"
+    },
+    {
+      "ics-code": "53.040.20",
+      "text": "Components for conveyors, see {ics-code}"
+    },
+    {
+      "ics-code": "59.080.40",
+      "text": "Coated fabrics, see {ics-code}"
+    },
+    {
+      "ics-code": "61.060",
+      "text": "Footwear, see {ics-code}"
+    },
+    {
+      "ics-code": "83.160",
+      "text": "Tyres, see {ics-code}"
+    }
+  ]
+}

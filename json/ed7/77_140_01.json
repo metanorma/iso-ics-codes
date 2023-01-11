@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "77.140.01",
+  "description": "Iron and steel products in general",
+  "descriptionFull": "Metallurgy. Iron and steel products. Iron and steel products in general.",
+  "fieldcode": "77",
+  "groupcode": "140",
+  "subgroupcode": "01"
+}

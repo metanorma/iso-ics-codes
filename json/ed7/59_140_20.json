@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "59.140.20",
+  "description": "Raw skins, hides and pelts",
+  "descriptionFull": "Textile and leather technology. Leather technology. Raw skins, hides and pelts.",
+  "fieldcode": "59",
+  "groupcode": "140",
+  "subgroupcode": "20"
+}

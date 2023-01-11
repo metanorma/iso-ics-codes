@@ -1,0 +1,22 @@
+{
+  "@context": "https://isoics.org/jsonld/group.jsonld",
+  "code": "17.020",
+  "description": "Metrology and measurement in general",
+  "descriptionFull": "Metrology and measurement. Physical phenomena. Metrology and measurement in general.",
+  "edition": 7,
+  "fieldcode": "17",
+  "groupcode": "020",
+  "notes": [
+    {
+      "text": "Including measuring instruments in general, preferred numbers, standard measures, general aspects of reference materials, etc."
+    },
+    {
+      "ics-code": "01.060",
+      "text": "Quantities and units, see {ics-code}"
+    },
+    {
+      "ics-code": "71.040.30",
+      "text": "Chemical reagents, see {ics-code}"
+    }
+  ]
+}
