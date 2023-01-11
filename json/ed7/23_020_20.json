@@ -3,6 +3,7 @@
   "code": "23.020.20",
   "description": "Vessels and containers mounted on vehicles",
   "descriptionFull": "Fluid systems and components for general use. Fluid storage devices. Vessels and containers mounted on vehicles.",
+  "edition": 7,
   "fieldcode": "23",
   "groupcode": "020",
   "notes": [

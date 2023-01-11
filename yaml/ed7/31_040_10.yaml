@@ -2,6 +2,7 @@
 code: 31.040.10
 description: Fixed resistors
 descriptionFull: Electronics. Resistors. Fixed resistors.
+edition: 7
 fieldcode: "31"
 groupcode: "040"
 subgroupcode: "10"

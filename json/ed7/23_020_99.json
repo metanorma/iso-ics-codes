@@ -3,6 +3,7 @@
   "code": "23.020.99",
   "description": "Other fluid storage devices",
   "descriptionFull": "Fluid systems and components for general use. Fluid storage devices. Other fluid storage devices.",
+  "edition": 7,
   "fieldcode": "23",
   "groupcode": "020",
   "subgroupcode": "99"

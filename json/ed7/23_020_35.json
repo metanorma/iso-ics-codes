@@ -3,6 +3,7 @@
   "code": "23.020.35",
   "description": "Gas cylinders",
   "descriptionFull": "Fluid systems and components for general use. Fluid storage devices. Gas cylinders.",
+  "edition": 7,
   "fieldcode": "23",
   "groupcode": "020",
   "subgroupcode": "35"
