@@ -3,6 +3,7 @@
   "code": "25.080.99",
   "description": "Other machine tools",
   "descriptionFull": "Manufacturing engineering. Machine tools. Other machine tools.",
+  "edition": 7,
   "fieldcode": "25",
   "groupcode": "080",
   "subgroupcode": "99"

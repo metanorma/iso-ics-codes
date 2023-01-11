@@ -3,6 +3,7 @@
   "code": "23.100.10",
   "description": "Pumps and motors",
   "descriptionFull": "Fluid systems and components for general use. Fluid power systems. Pumps and motors.",
+  "edition": 7,
   "fieldcode": "23",
   "groupcode": "100",
   "subgroupcode": "10"
