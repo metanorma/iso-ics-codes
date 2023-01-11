@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 91.010.01
+description: Construction industry in general
+descriptionFull: Construction materials and building. Construction industry. Construction industry in general.
+fieldcode: "91"
+groupcode: "010"
+notes:
+  - ics-code: 35.240.67
+    text: IT applications in building and construction industry, see {ics-code}
+subgroupcode: "01"

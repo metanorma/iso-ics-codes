@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 03.120.20
+description: Product and company certification. Conformity assessment
+descriptionFull: Services. Company organization, management and quality. Administration. Transport. Sociology. Quality. Product and company certification. Conformity assessment.
+fieldcode: "03"
+groupcode: "120"
+notes:
+  - text: Including laboratory accreditation and audit programmes and auditing
+subgroupcode: "20"

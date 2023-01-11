@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 97.200.30
+description: Camping equipment and camp-sites
+descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Equipment for entertainment. Camping equipment and camp-sites.
+fieldcode: "97"
+groupcode: "200"
+notes:
+  - ics-code: "43.100"
+    text: Passenger cars. Caravans and light trailers, see {ics-code}
+subgroupcode: "30"

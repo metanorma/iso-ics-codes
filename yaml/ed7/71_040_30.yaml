@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 71.040.30
+description: Chemical reagents
+descriptionFull: Chemical technology. Analytical chemistry. Chemical reagents.
+fieldcode: "71"
+groupcode: "040"
+notes:
+  - text: Including reference materials
+subgroupcode: "30"

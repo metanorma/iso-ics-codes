@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 13.020.40
+description: Pollution, pollution control and conservation
+descriptionFull: Environment. Health protection. Safety. Environmental protection. Pollution, pollution control and conservation.
+fieldcode: "13"
+groupcode: "020"
+notes:
+  - text: Including ecotoxicology and greenhouse gas emissions
+subgroupcode: "40"

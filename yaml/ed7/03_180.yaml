@@ -1,0 +1,10 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "03.180"
+description: Education
+descriptionFull: Services. Company organization, management and quality. Administration. Transport. Sociology. Education.
+edition: 7
+fieldcode: "03"
+groupcode: "180"
+notes:
+  - ics-code: 35.240.99
+    text: IT applications in other fields, see {ics-code}

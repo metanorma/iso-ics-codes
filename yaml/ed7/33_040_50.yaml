@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 33.040.50
+description: Lines, connections and circuits
+descriptionFull: Telecommunications. Audio and video engineering. Telecommunication systems. Lines, connections and circuits.
+fieldcode: "33"
+groupcode: "040"
+notes:
+  - text: Including access networks and network elements
+subgroupcode: "50"

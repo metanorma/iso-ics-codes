@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 13.030.50
+description: Recycling
+descriptionFull: Environment. Health protection. Safety. Wastes. Recycling.
+fieldcode: "13"
+groupcode: "030"
+notes:
+  - text: Including relevant equipment
+  - ics-code: "43.020"
+    text: Road vehicles in general, see {ics-code}
+subgroupcode: "50"

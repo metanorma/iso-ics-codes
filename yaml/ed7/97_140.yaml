@@ -1,0 +1,9 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "97.140"
+description: Furniture
+descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Furniture.
+edition: 7
+fieldcode: "97"
+groupcode: "140"
+notes:
+  - text: Including upholstery, mattresses, office furniture, school furniture, etc.

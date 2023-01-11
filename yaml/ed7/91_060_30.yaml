@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 91.060.30
+description: Ceilings. Floors. Stairs
+descriptionFull: Construction materials and building. Elements of buildings. Ceilings. Floors. Stairs.
+fieldcode: "91"
+groupcode: "060"
+notes:
+  - text: Including screeds, ramps, etc.
+subgroupcode: "30"

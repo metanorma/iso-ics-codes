@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 23.060.40
+description: Pressure regulators
+descriptionFull: Fluid systems and components for general use. Valves. Pressure regulators.
+fieldcode: "23"
+groupcode: "060"
+notes:
+  - text: Including pressure-reducers
+  - ics-code: "13.240"
+    text: Protection against excessive pressure, see {ics-code}
+subgroupcode: "40"

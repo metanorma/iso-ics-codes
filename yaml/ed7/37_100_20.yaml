@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 37.100.20
+description: Materials for graphic technology
+descriptionFull: Image technology. Graphic technology. Materials for graphic technology.
+fieldcode: "37"
+groupcode: "100"
+notes:
+  - ics-code: "87.080"
+    text: Inks. Printing inks, see {ics-code}
+subgroupcode: "20"

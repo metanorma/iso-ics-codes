@@ -1,0 +1,15 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "77.120"
+description: Non-ferrous metals
+descriptionFull: Metallurgy. Non-ferrous metals.
+edition: 7
+fieldcode: "77"
+groupcode: "120"
+notes:
+  - text: Including classification, designation, sampling, chemical analysis, etc.
+  - ics-code: 11.060.10
+    text: Dental materials, see {ics-code}
+  - ics-code: "39.060"
+    text: Jewellery, see {ics-code}
+  - ics-code: "77.150"
+    text: Products of non-ferrous metals, see {ics-code}

@@ -1,0 +1,9 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "67.020"
+description: Processes in the food industry
+descriptionFull: Food technology. Processes in the food industry.
+edition: 7
+fieldcode: "67"
+groupcode: "020"
+notes:
+  - text: Including food hygiene and food safety

@@ -1,0 +1,10 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "87.080"
+description: Inks. Printing inks
+descriptionFull: Paint and colour industries. Inks. Printing inks.
+edition: 7
+fieldcode: "87"
+groupcode: "080"
+notes:
+  - ics-code: 37.100.20
+    text: Materials for graphic technology, see {ics-code}

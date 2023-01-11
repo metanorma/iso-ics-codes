@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 77.140.50
+description: Flat steel products and semi-products
+descriptionFull: Metallurgy. Iron and steel products. Flat steel products and semi-products.
+fieldcode: "77"
+groupcode: "140"
+notes:
+  - text: Including plate, sheet and strip
+  - ics-code: 77.140.25
+    text: Spring steels, see {ics-code}
+subgroupcode: "50"

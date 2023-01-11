@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 91.120.20
+description: Acoustics in building. Sound insulation
+descriptionFull: Construction materials and building. Protection of and in buildings. Acoustics in building. Sound insulation.
+fieldcode: "91"
+groupcode: "120"
+notes:
+  - ics-code: 17.140.01
+    text: Acoustic measurements and noise abatement in general, see {ics-code}
+  - ics-code: 91.100.60
+    text: Thermal and sound insulating materials, see {ics-code}
+subgroupcode: "20"

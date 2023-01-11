@@ -1,0 +1,9 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "49.140"
+description: Space systems and operations
+descriptionFull: Aircraft and space vehicle engineering. Space systems and operations.
+edition: 7
+fieldcode: "49"
+groupcode: "140"
+notes:
+  - text: Including space data and information transfer systems, and ground support equipment for launch site operations

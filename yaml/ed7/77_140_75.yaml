@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 77.140.75
+description: Steel pipes and tubes for specific use
+descriptionFull: Metallurgy. Iron and steel products. Steel pipes and tubes for specific use.
+fieldcode: "77"
+groupcode: "140"
+notes:
+  - text: Including hollow steel bars and sections for construction
+  - ics-code: 23.040.10
+    text: Iron and steel pipes, see {ics-code}
+subgroupcode: "75"

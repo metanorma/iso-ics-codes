@@ -1,0 +1,11 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "95.020"
+description: Military in general
+descriptionFull: Military affairs. Military engineering. Weapons. Military in general.
+edition: 7
+fieldcode: "95"
+groupcode: "020"
+notes:
+  - text: Including defense procurement, defense standardization, etc.
+  - ics-code: "61.020"
+    text: Clothes, see {ics-code}

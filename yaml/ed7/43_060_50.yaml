@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 43.060.50
+description: Electrical and electronic equipment. Control systems
+descriptionFull: Road vehicles engineering. Internal combustion engines for road vehicles. Electrical and electronic equipment. Control systems.
+fieldcode: "43"
+groupcode: "060"
+notes:
+  - text: Including ignition systems and starter motors
+subgroupcode: "50"

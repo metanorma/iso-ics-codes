@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 43.080.10
+description: Trucks and trailers
+descriptionFull: Road vehicles engineering. Commercial vehicles. Trucks and trailers.
+fieldcode: "43"
+groupcode: "080"
+notes:
+  - text: Including tanker trucks and loading compartments
+  - ics-code: "53.060"
+    text: Industrial trucks, see {ics-code}
+subgroupcode: "10"

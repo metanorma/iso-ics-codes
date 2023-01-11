@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 71.040.50
+description: Physicochemical methods of analysis
+descriptionFull: Chemical technology. Analytical chemistry. Physicochemical methods of analysis.
+fieldcode: "71"
+groupcode: "040"
+notes:
+  - text: Including spectrophotometric and chromatographic analysis
+subgroupcode: "50"

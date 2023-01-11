@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 23.100.50
+description: Control components
+descriptionFull: Fluid systems and components for general use. Fluid power systems. Control components.
+fieldcode: "23"
+groupcode: "100"
+notes:
+  - text: Including valves
+subgroupcode: "50"

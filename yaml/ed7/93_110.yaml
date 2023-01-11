@@ -1,0 +1,12 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "93.110"
+description: Construction of ropeways
+descriptionFull: Civil engineering. Construction of ropeways.
+edition: 7
+fieldcode: "93"
+groupcode: "110"
+notes:
+  - ics-code: "45.100"
+    text: Cableway equipment, see {ics-code}
+  - ics-code: "45.120"
+    text: Equipment for railway/cableway construction and maintenance, see {ics-code}

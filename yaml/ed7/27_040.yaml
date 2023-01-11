@@ -1,0 +1,10 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "27.040"
+description: Gas and steam turbines. Steam engines
+descriptionFull: Energy and heat transfer engineering. Gas and steam turbines. Steam engines.
+edition: 7
+fieldcode: "27"
+groupcode: "040"
+notes:
+  - ics-code: "27.140"
+    text: Hydraulic energy engineering, see {ics-code}

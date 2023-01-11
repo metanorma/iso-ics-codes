@@ -1,0 +1,10 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "21.040"
+description: Screw threads
+descriptionFull: Mechanical systems and components for general use. Screw threads.
+edition: 7
+fieldcode: "21"
+groupcode: "040"
+notes:
+  - ics-code: 49.030.10
+    text: Screw threads, see {ics-code}

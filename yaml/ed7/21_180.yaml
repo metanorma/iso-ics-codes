@@ -1,0 +1,7 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "21.180"
+description: Housings, enclosures, other machine parts
+descriptionFull: Mechanical systems and components for general use. Housings, enclosures, other machine parts.
+edition: 7
+fieldcode: "21"
+groupcode: "180"

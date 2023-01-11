@@ -1,0 +1,13 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "29.280"
+description: Electric traction equipment
+descriptionFull: Electrical engineering. Electric traction equipment.
+edition: 7
+fieldcode: "29"
+groupcode: "280"
+notes:
+  - text: Including railway electric fixed installations
+  - ics-code: "43.120"
+    text: Electric road vehicles, see {ics-code}
+  - ics-code: 45.060.10
+    text: Tractive stock, see {ics-code}

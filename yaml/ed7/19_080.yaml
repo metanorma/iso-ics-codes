@@ -1,0 +1,11 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "19.080"
+description: Electrical and electronic testing
+descriptionFull: Testing. Electrical and electronic testing.
+edition: 7
+fieldcode: "19"
+groupcode: "080"
+notes:
+  - text: Including testing equipment
+  - ics-code: 17.220.20
+    text: Measurement of electrical and magnetic quantities, see {ics-code}

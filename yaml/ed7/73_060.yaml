@@ -1,0 +1,10 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "73.060"
+description: Metalliferous minerals and their concentrates
+descriptionFull: Mining and minerals. Metalliferous minerals and their concentrates.
+edition: 7
+fieldcode: "73"
+groupcode: "060"
+notes:
+  - ics-code: 27.120.30
+    text: Fissile materials and nuclear fuel technology, see {ics-code}

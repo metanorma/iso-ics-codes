@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 91.140.30
+description: Ventilation and air-conditioning systems
+descriptionFull: Construction materials and building. Installations in buildings. Ventilation and air-conditioning systems.
+fieldcode: "91"
+groupcode: "140"
+notes:
+  - text: Including ventilation ducts
+  - ics-code: "23.120"
+    text: Ventilators. Fans. Air-conditioners, see {ics-code}
+subgroupcode: "30"

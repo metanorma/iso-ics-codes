@@ -1,0 +1,15 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "55.060"
+description: Spools. Bobbins
+descriptionFull: Packaging and distribution of goods. Spools. Bobbins.
+edition: 7
+fieldcode: "55"
+groupcode: "060"
+notes:
+  - text: Including holders, supports, etc. for externally wound or mounted material
+  - ics-code: 37.040.20
+    text: Photographic paper, films and plates. Cartridges, see {ics-code}
+  - ics-code: 37.060.20
+    text: Motion picture films. Cartridges, see {ics-code}
+  - ics-code: 59.120.20
+    text: Winding machines and equipment, see {ics-code}

@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 55.180.40
+description: Complete, filled transport packages
+descriptionFull: Packaging and distribution of goods. Freight distribution of goods. Complete, filled transport packages.
+fieldcode: "55"
+groupcode: "180"
+notes:
+  - text: Including reusable packages and unit loads
+subgroupcode: "40"

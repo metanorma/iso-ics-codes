@@ -1,0 +1,9 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "47.040"
+description: Seagoing vessels
+descriptionFull: Shipbuilding and marine structures. Seagoing vessels.
+edition: 7
+fieldcode: "47"
+groupcode: "040"
+notes:
+  - text: Including their systems and components

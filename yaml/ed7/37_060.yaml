@@ -1,0 +1,10 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "37.060"
+description: Cinematography
+descriptionFull: Image technology. Cinematography.
+edition: 7
+fieldcode: "37"
+groupcode: "060"
+notes:
+  - ics-code: 97.200.10
+    text: Theatre, stage and studio equipment, see {ics-code}

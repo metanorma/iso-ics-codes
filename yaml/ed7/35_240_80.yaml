@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 35.240.80
+description: IT applications in health care technology
+descriptionFull: Information technology. Applications of information technology. IT applications in health care technology.
+fieldcode: "35"
+groupcode: "240"
+notes:
+  - text: Including computer tomography
+subgroupcode: "80"

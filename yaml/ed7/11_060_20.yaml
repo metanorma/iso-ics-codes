@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 11.060.20
+description: Dental equipment
+descriptionFull: Health care technology. Dentistry. Dental equipment.
+fieldcode: "11"
+groupcode: "060"
+notes:
+  - ics-code: 37.040.25
+    text: Radiographic films, see {ics-code}
+  - ics-code: "97.170"
+    text: Body care equipment, see {ics-code}
+subgroupcode: "20"

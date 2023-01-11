@@ -1,0 +1,9 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "55.120"
+description: Cans. Tins. Tubes
+descriptionFull: Packaging and distribution of goods. Cans. Tins. Tubes.
+edition: 7
+fieldcode: "55"
+groupcode: "120"
+notes:
+  - text: Light gauge metal and plastics containers

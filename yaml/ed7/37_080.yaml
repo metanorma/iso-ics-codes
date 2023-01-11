@@ -1,0 +1,11 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "37.080"
+description: Document imaging applications
+descriptionFull: Image technology. Document imaging applications.
+edition: 7
+fieldcode: "37"
+groupcode: "080"
+notes:
+  - text: Including micrographic, electronic and optical applications
+  - ics-code: 35.220.30
+    text: Optical storage devices, see {ics-code}

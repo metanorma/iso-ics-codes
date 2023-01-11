@@ -1,0 +1,10 @@
+'@context': https://isoics.org/jsonld/group.jsonld
+code: "13.020"
+description: Environmental protection
+descriptionFull: Environment. Health protection. Safety. Environmental protection.
+edition: 7
+fieldcode: "13"
+groupcode: "020"
+notes:
+  - ics-code: "27.015"
+    text: Energy efficiency. Energy conservation in general, see {ics-code}

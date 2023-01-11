@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 97.040.50
+description: Small kitchen appliances
+descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Kitchen equipment. Small kitchen appliances.
+fieldcode: "97"
+groupcode: "040"
+notes:
+  - text: Including food waste disposal units
+subgroupcode: "50"

@@ -1,0 +1,9 @@
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 91.100.50
+description: Binders. Sealing materials
+descriptionFull: Construction materials and building. Construction materials. Binders. Sealing materials.
+fieldcode: "91"
+groupcode: "100"
+notes:
+  - text: Including geomembranes, asphalts for buildings, etc.
+subgroupcode: "50"
