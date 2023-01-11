@@ -1,4 +1,4 @@
-= ISO ICS codes (edition 7) in machine-processible formats
+= ISO ICS codes (edition 7) in machine-processable formats
 
 == General
 
@@ -17,6 +17,16 @@ machine-readable form (JSON and JSON-LD).
 
 == Models
 
+=== Syntax
+
+The modelling syntax used is YAML-LD which is based on JSON-LD.
+
+The following files are provided in this repository:
+
+`yaml/{edition}/*.yaml`:: YAML-LD files for ICS codes.
+`json/{edition}/*.json`:: JSON-LD files for ICS codes.
+
+
 === ICS code
 
 ICS codes are made up of one to three code sections.
@@ -31,35 +41,46 @@ ICS codes are made up of one to three code sections.
 `03.100.30` has field code `03`, group code `100`, and subgroup code `30`.
 ====
 
+=== ICS data models
+
+There are 3 types of ICS codes:
+
+* Field (top-level)
+* Group (second level)
+* Subgroup (third level)
+
 
 === ICS code data
 
 An ICS code represents a data structure that contains:
 
+* Edition number (mandatory)
 * Field code (mandatory)
 * Group code (optional)
 * Subgroup code (optional)
 * Description (mandatory)
 * Notes (optional), there can be multiple notes.
 
-[source,json]
+NOTE: In an ICS subgroup, the JSON representation provides both the description
+of the subgroup and of the group.
+
+NOTE: The JSON-LD context is not yet resolvable.
+
+
+[source,yaml]
 ----
-{
-  "code": "03.100.30",
-  "fieldcode": "03",
-  "description": "Management of human resources",
-  "groupcode": "100",
-  "subgroupcode": "30",
-  "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
-  "descriptionFull": "Services. Company organization, management and quality."
-                     "Administration. Transport. Sociology. Company organization"
-                     "and management. Management systems. Management of human"
-                     "resources.",
-  "notes": [
-    "..."
-  ]
-}
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 03.100.30
+description: Management of human resources
+descriptionFull: ...
+edition: 7
+fieldcode: "03"
+groupcode: "100"
+notes:
+  - ...
+subgroupcode: "30"
 ----
+
 
 === ICS note
 
@@ -69,6 +90,11 @@ Each ICS note contains:
 * One or more links to other ICS codes. The position of the linked code is given within the textual portion
 
 Example without link:
+
+[source,yaml]
+----
+text: Including staff training, staff responsibilities, staff qualifications and certification
+----
 
 [source,json]
 ----
@@ -80,6 +106,12 @@ Example without link:
 
 Example with link:
 
+[source,yaml]
+----
+ics-code: 25.160.01
+text: Welding, brazing and soldering in general, see {ics-code}
+----
+
 [source,json]
 ----
 {
@@ -89,22 +121,45 @@ Example with link:
 ----
 
 
+== YAML ICS
+
+This is an example of an ICS entry in this repository.
+
+https://github.com/metanorma/iso-ics-codes/blob/main/yaml/ed7/03_100_30.yaml
+
+[source,yaml]
+----
+'@context': https://isoics.org/ics/ns/subgroup.jsonld
+code: 03.100.30
+description: Management of human resources
+descriptionFull: Services. Company organization, management and quality. Administration. Transport. Sociology. Company organization and management. Management systems. Management of human resources.
+edition: 7
+fieldcode: "03"
+groupcode: "100"
+notes:
+  - text: Including staff training, staff responsibilities, staff qualifications and certification
+  - ics-code: 25.160.01
+    text: Welding, brazing and soldering in general, see {ics-code}
+subgroupcode: "30"
+----
+
+
 == JSON ICS
 
 This is an example of an ICS entry in this repository.
 
-https://github.com/metanorma/iso-ics-codes/blob/master/ics/03_100_30.json
+https://github.com/metanorma/iso-ics-codes/blob/main/json/ed7/03_100_30.json
 
 [source,json]
 ----
 {
-  "code": "03.100.30",
-  "fieldcode": "03",
-  "description": "Management of human resources",
-  "groupcode": "100",
-  "subgroupcode": "30",
   "@context": "https://isoics.org/ics/ns/subgroup.jsonld",
+  "code": "03.100.30",
+  "description": "Management of human resources",
   "descriptionFull": "Services. Company organization, management and quality. Administration. Transport. Sociology. Company organization and management. Management systems. Management of human resources.",
+  "edition": 7,
+  "fieldcode": "03",
+  "groupcode": "100",
   "notes": [
     {
       "text": "Including staff training, staff responsibilities, staff qualifications and certification"
@@ -113,15 +168,16 @@ https://github.com/metanorma/iso-ics-codes/blob/master/ics/03_100_30.json
       "text": "Welding, brazing and soldering in general, see {ics-code}",
       "ics-code": "25.160.01"
     }
-  ]
+  ],
+  "subgroupcode": "30"
 }
 ----
 
-* In an ICS subgroup, the JSON representation provides you with both the description of the subgroup and of the group.
-* Notice it also contains a JSONLD context (which is not yet resolvable).
 
 
 == Usage
+
+=== General
 
 Files are directly named using the ICS codes in order to enable machine
 access for the data related to every single ICS code.
@@ -134,6 +190,25 @@ For example,
 * `01.json` contains data of ICS code `01` (field code `01`)
 * `01_020.json` contains data of ICS code `01.020` (field code `01`, group code `020`)
 * `01_040_01.json` contains data of ICS code `01.040.01` (field code `01`, group code `040`, subgroup code `01`)
+
+=== Data conversion
+
+The following scripts can be used to generate JSON files from YAML (and vice
+versa).
+
+To generate JSON-LD files from YAML:
+
+[source,sh]
+----
+for f in $(find yaml -name '*.yaml' | sort); do yq -P -j '.' $f > ${f//yaml/json}; done
+----
+
+To generate YAML-LD files from JSON:
+
+[source,sh]
+----
+for f in $(find json -name '*.json' | sort); do yq -P '.' $f > ${f//json/yaml}; done
+----
 
 
 == Data source
