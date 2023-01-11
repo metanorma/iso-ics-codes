@@ -1,0 +1,31 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "83.140",
+  "description": "Rubber and plastics products",
+  "descriptionFull": "Rubber and Plastic Industries. Rubber and plastics products.\n",
+  "edition": 6,
+  "fieldcode": "83",
+  "groupcode": "140",
+  "notes": [
+    {
+      "ics-code": "21.220.10",
+      "text": "Moulding or extrusion products should be classified according to specific products transmission belts, see {ics-code}"
+    },
+    {
+      "ics-code": "53.040.20",
+      "text": "Conveyor belts, see {ics-code}"
+    },
+    {
+      "ics-code": "59.080.40",
+      "text": "Rubber and plastics coated fabrics, see {ics-code}"
+    },
+    {
+      "ics-code": "61.060",
+      "text": "Footwear, see {ics-code}"
+    },
+    {
+      "ics-code": "83.160",
+      "text": "tyres, see {ics-code}"
+    }
+  ]
+}

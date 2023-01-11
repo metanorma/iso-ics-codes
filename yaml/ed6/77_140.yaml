@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "77.140"
+description: Iron and steel products
+descriptionFull: |
+  Metallurgy. Iron and steel products.
+edition: 6
+fieldcode: "77"
+groupcode: "140"
+notes:
+  - text: tandards containing quality grades and form of products should be classified in both types of relevant sub -groups
+  - ics-code: 49.025.10
+    text: Steel products for aerospace construction, see {ics-code}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "91.040.30",
+  "description": "Residential buildings",
+  "edition": 6,
+  "fieldcode": "91",
+  "groupcode": "040",
+  "subgroupcode": "30"
+}

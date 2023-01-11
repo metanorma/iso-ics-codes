@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "39.040.20",
+  "description": "Clocks",
+  "edition": 6,
+  "fieldcode": "39",
+  "groupcode": "040",
+  "subgroupcode": "20"
+}

@@ -1,0 +1,14 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "93.100"
+description: Construction of railways
+descriptionFull: |
+  Civil Engineering. Construction of railways.
+edition: 6
+fieldcode: "93"
+groupcode: "100"
+notes:
+  - text: Including the construction of tramways, funicular railways, cableways, rail traffic control equipment and installations, etc.
+  - ics-code: "45.080"
+    text: Rails and railway components, including track, see {ics-code}
+  - ics-code: "45.120"
+    text: Equipment for railway/cableway construction and maintenance, see {ics-code}

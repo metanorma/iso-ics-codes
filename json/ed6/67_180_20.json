@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "67.180.20",
+  "description": "Starch and derived products",
+  "descriptionFull": "Food Technology. Starch and derived products.\n",
+  "edition": 6,
+  "fieldcode": "67",
+  "groupcode": "180",
+  "notes": [
+    {
+      "text": "Including glucose syrups, etc."
+    }
+  ],
+  "subgroupcode": "20"
+}

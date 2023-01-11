@@ -1,0 +1,6 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "19.020"
+description: Test conditions and procedures in general
+edition: 6
+fieldcode: "19"
+groupcode: "020"

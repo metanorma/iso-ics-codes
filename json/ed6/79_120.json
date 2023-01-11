@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "79.120",
+  "description": "Woodworking equipment",
+  "edition": 6,
+  "fieldcode": "79",
+  "groupcode": "120"
+}

@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 91.040.01
+description: Buildings in general
+descriptionFull: |
+  Construction Materials and Building. Buildings in general.
+edition: 6
+fieldcode: "91"
+groupcode: "040"
+notes:
+  - text: Including building environment design
+  - ics-code: "91.100"
+    text: Building materials, see {ics-code}
+subgroupcode: "01"

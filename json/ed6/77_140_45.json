@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "77.140.45",
+  "description": "Non-alloyed steels",
+  "edition": 6,
+  "fieldcode": "77",
+  "groupcode": "140",
+  "subgroupcode": "45"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "13.340.70",
+  "description": "Lifejackets, buoyancy aids and flotation devices",
+  "edition": 6,
+  "fieldcode": "13",
+  "groupcode": "340",
+  "subgroupcode": "70"
+}

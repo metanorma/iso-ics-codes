@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "71.040.99",
+  "description": "Other standards related to analytical chemistry",
+  "edition": 6,
+  "fieldcode": "71",
+  "groupcode": "040",
+  "subgroupcode": "99"
+}

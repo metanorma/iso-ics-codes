@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 59.140.35
+description: Leather products
+descriptionFull: |
+  Textile and Leather Technology. Leather products.
+edition: 6
+fieldcode: "59"
+groupcode: "140"
+notes:
+  - text: Including trunks, suitcases, handbags, purses, wallets, dog-collars, etc. made of materials other than leather
+  - ics-code: "61"
+    text: Products of the clothing industry, see {ics-code}
+subgroupcode: "35"

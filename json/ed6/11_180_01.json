@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "11.180.01",
+  "description": "Aids for disabled and handicapped persons in general",
+  "edition": 6,
+  "fieldcode": "11",
+  "groupcode": "180",
+  "subgroupcode": "01"
+}

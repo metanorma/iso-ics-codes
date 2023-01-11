@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "11.020",
+  "description": "Medical sciences and health care facilities in general",
+  "descriptionFull": "Health Care Technology. Medical sciences and health care facilities in general.\n",
+  "edition": 6,
+  "fieldcode": "11",
+  "groupcode": "020",
+  "notes": [
+    {
+      "text": "Including quality and environmental management in health care technology"
+    },
+    {
+      "ics-code": "35.240.80",
+      "text": "IT application in health care technology, see {ics-code}"
+    }
+  ]
+}

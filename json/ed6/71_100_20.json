@@ -1,0 +1,20 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "71.100.20",
+  "description": "Gases for industrial application",
+  "descriptionFull": "Chemical Technology. Gases for industrial application.\n",
+  "edition": 6,
+  "fieldcode": "71",
+  "groupcode": "100",
+  "notes": [
+    {
+      "ics-code": "27.075",
+      "text": "Including compressed air and hydrogen *Hydrogen technologies, see {ics-code}"
+    },
+    {
+      "ics-code": "75.160.30",
+      "text": "Liquefiedpetroleum gases, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "20"
+}

@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 49.030.10
+description: Screw threads
+descriptionFull: |
+  Shipbuilding and Marine Structures. Screw threads.
+edition: 6
+fieldcode: "49"
+groupcode: "030"
+notes:
+  - ics-code: "21.040"
+    text: Screw threads for general use, see {ics-code}
+subgroupcode: "10"

@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "11.040.10",
+  "description": "Anaesthetic, respiratory and reanimation equipment",
+  "descriptionFull": "Health Care Technology. Anaesthetic, respiratory and reanimation equipment.\n",
+  "edition": 6,
+  "fieldcode": "11",
+  "groupcode": "040",
+  "notes": [
+    {
+      "text": "Including medical gas installations"
+    }
+  ],
+  "subgroupcode": "10"
+}

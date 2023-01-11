@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 67.120.30
+description: Fish and fishery products
+descriptionFull: |
+  Food Technology. Fish and fishery products.
+edition: 6
+fieldcode: "67"
+groupcode: "120"
+notes:
+  - text: Including aquatic molluscs and other marine products
+subgroupcode: "30"

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "25.100.25",
+  "description": "Tools for planing and broaching machines",
+  "edition": 6,
+  "fieldcode": "25",
+  "groupcode": "100",
+  "subgroupcode": "25"
+}

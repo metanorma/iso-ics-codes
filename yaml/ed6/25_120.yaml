@@ -1,0 +1,6 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "25.120"
+description: Chipless working equipment
+edition: 6
+fieldcode: "25"
+groupcode: "120"

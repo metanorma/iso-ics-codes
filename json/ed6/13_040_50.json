@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "13.040.50",
+  "description": "Transport exhaust emissions",
+  "edition": 6,
+  "fieldcode": "13",
+  "groupcode": "040",
+  "subgroupcode": "50"
+}

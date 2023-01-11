@@ -1,0 +1,6 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "31.040"
+description: Resistors
+edition: 6
+fieldcode: "31"
+groupcode: "040"

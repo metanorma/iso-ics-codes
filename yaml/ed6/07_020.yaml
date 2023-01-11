@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "07.020"
+description: Mathematics
+descriptionFull: |
+  Mathematics. Natural Sciences. Mathematics.
+edition: 6
+fieldcode: "07"
+groupcode: "020"
+notes:
+  - ics-code: 03.120.30
+    text: Application of statistical methods in quality assurance, see {ics-code}

@@ -1,0 +1,14 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 91.120.10
+description: Thermal insulation of buildings
+descriptionFull: |
+  Construction Materials and Building. Thermal insulation of buildings.
+edition: 6
+fieldcode: "91"
+groupcode: "120"
+notes:
+  - ics-code: "27.220"
+    text: Thermal insulation in general, see {ics-code}
+  - ics-code: 91.100.60
+    text: Thermal insulating materials, see {ics-code}
+subgroupcode: "10"

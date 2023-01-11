@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "91.060",
+  "description": "Elements of buildings",
+  "descriptionFull": "Construction Materials and Building. Elements of buildings.\n",
+  "edition": 6,
+  "fieldcode": "91",
+  "groupcode": "060",
+  "notes": [
+    {
+      "ics-code": "93.020",
+      "text": "Foundations, see {ics-code}"
+    }
+  ]
+}

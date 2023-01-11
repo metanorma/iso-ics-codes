@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "33.080",
+  "description": "Integrated Services Digital Network (ISDN)",
+  "edition": 6,
+  "fieldcode": "33",
+  "groupcode": "080"
+}

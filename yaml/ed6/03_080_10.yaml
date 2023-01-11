@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 03.080.10
+description: Industrial services
+descriptionFull: |
+  Services. Company Organization. Management and Quality. Administration. Transport. Socliology. Industrial services.
+edition: 6
+fieldcode: "03"
+groupcode: "080"
+notes:
+  - text: inciuding maintenance, cleaning, etc.
+subgroupcode: "10"

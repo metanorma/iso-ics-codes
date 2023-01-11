@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "03.120.01",
+  "description": "Quality in general",
+  "descriptionFull": "Services. Company Organization. Management and Quality. Administration. Transport. Socliology. Quality in general.\n",
+  "edition": 6,
+  "fieldcode": "03",
+  "groupcode": "120",
+  "notes": [
+    {
+      "text": "inciuding general aspects related to reliability and maintainability"
+    }
+  ],
+  "subgroupcode": "01"
+}

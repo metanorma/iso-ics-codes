@@ -1,0 +1,7 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 35.100.70
+description: Application layer
+edition: 6
+fieldcode: "35"
+groupcode: "100"
+subgroupcode: "70"

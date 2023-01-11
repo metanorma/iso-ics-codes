@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 03.100.20
+description: Trade. Commercial function. Marketing
+descriptionFull: |
+  Services. Company Organization. Management and Quality. Administration. Transport. Socliology. Trade. Commercial function. Marketing.
+edition: 6
+fieldcode: "03"
+groupcode: "100"
+notes:
+  - ics-code: 35.240.60
+    text: E-commerce, see {ics-code}
+subgroupcode: "20"

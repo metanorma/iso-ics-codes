@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "21.120.30",
+  "description": "Keys and keyways, splines",
+  "edition": 6,
+  "fieldcode": "21",
+  "groupcode": "120",
+  "subgroupcode": "30"
+}

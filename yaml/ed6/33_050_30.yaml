@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 33.050.30
+description: Equipment for telex, teletext, telefax
+descriptionFull: |
+  Telecommunications. Audio and Video Engineering. Equipment for telex, teletext, telefax.
+edition: 6
+fieldcode: "33"
+groupcode: "050"
+notes:
+  - ics-code: "35.180"
+    text: Modems, see {ics-code}
+subgroupcode: "30"

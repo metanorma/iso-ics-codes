@@ -1,0 +1,7 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 91.140.01
+description: Installations in buildings in general
+edition: 6
+fieldcode: "91"
+groupcode: "140"
+subgroupcode: "01"

@@ -1,0 +1,16 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "07.100.10",
+  "description": "Medical microbiology",
+  "descriptionFull": "Mathematics. Natural Sciences. Medical microbiology.\n",
+  "edition": 6,
+  "fieldcode": "07",
+  "groupcode": "100",
+  "notes": [
+    {
+      "ics-code": "11.100",
+      "text": "laboratory medicine, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "10"
+}

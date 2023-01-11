@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "13.320"
+description: Alarm and warning systems
+descriptionFull: |
+  Environment. Health Protection. Safety. Alarm and warning systems.
+edition: 6
+fieldcode: "13"
+groupcode: "320"
+notes:
+  - ics-code: "13.310"
+    text: Burglar alarm and warning systems, see {ics-code}
+  - ics-code: 43.040.20
+    text: Warning devices for road vehicles, see {ics-code}

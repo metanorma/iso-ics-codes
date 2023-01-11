@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "81.040.01",
+  "description": "Glass in general",
+  "edition": 6,
+  "fieldcode": "81",
+  "groupcode": "040",
+  "subgroupcode": "01"
+}

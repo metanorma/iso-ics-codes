@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "29.120.99",
+  "description": "Other electrical accessories",
+  "edition": 6,
+  "fieldcode": "29",
+  "groupcode": "120",
+  "subgroupcode": "99"
+}

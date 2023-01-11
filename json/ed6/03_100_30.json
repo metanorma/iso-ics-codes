@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "03.100.30",
+  "description": "Management of human resources",
+  "descriptionFull": "Services. Company Organization. Management and Quality. Administration. Transport. Socliology. Management of human resources.\n",
+  "edition": 6,
+  "fieldcode": "03",
+  "groupcode": "100",
+  "notes": [
+    {
+      "text": "Including staff training, staff responsibilities, staff qualifications and certification"
+    },
+    {
+      "ics-code": "25.160.01",
+      "text": "Welders' qualifications, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "30"
+}

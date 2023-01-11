@@ -1,0 +1,7 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 43.080.20
+description: Buses
+edition: 6
+fieldcode: "43"
+groupcode: "080"
+subgroupcode: "20"

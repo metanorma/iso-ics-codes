@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "29.220.99",
+  "description": "Other cells and batteries",
+  "edition": 6,
+  "fieldcode": "29",
+  "groupcode": "220",
+  "subgroupcode": "99"
+}

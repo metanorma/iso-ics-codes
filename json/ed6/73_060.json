@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "73.060",
+  "description": "Metalliferous minerals and their concentrates",
+  "descriptionFull": "Mining and Minerals. Metalliferous minerals and their concentrates.\n",
+  "edition": 6,
+  "fieldcode": "73",
+  "groupcode": "060",
+  "notes": [
+    {
+      "ics-code": "27.120.30",
+      "text": "Uranium -containing minerals, see {ics-code}"
+    }
+  ]
+}

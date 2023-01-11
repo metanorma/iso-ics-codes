@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "17.140.01",
+  "description": "Acoustic measurements and noise abatement in general including acoustic insulation",
+  "edition": 6,
+  "fieldcode": "17",
+  "groupcode": "140",
+  "subgroupcode": "01"
+}

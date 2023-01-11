@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "65.060"
+description: Agricultural machines, implements and equipment
+descriptionFull: |
+  Agriculture. Agricultural machines, implements and equipment.
+edition: 6
+fieldcode: "65"
+groupcode: "060"
+notes:
+  - ics-code: 83.160.30
+    text: Tyres for agricultural machinery, see {ics-code}

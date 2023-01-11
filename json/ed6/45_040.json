@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "45.040",
+  "description": "Materials and components for railway engineering",
+  "edition": 6,
+  "fieldcode": "45",
+  "groupcode": "040"
+}

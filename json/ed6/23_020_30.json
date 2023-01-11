@@ -1,0 +1,28 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "23.020.30",
+  "description": "Gas pressure vessels, gas cylinders",
+  "descriptionFull": "Fluid Systems and Components for General. Gas pressure vessels, gas cylinders.\n",
+  "edition": 6,
+  "fieldcode": "23",
+  "groupcode": "020",
+  "notes": [
+    {
+      "ics-code": "43.080.10",
+      "text": "Tanker trucks, see {ics-code}"
+    },
+    {
+      "ics-code": "45.060.20",
+      "text": "Tank wagons, see {ics-code}"
+    },
+    {
+      "ics-code": "47.020.85",
+      "text": "Tankers, see {ics-code}"
+    },
+    {
+      "ics-code": "55.140",
+      "text": "Small containers for fluids, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "30"
+}

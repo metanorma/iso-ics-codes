@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 35.220.21
+description: Magnetic disks
+descriptionFull: |
+  Information Technology. Office Machines. Magnetic disks.
+edition: 6
+fieldcode: "35"
+groupcode: "220"
+notes:
+  - text: 1 including flexible disks, diskettes, disk packs, disk cartridges, etc.
+subgroupcode: "21"

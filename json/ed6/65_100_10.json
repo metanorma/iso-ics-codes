@@ -1,0 +1,16 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "65.100.10",
+  "description": "Insecticides",
+  "descriptionFull": "Agriculture. Insecticides.\n",
+  "edition": 6,
+  "fieldcode": "65",
+  "groupcode": "100",
+  "notes": [
+    {
+      "ics-code": "71.100.50",
+      "text": "Wood-protecting chemicals, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "10"
+}

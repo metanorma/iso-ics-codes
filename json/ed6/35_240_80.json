@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "35.240.80",
+  "description": "IT applications in health care technology",
+  "descriptionFull": "Information Technology. Office Machines. IT applications in health care technology.\n",
+  "edition": 6,
+  "fieldcode": "35",
+  "groupcode": "240",
+  "notes": [
+    {
+      "text": "including computer tomography"
+    }
+  ],
+  "subgroupcode": "80"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "21.220.20",
+  "description": "Cable or rope drives and their components",
+  "edition": 6,
+  "fieldcode": "21",
+  "groupcode": "220",
+  "subgroupcode": "20"
+}

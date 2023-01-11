@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 67.080.10
+description: Fruits and derived products
+descriptionFull: |
+  Food Technology. Fruits and derived products.
+edition: 6
+fieldcode: "67"
+groupcode: "080"
+notes:
+  - text: Including nuts
+subgroupcode: "10"

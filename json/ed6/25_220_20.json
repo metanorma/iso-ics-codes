@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "25.220.20",
+  "description": "Surface treatment",
+  "descriptionFull": "Manufacturing Engineering. Surface treatment.\n",
+  "edition": 6,
+  "fieldcode": "25",
+  "groupcode": "220",
+  "notes": [
+    {
+      "text": "Including anodization, conversion coating, thermal spraying, etc."
+    }
+  ],
+  "subgroupcode": "20"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "87.060.20",
+  "description": "Binders",
+  "edition": 6,
+  "fieldcode": "87",
+  "groupcode": "060",
+  "subgroupcode": "20"
+}

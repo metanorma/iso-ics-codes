@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "71.040.50",
+  "description": "Physicochemical methods of analysis",
+  "descriptionFull": "Chemical Technology. Physicochemical methods of analysis.\n",
+  "edition": 6,
+  "fieldcode": "71",
+  "groupcode": "040",
+  "notes": [
+    {
+      "text": "Including spectrophotometric and chromatographic analysis"
+    }
+  ],
+  "subgroupcode": "50"
+}

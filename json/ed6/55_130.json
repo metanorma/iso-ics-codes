@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "55.130",
+  "description": "Aerosol containers",
+  "edition": 6,
+  "fieldcode": "55",
+  "groupcode": "130"
+}

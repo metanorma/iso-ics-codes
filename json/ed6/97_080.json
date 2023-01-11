@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "97.080",
+  "description": "Cleaning appliances",
+  "descriptionFull": "Domestic and Commercial Equipment. Entertainment. Sports. Cleaning appliances.\n",
+  "edition": 6,
+  "fieldcode": "97",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including vacuum cleaners, floor-cleaning machines, floor polishers, steam cleaners, pressure cleaners, hand operated cleaners, etc."
+    }
+  ]
+}

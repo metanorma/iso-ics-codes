@@ -1,0 +1,23 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "75.160.30",
+  "description": "Gaseous fuels",
+  "descriptionFull": "Petroleum and Related Technologies. Gaseous fuels.\n",
+  "edition": 6,
+  "fieldcode": "75",
+  "groupcode": "160",
+  "notes": [
+    {
+      "text": "Including liquefied petroleum gases"
+    },
+    {
+      "ics-code": "71.100.20",
+      "text": "Hydrogen, see {ics-code}"
+    },
+    {
+      "ics-code": "75.060",
+      "text": "Natural gas, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "30"
+}

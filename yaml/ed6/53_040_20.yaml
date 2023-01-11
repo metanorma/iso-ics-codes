@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 53.040.20
+description: Components for conveyors
+descriptionFull: |
+  Materials Handling Equipment. Components for conveyors.
+edition: 6
+fieldcode: "53"
+groupcode: "040"
+notes:
+  - text: Including conveyor belts, chains, chain wheels, etc.
+subgroupcode: "20"

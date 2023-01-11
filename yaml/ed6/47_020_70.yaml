@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 47.020.70
+description: Navigation and control equipment
+descriptionFull: |
+  Shipbuilding and Marine Structures. Navigation and control equipment.
+edition: 6
+fieldcode: "47"
+groupcode: "020"
+notes:
+  - ics-code: "33.060"
+    text: Radiocommunications equipment, see {ics-code}
+subgroupcode: "70"

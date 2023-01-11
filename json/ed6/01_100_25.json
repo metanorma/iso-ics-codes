@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "01.100.25",
+  "description": "Electrical and electronics engineering drawings",
+  "descriptionFull": "Generalities. Terminology. Standardization. Documentation. Electrical and electronics engineering drawings.\n",
+  "edition": 6,
+  "fieldcode": "01",
+  "groupcode": "100",
+  "notes": [
+    {
+      "text": "Including electrical tables, diagrams and charts"
+    }
+  ],
+  "subgroupcode": "25"
+}

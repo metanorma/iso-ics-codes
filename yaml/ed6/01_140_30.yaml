@@ -1,0 +1,16 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 01.140.30
+description: Documents in administration, commerce and industry
+descriptionFull: |
+  Generalities. Terminology. Standardization. Documentation. Documents in administration, commerce and industry.
+edition: 6
+fieldcode: "01"
+groupcode: "140"
+notes:
+  - ics-code: "01.110"
+    text: technical product documentation, see {ics-code}
+  - ics-code: "03.060"
+    text: Banking documents, see {ics-code}
+  - ics-code: 35.240.60
+    text: Electronic data interchange (EDI), see {ics-code}
+subgroupcode: "30"

@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "91.200"
+description: Construction technology
+descriptionFull: |
+  Construction Materials and Building. Construction technology.
+edition: 6
+fieldcode: "91"
+groupcode: "200"
+notes:
+  - text: Including measuring methods, construction sites, demolition of structures, etc.

@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "29.260",
+  "description": "Electrical equipment for working in special conditions",
+  "edition": 6,
+  "fieldcode": "29",
+  "groupcode": "260"
+}

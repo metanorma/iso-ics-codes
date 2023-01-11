@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "03.080"
+description: Services
+descriptionFull: |
+  Services. Company Organization. Management and Quality. Administration. Transport. Socliology. Services.
+edition: 6
+fieldcode: "03"
+groupcode: "080"
+notes:
+  - ics-code: "03.220"
+    text: transport, see {ics-code}
+  - ics-code: "03.240"
+    text: Postai services, see {ics-code}

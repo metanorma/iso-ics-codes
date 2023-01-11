@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "49.095",
+  "description": "Passenger and cabin equipment",
+  "edition": 6,
+  "fieldcode": "49",
+  "groupcode": "095"
+}

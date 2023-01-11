@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "97.150"
+description: Non-textile floor coverings
+descriptionFull: |
+  Domestic and Commercial Equipment. Entertainment. Sports. Non-textile floor coverings.
+edition: 6
+fieldcode: "97"
+groupcode: "150"
+notes:
+  - ics-code: 59.080.60
+    text: Textile floor coverings, see {ics-code}

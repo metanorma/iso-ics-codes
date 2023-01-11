@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 91.120.30
+description: Waterproofing
+descriptionFull: |
+  Construction Materials and Building. Waterproofing.
+edition: 6
+fieldcode: "91"
+groupcode: "120"
+notes:
+  - ics-code: 91.100.50
+    text: Sealing materials, see {ics-code}
+subgroupcode: "30"

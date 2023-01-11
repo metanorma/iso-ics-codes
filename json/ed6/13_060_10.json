@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "13.060.10",
+  "description": "Water of natural resources",
+  "edition": 6,
+  "fieldcode": "13",
+  "groupcode": "060",
+  "subgroupcode": "10"
+}

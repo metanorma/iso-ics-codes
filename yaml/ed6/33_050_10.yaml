@@ -1,0 +1,7 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 33.050.10
+description: Telephone equipment
+edition: 6
+fieldcode: "33"
+groupcode: "050"
+subgroupcode: "10"

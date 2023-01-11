@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "25.080.01",
+  "description": "Machine tools in general",
+  "edition": 6,
+  "fieldcode": "25",
+  "groupcode": "080",
+  "subgroupcode": "01"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "21.120.40",
+  "description": "Balancing and balancing machines",
+  "edition": 6,
+  "fieldcode": "21",
+  "groupcode": "120",
+  "subgroupcode": "40"
+}

@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "29.030"
+description: Magnetic materials
+descriptionFull: |
+  Electrical Engineering. Magnetic materials.
+edition: 6
+fieldcode: "29"
+groupcode: "030"
+notes:
+  - ics-code: 77.140.40
+    text: Steels with special magnetic properties, see {ics-code}

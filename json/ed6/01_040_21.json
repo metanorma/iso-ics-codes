@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "01.040.21",
+  "description": "Mechanical systems and components for general use (Vocabularies)",
+  "edition": 6,
+  "fieldcode": "01",
+  "groupcode": "040",
+  "subgroupcode": "21"
+}

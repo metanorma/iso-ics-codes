@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "97.040.01",
+  "description": "Kitchen equipment in general",
+  "edition": 6,
+  "fieldcode": "97",
+  "groupcode": "040",
+  "subgroupcode": "01"
+}

@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 27.120.30
+description: Fissile materials and nuclear fuel technology
+descriptionFull: |
+  Energy and Heat Transfer Engineering. Fissile materials and nuclear fuel technology.
+edition: 6
+fieldcode: "27"
+groupcode: "120"
+notes:
+  - text: 1 including raw materials
+  - ics-code: 13.030.30
+    text: Radioactive wastes, see {ics-code}
+subgroupcode: "30"

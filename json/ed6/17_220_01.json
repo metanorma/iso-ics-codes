@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "17.220.01",
+  "description": "Electricity. Magnetism. General aspects",
+  "descriptionFull": "Metrology and Measurement. Physical Phenomena. Electricity. Magnetism. General aspects.\n",
+  "edition": 6,
+  "fieldcode": "17",
+  "groupcode": "220",
+  "notes": [
+    {
+      "text": "Including electromagnetism"
+    }
+  ],
+  "subgroupcode": "01"
+}

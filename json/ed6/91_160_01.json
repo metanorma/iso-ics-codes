@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "91.160.01",
+  "description": "Lighting in general",
+  "edition": 6,
+  "fieldcode": "91",
+  "groupcode": "160",
+  "subgroupcode": "01"
+}

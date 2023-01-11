@@ -1,18 +1,23 @@
-= ISO ICS codes (edition 7) in machine-processable formats
+= ISO International Classification for Standards (ICS) codes in machine-processable formats
 
-== General
+== Purpose
 
 ISO International Classification for Standards (ICS) codes are used
 amongst international standards for categorization purposes
 especially in ISO and IEC standards.
 
-== Purpose
-
 While ISO provides them in a PDF form for public usage, they are
 not available in machine-readable form.
 
 The contents of this repository aims to provide ICS codes in
-machine-readable form (JSON and JSON-LD).
+machine-readable form (YAML/YAML-LD and JSON/JSON-LD).
+
+This repository provides the following editions of the ICS codes:
+
+* Edition 6 (published in 2005)
+* Edition 7 (published in 2015)
+
+NOTE: IEEE SA uses ICS Edition 6, while ISO and IEC use ICS Edition 7.
 
 
 == Models
@@ -25,6 +30,11 @@ The following files are provided in this repository:
 
 `yaml/{edition}/*.yaml`:: YAML-LD files for ICS codes.
 `json/{edition}/*.json`:: JSON-LD files for ICS codes.
+
+The `{edition}` value is:
+
+`ed6`:: ICS Edition 6
+`ed7`:: ICS Edition 7
 
 
 === ICS code
@@ -213,19 +223,25 @@ for f in $(find json -name '*.json' | sort); do yq -P '.' $f > ${f//json/yaml}; 
 
 == Data source
 
-The data source is the 2015 edition of ISO ICS, which are also available
-from the ISO
+=== Edition 7
+
+The data source is the 2015 edition of ISO ICS, which are also
+available from the ISO
 https://www.iso.org/standards-catalogue/browse-by-ics.html["`Browse by ICS`"]
 interface.
 
 These files are created by using scripts located in
 https://github.com/metanorma/iso-ics-codes-scripts[`iso-ics-codes-scripts`].
 
+=== Edition 6
+
+The data source is the 2005 edition of ISO ICS, available as a PDF
+under `reference-docs/ICS_ISO_Ed_6_2005_en.pdf`.
 
 
 == Credits
 
-This code list is maintained by the https://www.metanorma.org[Ribose Metanorma project].
+This code list is maintained by https://www.metanorma.org[Ribose Metanorma].
 
 == License
 

@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "03.100.01",
+  "description": "Company organization and management in general",
+  "descriptionFull": "Services. Company Organization. Management and Quality. Administration. Transport. Socliology. Company organization and management in general.\n",
+  "edition": 6,
+  "fieldcode": "03",
+  "groupcode": "100",
+  "notes": [
+    {
+      "text": "Including legal aspects and risk management"
+    }
+  ],
+  "subgroupcode": "01"
+}

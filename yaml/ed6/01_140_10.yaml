@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 01.140.10
+description: Writing and transliteration
+descriptionFull: |
+  Generalities. Terminology. Standardization. Documentation. Writing and transliteration.
+edition: 6
+fieldcode: "01"
+groupcode: "140"
+notes:
+  - ics-code: "35.040"
+    text: Coded character sets for bibliographic information interchange, see {ics-code}
+subgroupcode: "10"

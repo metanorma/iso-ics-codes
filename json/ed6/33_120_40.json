@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "33.120.40",
+  "description": "Aerials",
+  "edition": 6,
+  "fieldcode": "33",
+  "groupcode": "120",
+  "subgroupcode": "40"
+}

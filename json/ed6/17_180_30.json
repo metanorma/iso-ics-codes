@@ -1,0 +1,35 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "17.180.30",
+  "description": "Optical measuring instruments",
+  "descriptionFull": "Metrology and Measurement. Physical Phenomena. Optical measuring instruments.\n",
+  "edition": 6,
+  "fieldcode": "17",
+  "groupcode": "180",
+  "notes": [
+    {
+      "text": "Including spectroscopes, geodetic instruments, etc."
+    },
+    {
+      "ics-code": "11.040.70",
+      "text": "Ophthalmic optics and instruments, see {ics-code}"
+    },
+    {
+      "ics-code": "31.260",
+      "text": "Laser equipment, see {ics-code}"
+    },
+    {
+      "ics-code": "33.180",
+      "text": "Fibre optics, see {ics-code}"
+    },
+    {
+      "ics-code": "37.020",
+      "text": "Optical equipment, materials and components, see {ics-code}"
+    },
+    {
+      "ics-code": "37.040.10",
+      "text": "Photographic equipment lenses, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "30"
+}

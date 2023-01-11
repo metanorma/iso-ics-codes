@@ -1,0 +1,6 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "91.020"
+description: Physical planning. Town planning
+edition: 6
+fieldcode: "91"
+groupcode: "020"

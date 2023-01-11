@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "13.060"
+description: Water quality
+descriptionFull: |
+  Environment. Health Protection. Safety. Water quality.
+edition: 6
+fieldcode: "13"
+groupcode: "060"
+notes:
+  - text: Including toxicity, biodegradability, protection against pollution, related installations and equipment
+  - text: Standards for examination of water should be classified under sub -groups acoording to their type of water

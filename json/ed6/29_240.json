@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "29.240",
+  "description": "Power transmission and distribution networks",
+  "descriptionFull": "Electrical Engineering. Power transmission and distribution networks.\n",
+  "edition": 6,
+  "fieldcode": "29",
+  "groupcode": "240",
+  "notes": [
+    {
+      "ics-code": "91.140.50",
+      "text": "Electricity supply systems in buildings, see {ics-code}"
+    }
+  ]
+}

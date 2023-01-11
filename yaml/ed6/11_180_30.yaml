@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 11.180.30
+description: Aids for blind or partially sighted people
+descriptionFull: |
+  Health Care Technology. Aids for blind or partially sighted people.
+edition: 6
+fieldcode: "11"
+groupcode: "180"
+notes:
+  - text: Including Braill
+  - ics-code: 11.040.70
+    text: Glasses, contact lenses and their cleaning products, see {ics-code}
+subgroupcode: "30"

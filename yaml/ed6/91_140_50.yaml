@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 91.140.50
+description: Electricity supply systems
+descriptionFull: |
+  Construction Materials and Building. Electricity supply systems.
+edition: 6
+fieldcode: "91"
+groupcode: "140"
+notes:
+  - text: Including electric energy meters in buildings, emergency electrical supplies, etc.
+subgroupcode: "50"

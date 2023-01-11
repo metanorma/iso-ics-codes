@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "47.020.60",
+  "description": "Electrical equipment of ships and of marine structures",
+  "edition": 6,
+  "fieldcode": "47",
+  "groupcode": "020",
+  "subgroupcode": "60"
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "67.120",
+  "description": "Meat, meat products and other animal produce",
+  "descriptionFull": "Food Technology. Meat, meat products and other animal produce.\n",
+  "edition": 6,
+  "fieldcode": "67",
+  "groupcode": "120",
+  "notes": [
+    {
+      "text": "Including frozen products"
+    }
+  ]
+}

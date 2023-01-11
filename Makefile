@@ -1,4 +1,4 @@
-ED7_YAML := $(wildcard yaml/ed7/*.yaml)
+ED7_YAML := $(wildcard yaml/**/*.yaml)
 ED7_YAML_NORM := $(subst yaml/,norm/,$(ED7_YAML))
 ED7_JSON := $(subst yaml,json,$(ED7_YAML))
 

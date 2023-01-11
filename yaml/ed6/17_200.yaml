@@ -1,0 +1,6 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "17.200"
+description: Thermodynamics and temperature measurements
+edition: 6
+fieldcode: "17"
+groupcode: "200"

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "75.180.20",
+  "description": "Processing equipment",
+  "edition": 6,
+  "fieldcode": "75",
+  "groupcode": "180",
+  "subgroupcode": "20"
+}

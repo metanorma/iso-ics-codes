@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "35.240.99",
+  "description": "IT applications in other fields",
+  "descriptionFull": "Information Technology. Office Machines. IT applications in other fields.\n",
+  "edition": 6,
+  "fieldcode": "35",
+  "groupcode": "240",
+  "notes": [
+    {
+      "text": "Including e-learning"
+    }
+  ],
+  "subgroupcode": "99"
+}

@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "45.120",
+  "description": "Equipment for railway/cableway construction and maintenance",
+  "edition": 6,
+  "fieldcode": "45",
+  "groupcode": "120"
+}

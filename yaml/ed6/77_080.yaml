@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "77.080"
+description: Ferrous metals
+descriptionFull: |
+  Metallurgy. Ferrous metals.
+edition: 6
+fieldcode: "77"
+groupcode: "080"
+notes:
+  - text: including classification, designation, sampling, chemical analysis, etc.
+  - ics-code: "77.140"
+    text: Dimensions and quality grades of iron and steel products, see {ics-code}

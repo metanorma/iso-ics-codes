@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 11.040.50
+description: Radiographic equipment
+descriptionFull: |
+  Health Care Technology. Radiographic equipment.
+edition: 6
+fieldcode: "11"
+groupcode: "040"
+notes:
+  - text: Including radiographic diagnostic and therapy equipment
+  - ics-code: 37.040.25
+    text: Dental, medical and industrial radiographic films, see {ics-code}
+subgroupcode: "50"

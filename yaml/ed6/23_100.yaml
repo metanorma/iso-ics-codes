@@ -1,0 +1,6 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "23.100"
+description: Fluid power systems
+edition: 6
+fieldcode: "23"
+groupcode: "100"

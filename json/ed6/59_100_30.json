@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "59.100.30",
+  "description": "Aramide materials",
+  "edition": 6,
+  "fieldcode": "59",
+  "groupcode": "100",
+  "subgroupcode": "30"
+}

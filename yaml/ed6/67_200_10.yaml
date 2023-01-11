@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 67.200.10
+description: Animal and vegetable fats and oils
+descriptionFull: |
+  Food Technology. Animal and vegetable fats and oils.
+edition: 6
+fieldcode: "67"
+groupcode: "200"
+notes:
+  - ics-code: 67.100.20
+    text: Butter, see {ics-code}
+subgroupcode: "10"

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "73.060.10",
+  "description": "Iron ores",
+  "edition": 6,
+  "fieldcode": "73",
+  "groupcode": "060",
+  "subgroupcode": "10"
+}

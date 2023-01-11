@@ -1,0 +1,20 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "77.040.20",
+  "description": "Non-destructive testing of metals",
+  "descriptionFull": "Metallurgy. Non-destructive testing of metals.\n",
+  "edition": 6,
+  "fieldcode": "77",
+  "groupcode": "040",
+  "notes": [
+    {
+      "ics-code": "19.100",
+      "text": "Non-destructive testing in general, see {ics-code}"
+    },
+    {
+      "ics-code": "25.160.40",
+      "text": "Non-destructive testing of welded joints, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "20"
+}

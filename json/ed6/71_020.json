@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "71.020",
+  "description": "Production in the chemical industry",
+  "descriptionFull": "Chemical Technology. Production in the chemical industry.\n",
+  "edition": 6,
+  "fieldcode": "71",
+  "groupcode": "020",
+  "notes": [
+    {
+      "text": "Including plant layout and services, process design and control, processing operations, security measures, etc."
+    }
+  ]
+}

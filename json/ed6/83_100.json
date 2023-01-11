@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "83.100",
+  "description": "Cellular materials",
+  "edition": 6,
+  "fieldcode": "83",
+  "groupcode": "100"
+}

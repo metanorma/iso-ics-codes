@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "13.110"
+description: Safety of machinery
+descriptionFull: |
+  Environment. Health Protection. Safety. Safety of machinery.
+edition: 6
+fieldcode: "13"
+groupcode: "110"
+notes:
+  - text: This group includes standards for general use

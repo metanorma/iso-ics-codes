@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "03.200",
+  "description": "Leisure. Tourism",
+  "descriptionFull": "Services. Company Organization. Management and Quality. Administration. Transport. Socliology. Leisure. Tourism.\n",
+  "edition": 6,
+  "fieldcode": "03",
+  "groupcode": "200",
+  "notes": [
+    {
+      "ics-code": "97.200.30",
+      "text": "Camping equipment, see {ics-code}"
+    }
+  ]
+}

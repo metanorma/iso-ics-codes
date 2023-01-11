@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "47.020.10",
+  "description": "Hulls and their structure elements",
+  "edition": 6,
+  "fieldcode": "47",
+  "groupcode": "020",
+  "subgroupcode": "10"
+}

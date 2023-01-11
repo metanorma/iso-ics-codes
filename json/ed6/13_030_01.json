@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "13.030.01",
+  "description": "Wastes in general",
+  "edition": 6,
+  "fieldcode": "13",
+  "groupcode": "030",
+  "subgroupcode": "01"
+}

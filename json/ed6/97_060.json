@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "97.060",
+  "description": "Laundry appliances",
+  "descriptionFull": "Domestic and Commercial Equipment. Entertainment. Sports. Laundry appliances.\n",
+  "edition": 6,
+  "fieldcode": "97",
+  "groupcode": "060",
+  "notes": [
+    {
+      "text": "Including washing-machines, dry-cleaners, driers, ironing and pressing appliances, etc."
+    }
+  ]
+}

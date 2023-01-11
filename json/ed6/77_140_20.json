@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "77.140.20",
+  "description": "Stainless steels",
+  "descriptionFull": "Metallurgy. Stainless steels.\n",
+  "edition": 6,
+  "fieldcode": "77",
+  "groupcode": "140",
+  "notes": [
+    {
+      "text": "including alloyed steels, corrosion-resistant steels, heat-resisting steels, etc."
+    }
+  ],
+  "subgroupcode": "20"
+}

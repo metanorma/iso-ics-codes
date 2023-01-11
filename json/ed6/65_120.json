@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "65.120",
+  "description": "Animal feeding stuffs",
+  "descriptionFull": "Agriculture. Animal feeding stuffs.\n",
+  "edition": 6,
+  "fieldcode": "65",
+  "groupcode": "120",
+  "notes": [
+    {
+      "ics-code": "07.100.30",
+      "text": "Microbiology of animal feeding stuffs, see {ics-code}"
+    }
+  ]
+}

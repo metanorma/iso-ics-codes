@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "93.110"
+description: Construction of ropeway
+descriptionFull: |
+  Civil Engineering. Construction of ropeway.
+edition: 6
+fieldcode: "93"
+groupcode: "110"
+notes:
+  - ics-code: "45.100"
+    text: Ropeway equipment, see {ics-code}
+  - ics-code: "45.120"
+    text: Equipment for ropeway construction and maintenance, see {ics-code}

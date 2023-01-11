@@ -1,0 +1,16 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "27.020"
+description: Internal combustion engines
+descriptionFull: |
+  Energy and Heat Transfer Engineering. Internal combustion engines.
+edition: 6
+fieldcode: "27"
+groupcode: "020"
+notes:
+  - text: This group includes standards for general use
+  - ics-code: 29.160.40
+    text: lnternal combustion engines for current generating sets, see {ics-code}
+  - ics-code: "43.060"
+    text: Internal combustion engines for road vehicles, see {ics-code}
+  - ics-code: 47.020.20
+    text: Marine engines, see {ics-code}

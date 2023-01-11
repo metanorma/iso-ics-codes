@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "25.220.99",
+  "description": "Other treatments and coatings",
+  "edition": 6,
+  "fieldcode": "25",
+  "groupcode": "220",
+  "subgroupcode": "99"
+}

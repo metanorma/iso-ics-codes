@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "19.040",
+  "description": "Environmental testing",
+  "descriptionFull": "Testing. Environmental testing\n",
+  "edition": 6,
+  "fieldcode": "19",
+  "groupcode": "040",
+  "notes": [
+    {
+      "text": "Including testing equipment"
+    }
+  ]
+}

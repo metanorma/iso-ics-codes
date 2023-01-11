@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 71.100.35
+description: Chemicals for industrial and domestic disinfection purposes
+descriptionFull: |
+  Chemical Technology. Chemicals for industrial and domestic disinfection purposes.
+edition: 6
+fieldcode: "71"
+groupcode: "100"
+notes:
+  - ics-code: 11.080.20
+    text: Medical disinfectants and antiseptics, see {ics-code}
+subgroupcode: "35"

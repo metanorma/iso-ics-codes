@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 91.140.10
+description: Central heating systems
+descriptionFull: |
+  Construction Materials and Building. Central heating systems.
+edition: 6
+fieldcode: "91"
+groupcode: "140"
+notes:
+  - text: Including burners and boilers for central heating systems
+  - ics-code: "97.100"
+    text: Heating appliances, see {ics-code}
+subgroupcode: "10"

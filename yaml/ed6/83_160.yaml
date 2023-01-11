@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "83.160"
+description: Tyres
+descriptionFull: |
+  Rubber and Plastic Industries. Tyres.
+edition: 6
+fieldcode: "83"
+groupcode: "160"
+notes:
+  - text: Including tubes and valves

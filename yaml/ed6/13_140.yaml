@@ -1,0 +1,14 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "13.140"
+description: Noise with respect to human beings
+descriptionFull: |
+  Environment. Health Protection. Safety. Noise with respect to human beings.
+edition: 6
+fieldcode: "13"
+groupcode: "140"
+notes:
+  - text: Including audiometry
+  - ics-code: 13.340.20
+    text: Hearing protectors, see {ics-code}
+  - ics-code: "17.140"
+    text: Acoustics and acoustic measurements, see {ics-code}

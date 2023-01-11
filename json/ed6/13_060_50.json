@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "13.060.50",
+  "description": "Examination of water for chemical substances",
+  "edition": 6,
+  "fieldcode": "13",
+  "groupcode": "060",
+  "subgroupcode": "50"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "59.060.99",
+  "description": "Other textile fibres",
+  "edition": 6,
+  "fieldcode": "59",
+  "groupcode": "060",
+  "subgroupcode": "99"
+}

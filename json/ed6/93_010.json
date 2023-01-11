@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "93.010",
+  "description": "Civil engineering in general",
+  "descriptionFull": "Civil Engineering. Civil engineering in general.\n",
+  "edition": 6,
+  "fieldcode": "93",
+  "groupcode": "010",
+  "notes": [
+    {
+      "ics-code": "01.100.30",
+      "text": "Construction drawings, see {ics-code}"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "81.060.20",
+  "description": "Ceramic products",
+  "descriptionFull": "Glass and Ceramics Industries. Ceramic products.\n",
+  "edition": 6,
+  "fieldcode": "81",
+  "groupcode": "060",
+  "notes": [
+    {
+      "ics-code": "91.100.23",
+      "text": "Ceramic tiles, see {ics-code}"
+    },
+    {
+      "ics-code": "91.100.25",
+      "text": "Ceramic building products, see {ics-code}"
+    },
+    {
+      "ics-code": "91.140.70",
+      "text": "Sanitary ceramic products, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "20"
+}

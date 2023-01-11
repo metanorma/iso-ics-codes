@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "25.100"
+description: Cutting tools
+descriptionFull: |
+  Manufacturing Engineering. Cutting tools.
+edition: 6
+fieldcode: "25"
+groupcode: "100"
+notes:
+  - text: Including industrial diamonds
+  - ics-code: 79.120.20
+    text: Woodworking tools, see {ics-code}

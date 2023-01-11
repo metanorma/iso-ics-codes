@@ -1,0 +1,23 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "07.100.30",
+  "description": "Food microbiology",
+  "descriptionFull": "Mathematics. Natural Sciences. Food microbiology.\n",
+  "edition": 6,
+  "fieldcode": "07",
+  "groupcode": "100",
+  "notes": [
+    {
+      "text": "Including microbiology of animal feeding stuffs"
+    },
+    {
+      "ics-code": "65.120",
+      "text": "Animal feeding stuffs, see {ics-code}"
+    },
+    {
+      "ics-code": "67.050",
+      "text": "General methods of tests and analysis for food products, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "30"
+}

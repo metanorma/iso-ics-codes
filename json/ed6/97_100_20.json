@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "97.100.20",
+  "description": "Gas heaters",
+  "edition": 6,
+  "fieldcode": "97",
+  "groupcode": "100",
+  "subgroupcode": "20"
+}

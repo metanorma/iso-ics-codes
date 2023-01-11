@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "75.140"
+description: Waxes, bituminous materials and other petroleum products
+descriptionFull: |
+  Petroleum and Related Technologies. Waxes, bituminous materials and other petroleum products.
+edition: 6
+fieldcode: "75"
+groupcode: "140"
+notes:
+  - ics-code: 91.100.50
+    text: Asphalts for building, see {ics-code}
+  - ics-code: 93.080.20
+    text: Asphalts for road construction, see {ics-code}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "29.140.99",
+  "description": "Other standards related to lamps",
+  "edition": 6,
+  "fieldcode": "29",
+  "groupcode": "140",
+  "subgroupcode": "99"
+}

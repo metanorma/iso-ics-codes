@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "81.040.10",
+  "description": "Raw materials and raw glass",
+  "edition": 6,
+  "fieldcode": "81",
+  "groupcode": "040",
+  "subgroupcode": "10"
+}

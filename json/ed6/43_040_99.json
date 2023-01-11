@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "43.040.99",
+  "description": "Other road vehicle systems",
+  "edition": 6,
+  "fieldcode": "43",
+  "groupcode": "040",
+  "subgroupcode": "99"
+}

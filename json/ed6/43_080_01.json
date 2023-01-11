@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "43.080.01",
+  "description": "Commercial vehicles in general",
+  "edition": 6,
+  "fieldcode": "43",
+  "groupcode": "080",
+  "subgroupcode": "01"
+}

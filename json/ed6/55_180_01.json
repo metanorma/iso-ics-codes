@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "55.180.01",
+  "description": "Freight distribution of goods in general",
+  "edition": 6,
+  "fieldcode": "55",
+  "groupcode": "180",
+  "subgroupcode": "01"
+}

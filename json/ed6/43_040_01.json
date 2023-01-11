@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "43.040.01",
+  "description": "Road vehicle systems in general",
+  "edition": 6,
+  "fieldcode": "43",
+  "groupcode": "040",
+  "subgroupcode": "01"
+}

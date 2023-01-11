@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "43.040.40",
+  "description": "Braking systems",
+  "edition": 6,
+  "fieldcode": "43",
+  "groupcode": "040",
+  "subgroupcode": "40"
+}

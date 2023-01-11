@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 35.240.60
+description: IT applications in transport and trade
+descriptionFull: |
+  Information Technology. Office Machines. IT applications in transport and trade.
+edition: 6
+fieldcode: "35"
+groupcode: "240"
+notes:
+  - text: Including EDIFACTand e-commerce
+subgroupcode: "60"

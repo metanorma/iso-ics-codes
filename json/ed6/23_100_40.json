@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "23.100.40",
+  "description": "Piping and couplings",
+  "edition": 6,
+  "fieldcode": "23",
+  "groupcode": "100",
+  "subgroupcode": "40"
+}

@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "97.195"
+description: Items of art and handicrafts
+descriptionFull: |
+  Domestic and Commercial Equipment. Entertainment. Sports. Items of art and handicrafts.
+edition: 6
+fieldcode: "97"
+groupcode: "195"
+notes:
+  - text: Including equipment and materials for creating items of art and handicrafts

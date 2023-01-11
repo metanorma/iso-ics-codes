@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "31.240",
+  "description": "Mechanical structures for electronic equipment",
+  "edition": 6,
+  "fieldcode": "31",
+  "groupcode": "240"
+}

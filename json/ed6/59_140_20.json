@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "59.140.20",
+  "description": "Raw skins, hides and pelts",
+  "edition": 6,
+  "fieldcode": "59",
+  "groupcode": "140",
+  "subgroupcode": "20"
+}

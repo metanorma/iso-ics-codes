@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "91.080.40",
+  "description": "Concrete structures",
+  "descriptionFull": "Construction Materials and Building. Concrete structures.\n",
+  "edition": 6,
+  "fieldcode": "91",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including the repair and protection of concrete products and structures\""
+    }
+  ],
+  "subgroupcode": "40"
+}

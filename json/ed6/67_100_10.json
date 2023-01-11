@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "67.100.10",
+  "description": "Milk and processed milk products",
+  "descriptionFull": "Food Technology. Milk and processed milk products.\n",
+  "edition": 6,
+  "fieldcode": "67",
+  "groupcode": "100",
+  "notes": [
+    {
+      "text": "Including dried milk, condensed milk and evaporated milk"
+    }
+  ],
+  "subgroupcode": "10"
+}

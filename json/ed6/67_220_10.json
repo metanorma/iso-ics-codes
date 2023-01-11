@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "67.220.10",
+  "description": "Spices and condiments",
+  "edition": 6,
+  "fieldcode": "67",
+  "groupcode": "220",
+  "subgroupcode": "10"
+}

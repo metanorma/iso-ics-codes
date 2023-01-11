@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "01.060"
+description: Quantities and units.
+descriptionFull: |
+  Generalities. Terminology. Standardization. Documentation. Quantities and units.
+edition: 6
+fieldcode: "01"
+groupcode: "060"
+notes:
+  - text: Standards included in this group shall also be included in other groups and/or sub -groups according to their subject

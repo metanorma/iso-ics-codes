@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "11.120",
+  "description": "Pharmaceutics",
+  "edition": 6,
+  "fieldcode": "11",
+  "groupcode": "120"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "97.220",
+  "description": "Sports equipment and facilities",
+  "descriptionFull": "Domestic and Commercial Equipment. Entertainment. Sports. Sports equipment and facilities.\n",
+  "edition": 6,
+  "fieldcode": "97",
+  "groupcode": "220",
+  "notes": [
+    {
+      "ics-code": "43.140",
+      "text": "Motorcycles, see {ics-code}"
+    },
+    {
+      "ics-code": "43.150",
+      "text": "Cycles, see {ics-code}"
+    }
+  ]
+}

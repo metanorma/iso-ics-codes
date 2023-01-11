@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "01.100"
+description: Technical drawings
+descriptionFull: |
+  Generalities. Terminology. Standardization. Documentation. Technical drawings.
+edition: 6
+fieldcode: "01"
+groupcode: "100"
+notes:
+  - ics-code: 01.080.30
+    text: Graphical symbols for use on technical drawings, see {ics-code}
+  - ics-code: 35.240.10
+    text: Computer-aided design, see {ics-code}

@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "91.010.30",
+  "description": "Technical aspects",
+  "descriptionFull": "Construction Materials and Building. Technical aspects.\n",
+  "edition": 6,
+  "fieldcode": "91",
+  "groupcode": "010",
+  "notes": [
+    {
+      "text": "Including tolerances, modular coordination, etc."
+    },
+    {
+      "ics-code": "01.100.30",
+      "text": "Construction drawings, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "30"
+}

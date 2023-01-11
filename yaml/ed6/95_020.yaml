@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "95.020"
+description: Military engineering. Military affairs. Weapons
+descriptionFull: |
+  Military Engineering. Military engineering. Military affairs. Weapons
+edition: 6
+fieldcode: "95"
+groupcode: "020"
+notes:
+  - ics-code: "61.020"
+    text: Military clothing, see {ics-code}

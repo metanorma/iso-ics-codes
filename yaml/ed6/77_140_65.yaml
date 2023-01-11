@@ -1,0 +1,14 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 77.140.65
+description: Steel wire, wire ropes and link chains
+descriptionFull: |
+  Metallurgy. Steel wire, wire ropes and link chains.
+edition: 6
+fieldcode: "77"
+groupcode: "140"
+notes:
+  - ics-code: 53.020.30
+    text: Lifting link chains and wire ropes, see {ics-code}
+  - ics-code: 77.140.25
+    text: Steel wire for springs, see {ics-code}
+subgroupcode: "65"

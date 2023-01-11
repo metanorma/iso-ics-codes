@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "25.160.10",
+  "description": "Welding processes",
+  "descriptionFull": "Manufacturing Engineering. Welding processes.\n",
+  "edition": 6,
+  "fieldcode": "25",
+  "groupcode": "160",
+  "notes": [
+    {
+      "text": "Including thermal cutting and cladding"
+    }
+  ],
+  "subgroupcode": "10"
+}

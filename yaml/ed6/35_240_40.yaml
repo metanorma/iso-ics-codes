@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 35.240.40
+description: IT applications in banking
+descriptionFull: |
+  Information Technology. Office Machines. IT applications in banking.
+edition: 6
+fieldcode: "35"
+groupcode: "240"
+notes:
+  - text: Including automatic banking facilities
+  - ics-code: 35.240.15
+    text: ldentification cards for banking purposes, see {ics-code}
+subgroupcode: "40"

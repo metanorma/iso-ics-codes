@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "31.180",
+  "description": "Printed circuits and boards",
+  "edition": 6,
+  "fieldcode": "31",
+  "groupcode": "180"
+}

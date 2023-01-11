@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "91.060.40",
+  "description": "Chimneys, shafts, ducts",
+  "descriptionFull": "Construction Materials and Building. Chimneys, shafts, ducts.\n",
+  "edition": 6,
+  "fieldcode": "91",
+  "groupcode": "060",
+  "notes": [
+    {
+      "text": "lncludlng flues and flue pipes"
+    }
+  ],
+  "subgroupcode": "40"
+}

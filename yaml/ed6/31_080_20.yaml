@@ -1,0 +1,7 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 31.080.20
+description: Thyristors
+edition: 6
+fieldcode: "31"
+groupcode: "080"
+subgroupcode: "20"

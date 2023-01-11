@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "27.060",
+  "description": "Burners. Boilers",
+  "edition": 6,
+  "fieldcode": "27",
+  "groupcode": "060"
+}

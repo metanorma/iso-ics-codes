@@ -1,0 +1,10 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "25.220.50",
+  "description": "Enamels",
+  "descriptionFull": "Enamels",
+  "edition": 6,
+  "fieldcode": "25",
+  "groupcode": "220",
+  "subgroupcode": "50"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://isoics.org/ics/ns/field.jsonld",
+  "code": "19",
+  "description": "Testing",
+  "descriptionFull": "Testing.",
+  "edition": 6,
+  "fieldcode": "19",
+  "notes": [
+    {
+      "text": "This group includes standards for general use"
+    },
+    {
+      "ics-code": "71.040",
+      "text": "Analytical chemistry, see {ics-code}"
+    }
+  ]
+}

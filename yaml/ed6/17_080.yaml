@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "17.080"
+description: Measurement of time, velocity, acceleration, angular velocity
+descriptionFull: |
+  Metrology and Measurement. Physical Phenomena. Measurement of time, velocity, acceleration, angular velocity.
+edition: 6
+fieldcode: "17"
+groupcode: "080"
+notes:
+  - text: Including measuring instruments
+  - ics-code: "39.040"
+    text: Time-measuring instruments, see {ics-code}

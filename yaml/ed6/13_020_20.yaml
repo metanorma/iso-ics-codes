@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 13.020.20
+description: Environmental economics
+descriptionFull: |
+  Environment. Health Protection. Safety. Environmental economics.
+edition: 6
+fieldcode: "13"
+groupcode: "020"
+notes:
+  - text: Including sustainable development
+subgroupcode: "20"

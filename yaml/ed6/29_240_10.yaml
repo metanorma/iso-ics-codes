@@ -1,0 +1,7 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 29.240.10
+description: Substations. Surge arresters
+edition: 6
+fieldcode: "29"
+groupcode: "240"
+subgroupcode: "10"

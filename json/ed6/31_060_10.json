@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "31.060.10",
+  "description": "Fixed capacitors",
+  "edition": 6,
+  "fieldcode": "31",
+  "groupcode": "060",
+  "subgroupcode": "10"
+}

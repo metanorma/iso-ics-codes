@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "31.060.20",
+  "description": "Ceramic and mica capacitors",
+  "edition": 6,
+  "fieldcode": "31",
+  "groupcode": "060",
+  "subgroupcode": "20"
+}

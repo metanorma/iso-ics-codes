@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 77.140.70
+description: Steel profiles
+descriptionFull: |
+  Metallurgy. Steel profiles.
+edition: 6
+fieldcode: "77"
+groupcode: "140"
+notes:
+  - text: Including sections
+subgroupcode: "70"

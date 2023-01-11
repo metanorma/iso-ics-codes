@@ -1,0 +1,14 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "07.030"
+description: Physics. Chemistry
+descriptionFull: |
+  Mathematics. Natural Sciences. Physics. Chemistry.
+edition: 6
+fieldcode: "07"
+groupcode: "030"
+notes:
+  - text: This group includes standards in the field of physics and chemistry as natural sciences
+  - ics-code: "17"
+    text: Applied physics, see {ics-code}
+  - ics-code: "71"
+    text: Chemical technology, see {ics-code}

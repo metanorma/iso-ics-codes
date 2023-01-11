@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 13.030.30
+description: Special wastes
+descriptionFull: |
+  Environment. Health Protection. Safety. Special wastes.
+edition: 6
+fieldcode: "13"
+groupcode: "030"
+notes:
+  - text: Including radioactive wastes, hospital wastes, carcasses, and other hazardous wastes
+subgroupcode: "30"

@@ -1,0 +1,7 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 73.100.01
+description: Mining equipment in general
+edition: 6
+fieldcode: "73"
+groupcode: "100"
+subgroupcode: "01"

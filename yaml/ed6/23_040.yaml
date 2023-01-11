@@ -1,0 +1,6 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "23.040"
+description: Pipeline components and pipelines
+edition: 6
+fieldcode: "23"
+groupcode: "040"

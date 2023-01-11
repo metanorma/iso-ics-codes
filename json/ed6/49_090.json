@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "49.090",
+  "description": "On-board equipment and instruments",
+  "descriptionFull": "Shipbuilding and Marine Structures. On-board equipment and instruments.\n",
+  "edition": 6,
+  "fieldcode": "49",
+  "groupcode": "090",
+  "notes": [
+    {
+      "text": "Including navigation instruments and telecommunications equipment"
+    }
+  ]
+}

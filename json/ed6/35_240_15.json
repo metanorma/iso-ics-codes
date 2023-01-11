@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "35.240.15",
+  "description": "Identification cards and related devices",
+  "descriptionFull": "Information Technology. Office Machines. Identification cards and related devices.\n",
+  "edition": 6,
+  "fieldcode": "35",
+  "groupcode": "240",
+  "notes": [
+    {
+      "text": "including application of cards for banking, trade, telecommunications, transport, etc."
+    }
+  ],
+  "subgroupcode": "15"
+}

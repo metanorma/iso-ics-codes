@@ -1,0 +1,7 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 17.200.99
+description: Other standards related to thermodynamics
+edition: 6
+fieldcode: "17"
+groupcode: "200"
+subgroupcode: "99"

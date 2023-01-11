@@ -1,0 +1,6 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "07.060"
+description: Geology. Meteorology. Hydrology
+edition: 6
+fieldcode: "07"
+groupcode: "060"

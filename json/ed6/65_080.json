@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "65.080",
+  "description": "Fertilizers",
+  "descriptionFull": "Agriculture. Fertilizers.\n",
+  "edition": 6,
+  "fieldcode": "65",
+  "groupcode": "080",
+  "notes": [
+    {
+      "text": "Including soil conditioners and culture medium"
+    }
+  ]
+}

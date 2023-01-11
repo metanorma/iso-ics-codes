@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "25.180.20",
+  "description": "Fuel furnaces",
+  "edition": 6,
+  "fieldcode": "25",
+  "groupcode": "180",
+  "subgroupcode": "20"
+}

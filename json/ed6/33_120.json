@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "33.120",
+  "description": "Components and accessories for telecommunications equipment",
+  "descriptionFull": "Telecommunications. Audio and Video Engineering. Components and accessories for telecommunications equipment.\n",
+  "edition": 6,
+  "fieldcode": "33",
+  "groupcode": "120",
+  "notes": [
+    {
+      "ics-code": "31.220.10",
+      "text": "Plug-and-socket devices, connectors, see {ics-code}"
+    },
+    {
+      "ics-code": "31.220.20",
+      "text": "Switches, see {ics-code}"
+    }
+  ]
+}

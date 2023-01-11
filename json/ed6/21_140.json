@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "21.140",
+  "description": "Seals, glands",
+  "descriptionFull": "Mechanical Systems and Components for General Use. Seals, glands.\n",
+  "edition": 6,
+  "fieldcode": "21",
+  "groupcode": "140",
+  "notes": [
+    {
+      "ics-code": "23.040.80",
+      "text": "Seals for pipe and hose assemblies, see {ics-code}"
+    }
+  ]
+}

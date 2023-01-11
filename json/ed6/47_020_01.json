@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "47.020.01",
+  "description": "General standards related to shipbuilding and marine structures",
+  "edition": 6,
+  "fieldcode": "47",
+  "groupcode": "020",
+  "subgroupcode": "01"
+}

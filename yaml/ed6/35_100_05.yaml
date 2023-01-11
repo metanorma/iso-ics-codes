@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 35.100.05
+description: Multilayer applications
+descriptionFull: |
+  Information Technology. Office Machines. Multilayer applications.
+edition: 6
+fieldcode: "35"
+groupcode: "100"
+notes:
+  - text: Including International Standardized Profiles
+subgroupcode: "05"

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "59.140.40",
+  "description": "Machines and equipment for leather and fur production",
+  "edition": 6,
+  "fieldcode": "59",
+  "groupcode": "140",
+  "subgroupcode": "40"
+}

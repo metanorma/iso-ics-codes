@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "43.150",
+  "description": "Cycles",
+  "descriptionFull": "Road Vehicles Engineering. Cycles.\n",
+  "edition": 6,
+  "fieldcode": "43",
+  "groupcode": "150",
+  "notes": [
+    {
+      "text": "Including their components and systems"
+    },
+    {
+      "ics-code": "83.160.10",
+      "text": "Tyres for road vehicles, see {ics-code}"
+    }
+  ]
+}

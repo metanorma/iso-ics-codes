@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "23.060.10",
+  "description": "Globe valves",
+  "edition": 6,
+  "fieldcode": "23",
+  "groupcode": "060",
+  "subgroupcode": "10"
+}

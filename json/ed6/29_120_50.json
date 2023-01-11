@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "29.120.50",
+  "description": "Fuses and other overcurrent protection devices",
+  "edition": 6,
+  "fieldcode": "29",
+  "groupcode": "120",
+  "subgroupcode": "50"
+}

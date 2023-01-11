@@ -1,0 +1,13 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 13.340.60
+description: Protection against falling and slipping
+descriptionFull: |
+  Environment. Health Protection. Safety. Protection against falling and slipping.
+edition: 6
+fieldcode: "13"
+groupcode: "340"
+notes:
+  - text: Including safety ropes, harnesses and fall arrestors
+  - ics-code: 97.220.40
+    text: Mountaineering equipment, see {ics-code}
+subgroupcode: "60"

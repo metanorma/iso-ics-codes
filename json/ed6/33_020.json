@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "33.020",
+  "description": "Telecommunications in general",
+  "descriptionFull": "Telecommunications. Audio and Video Engineering. Telecommunications in general.\n",
+  "edition": 6,
+  "fieldcode": "33",
+  "groupcode": "020",
+  "notes": [
+    {
+      "text": "Including infrastructure"
+    }
+  ]
+}

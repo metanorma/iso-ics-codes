@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "33.160.25",
+  "description": "Television receivers",
+  "edition": 6,
+  "fieldcode": "33",
+  "groupcode": "160",
+  "subgroupcode": "25"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "13.200",
+  "description": "Accident and disaster control",
+  "descriptionFull": "Environment. Health Protection. Safety. Accident and disaster control.\n",
+  "edition": 6,
+  "fieldcode": "13",
+  "groupcode": "200",
+  "notes": [
+    {
+      "text": "Including emergency evacuations and emergency control systems"
+    },
+    {
+      "ics-code": "91.120.25",
+      "text": "Seismic and vibration protection of buildings, see {ics-code}"
+    }
+  ]
+}

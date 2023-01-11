@@ -1,0 +1,16 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "97.130.10",
+  "description": "Shelving",
+  "descriptionFull": "Domestic and Commercial Equipment. Entertainment. Sports. Shelving.\n",
+  "edition": 6,
+  "fieldcode": "97",
+  "groupcode": "130",
+  "notes": [
+    {
+      "ics-code": "53.080",
+      "text": "Shelves for storage purposes, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "10"
+}

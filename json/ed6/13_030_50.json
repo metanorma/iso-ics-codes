@@ -1,0 +1,19 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "13.030.50",
+  "description": "Recycling",
+  "descriptionFull": "Environment. Health Protection. Safety. Recycling.\n",
+  "edition": 6,
+  "fieldcode": "13",
+  "groupcode": "030",
+  "notes": [
+    {
+      "text": "Including relevant equipment"
+    },
+    {
+      "ics-code": "43.020",
+      "text": "motor vehicle recycling, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "50"
+}

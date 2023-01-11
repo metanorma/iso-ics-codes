@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "97.130",
+  "description": "Shop fittings",
+  "edition": 6,
+  "fieldcode": "97",
+  "groupcode": "130"
+}

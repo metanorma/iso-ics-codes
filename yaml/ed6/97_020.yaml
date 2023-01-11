@@ -1,0 +1,22 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "97.020"
+description: Home economics in general
+descriptionFull: |
+  Domestic and Commercial Equipment. Entertainment. Sports. Home economics in general.
+edition: 6
+fieldcode: "97"
+groupcode: "020"
+notes:
+  - text: Including consumer information
+  - ics-code: 03.080.30
+    text: Washing, cleaning and removal services, see {ics-code}
+  - ics-code: "23.120"
+    text: Ventilators, air-conditioners, see {ics-code}
+  - ics-code: 25.140.20
+    text: Hand-held electric tools, see {ics-code}
+  - ics-code: "33.160"
+    text: household electronic appliances, see {ics-code}
+  - ics-code: "39.040"
+    text: Clocks and watches, see {ics-code}
+  - ics-code: "61.080"
+    text: household sewing machines, see {ics-code}

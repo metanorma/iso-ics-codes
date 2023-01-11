@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "01.080.10",
+  "description": "Public information symbols",
+  "edition": 6,
+  "fieldcode": "01",
+  "groupcode": "080",
+  "subgroupcode": "10"
+}

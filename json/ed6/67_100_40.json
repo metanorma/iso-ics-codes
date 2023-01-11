@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "67.100.40",
+  "description": "Ice cream and ice confectionery",
+  "descriptionFull": "Food Technology. Ice cream and ice confectionery\n",
+  "edition": 6,
+  "fieldcode": "67",
+  "groupcode": "100",
+  "notes": [
+    {
+      "text": "Including sorbets"
+    }
+  ],
+  "subgroupcode": "40"
+}

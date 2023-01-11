@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 93.080.20
+description: Road construction materials
+descriptionFull: |
+  Civil Engineering. Road construction materials.
+edition: 6
+fieldcode: "93"
+groupcode: "080"
+notes:
+  - text: Including asphalts, road pavements, etc.
+subgroupcode: "20"

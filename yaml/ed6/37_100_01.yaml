@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 37.100.01
+description: Graphic technology in general
+descriptionFull: |
+  Image Technology. Graphic technology in general.
+edition: 6
+fieldcode: "37"
+groupcode: "100"
+notes:
+  - text: Including proof corrections
+subgroupcode: "01"

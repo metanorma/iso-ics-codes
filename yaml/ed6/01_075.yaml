@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "01.075"
+description: Character symbols.
+descriptionFull: |
+  Generalities. Terminology. Standardization. Documentation. Character symbols.
+edition: 6
+fieldcode: "01"
+groupcode: "075"
+notes:
+  - text: Standards included in this group shall also be included in other groups and/or sub -groups according to their subject

@@ -1,0 +1,23 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "97.200",
+  "description": "Equipment for entertainment",
+  "descriptionFull": "Domestic and Commercial Equipment. Entertainment. Sports. Equipment for entertainment.\n",
+  "edition": 6,
+  "fieldcode": "97",
+  "groupcode": "200",
+  "notes": [
+    {
+      "ics-code": "33.160",
+      "text": "Audio and video systems, see {ics-code}"
+    },
+    {
+      "ics-code": "37.040",
+      "text": "Photography, see {ics-code}"
+    },
+    {
+      "ics-code": "37.060",
+      "text": "Cinematography, see {ics-code}"
+    }
+  ]
+}

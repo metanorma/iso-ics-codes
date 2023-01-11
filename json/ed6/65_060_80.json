@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "65.060.80",
+  "description": "Forestry equipment",
+  "descriptionFull": "Agriculture. Forestry equipment.\n",
+  "edition": 6,
+  "fieldcode": "65",
+  "groupcode": "060",
+  "notes": [
+    {
+      "text": "Including chain- and brush-saws"
+    }
+  ],
+  "subgroupcode": "80"
+}

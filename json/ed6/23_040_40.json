@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "23.040.40",
+  "description": "Metal fittings",
+  "edition": 6,
+  "fieldcode": "23",
+  "groupcode": "040",
+  "subgroupcode": "40"
+}

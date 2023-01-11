@@ -1,0 +1,27 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "71.100",
+  "description": "Products of the chemical industry",
+  "descriptionFull": "Chemical Technology. Products of the chemical industry.\n",
+  "edition": 6,
+  "fieldcode": "71",
+  "groupcode": "100",
+  "notes": [
+    {
+      "ics-code": "37.040.30",
+      "text": "Photographic chemicals, see {ics-code}"
+    },
+    {
+      "ics-code": "83.040",
+      "text": "Raw materials for rubber and plastics, see {ics-code}"
+    },
+    {
+      "ics-code": "87.040",
+      "text": "Paints and varnishes, see {ics-code}"
+    },
+    {
+      "ics-code": "87.080",
+      "text": "inks, see {ics-code}"
+    }
+  ]
+}

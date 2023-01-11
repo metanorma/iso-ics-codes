@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "77.080.01",
+  "description": "Ferrous metals in general",
+  "edition": 6,
+  "fieldcode": "77",
+  "groupcode": "080",
+  "subgroupcode": "01"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "25.080.10",
+  "description": "Lathes",
+  "edition": 6,
+  "fieldcode": "25",
+  "groupcode": "080",
+  "subgroupcode": "10"
+}

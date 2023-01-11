@@ -1,0 +1,6 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "31.140"
+description: Piezoelectric devices
+edition: 6
+fieldcode: "31"
+groupcode: "140"

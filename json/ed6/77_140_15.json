@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "77.140.15",
+  "description": "Steels for reinforcement of concrete",
+  "edition": 6,
+  "fieldcode": "77",
+  "groupcode": "140",
+  "subgroupcode": "15"
+}

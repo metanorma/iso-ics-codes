@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "11.060.01",
+  "description": "Dentistry in general",
+  "edition": 6,
+  "fieldcode": "11",
+  "groupcode": "060",
+  "subgroupcode": "01"
+}

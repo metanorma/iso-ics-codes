@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "35.220.30",
+  "description": "Optical storage devices",
+  "descriptionFull": "Information Technology. Office Machines. Optical storage devices\n",
+  "edition": 6,
+  "fieldcode": "35",
+  "groupcode": "220",
+  "notes": [
+    {
+      "text": "Including CD and magneto-optical devices (MO)"
+    }
+  ],
+  "subgroupcode": "30"
+}

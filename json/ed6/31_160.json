@@ -1,0 +1,8 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "31.160",
+  "description": "Electric filters",
+  "edition": 6,
+  "fieldcode": "31",
+  "groupcode": "160"
+}

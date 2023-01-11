@@ -1,0 +1,24 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "13.060.20",
+  "description": "Drinking water",
+  "descriptionFull": "Environment. Health Protection. Safety. Drinking water.\n",
+  "edition": 6,
+  "fieldcode": "13",
+  "groupcode": "060",
+  "notes": [
+    {
+      "ics-code": "67.160.20",
+      "text": "Minerai water, see {ics-code}"
+    },
+    {
+      "ics-code": "71.100.80",
+      "text": "Chemicals for purification of water, see {ics-code}"
+    },
+    {
+      "ics-code": "91.140.60",
+      "text": "Drinking water supply systems, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "20"
+}

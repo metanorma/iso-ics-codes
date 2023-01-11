@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "23.160"
+description: Vacuum technology
+descriptionFull: |
+  Fluid Systems and Components for General. Vacuum technology
+edition: 6
+fieldcode: "23"
+groupcode: "160"
+notes:
+  - text: Including vacuum pumps

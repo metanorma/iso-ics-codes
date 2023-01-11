@@ -1,0 +1,12 @@
+{
+  "@context": "https://isoics.org/ics/ns/field.jsonld",
+  "code": "99",
+  "description": "(No title)",
+  "edition": 6,
+  "fieldcode": "99",
+  "notes": [
+    {
+      "text": "This field is reserved for internal miscellaneous purposes"
+    }
+  ]
+}

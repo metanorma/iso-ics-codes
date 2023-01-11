@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "71.040"
+description: Analytical chemistry
+descriptionFull: |
+  Chemical Technology. Analytical chemistry.
+edition: 6
+fieldcode: "71"
+groupcode: "040"
+notes:
+  - text: This group includes standards for general use

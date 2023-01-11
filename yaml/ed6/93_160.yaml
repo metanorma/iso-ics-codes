@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "93.160"
+description: Hydraulic construction
+descriptionFull: |
+  Civil Engineering. Hydraulic construction.
+edition: 6
+fieldcode: "93"
+groupcode: "160"
+notes:
+  - ics-code: "27.140"
+    text: Hydraulic energy equipment, see {ics-code}

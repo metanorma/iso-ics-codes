@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "17.140.50",
+  "description": "Electroacoustics",
+  "descriptionFull": "Metrology and Measurement. Physical Phenomena. Electroacoustics.\n",
+  "edition": 6,
+  "fieldcode": "17",
+  "groupcode": "140",
+  "notes": [
+    {
+      "text": "Including sound level meters"
+    }
+  ],
+  "subgroupcode": "50"
+}

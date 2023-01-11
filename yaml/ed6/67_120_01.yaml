@@ -1,0 +1,7 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 67.120.01
+description: Animal produce in general
+edition: 6
+fieldcode: "67"
+groupcode: "120"
+subgroupcode: "01"

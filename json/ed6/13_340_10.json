@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "13.340.10",
+  "description": "Protective clothing",
+  "descriptionFull": "Environment. Health Protection. Safety. Protective clothing.\n",
+  "edition": 6,
+  "fieldcode": "13",
+  "groupcode": "340",
+  "notes": [
+    {
+      "text": "Including flameproof clothing"
+    }
+  ],
+  "subgroupcode": "10"
+}

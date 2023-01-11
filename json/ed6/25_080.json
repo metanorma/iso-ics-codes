@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "25.080",
+  "description": "Machine tools",
+  "descriptionFull": "Manufacturing Engineering. Machine tools.\n",
+  "edition": 6,
+  "fieldcode": "25",
+  "groupcode": "080",
+  "notes": [
+    {
+      "ics-code": "79.120.10",
+      "text": "Woodworking machines, see {ics-code}"
+    }
+  ]
+}

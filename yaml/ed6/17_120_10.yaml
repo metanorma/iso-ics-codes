@@ -1,0 +1,14 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 17.120.10
+description: Flow in closed conduits
+descriptionFull: |
+  Metrology and Measurement. Physical Phenomena. Flow in closed conduits.
+edition: 6
+fieldcode: "17"
+groupcode: "120"
+notes:
+  - ics-code: 91.140.40
+    text: Gas meters in buildings, see {ics-code}
+  - ics-code: 91.140.60
+    text: Water meters in buildings, see {ics-code}
+subgroupcode: "10"

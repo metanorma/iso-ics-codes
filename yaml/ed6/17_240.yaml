@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "17.240"
+description: Radiation measurements
+descriptionFull: |
+  Metrology and Measurement. Physical Phenomena. Radiation measurements.
+edition: 6
+fieldcode: "17"
+groupcode: "240"
+notes:
+  - text: Including dosimetry
+  - ics-code: "13.280"
+    text: Radiation protection, see {ics-code}

@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "21.040.30",
+  "description": "Special screw threads",
+  "descriptionFull": "Mechanical Systems and Components for General Use. Special screw threads.\n",
+  "edition": 6,
+  "fieldcode": "21",
+  "groupcode": "040",
+  "notes": [
+    {
+      "text": "Including miniature screw threads, pipe threads, etc."
+    }
+  ],
+  "subgroupcode": "30"
+}

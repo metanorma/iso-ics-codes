@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "43.180"
+description: Diagnostic, maintenance and test equipment
+descriptionFull: |
+  Road Vehicles Engineering. Diagnostic, maintenance and test equipment.
+edition: 6
+fieldcode: "43"
+groupcode: "180"
+notes:
+  - text: Including repairing facilities
+  - ics-code: "75.200"
+    text: Petroi stations, see {ics-code}

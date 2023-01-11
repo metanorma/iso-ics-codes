@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "13.280"
+description: Radiation protection
+descriptionFull: |
+  Environment. Health Protection. Safety. Radiation protection.
+edition: 6
+fieldcode: "13"
+groupcode: "280"
+notes:
+  - text: Including protection against radio-frequency radiation
+  - ics-code: "17.240"
+    text: Radiation measurements, see {ics-code}

@@ -1,0 +1,12 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 83.140.50
+description: Seals
+descriptionFull: |
+  Rubber and Plastic Industries. Seals.
+edition: 6
+fieldcode: "83"
+groupcode: "140"
+notes:
+  - ics-codes: 21.140, 23.040.80
+    text: Seals for general use, see {ics-codes}
+subgroupcode: "50"

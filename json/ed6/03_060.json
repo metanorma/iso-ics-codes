@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "03.060",
+  "description": "Finances. Banking. Monetary systems. Insurance",
+  "descriptionFull": "Services. Company Organization. Management and Quality. Administration. Transport. Socliology. Finances. Banking. Monetary systems. Insurance.\n",
+  "edition": 6,
+  "fieldcode": "03",
+  "groupcode": "060",
+  "notes": [
+    {
+      "ics-code": "35.240.40",
+      "text": "Including personal financial planning information technology applications in banking, see {ics-code}"
+    }
+  ]
+}

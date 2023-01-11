@@ -1,0 +1,10 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "87.040"
+description: Paints and varnishes
+descriptionFull: |
+  Paint and Colour Industries. Paints and varnishes.
+edition: 6
+fieldcode: "87"
+groupcode: "040"
+notes:
+  - text: Including coating powders, paint coatings and protective paint systems

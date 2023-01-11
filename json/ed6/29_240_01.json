@@ -1,0 +1,16 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "29.240.01",
+  "description": "Power transmission and distribution networks in general",
+  "descriptionFull": "Electrical Engineering. Power transmission and distribution networks in general.\n",
+  "edition": 6,
+  "fieldcode": "29",
+  "groupcode": "240",
+  "notes": [
+    {
+      "ics-code": "33.040.60",
+      "text": "Powerline telecommunications, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "01"
+}

@@ -1,0 +1,14 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: "91.220"
+description: Construction equipment
+descriptionFull: |
+  Construction Materials and Building. Construction equipment.
+edition: 6
+fieldcode: "91"
+groupcode: "220"
+notes:
+  - text: Including scaffolding, mixers for concrete and mortar, etc.
+  - ics-code: "53.020"
+    text: Lifting equipment, see {ics-code}
+  - ics-code: "53.100"
+    text: Earth-moving machinery, see {ics-code}

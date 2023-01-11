@@ -1,0 +1,31 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "71.040.10",
+  "description": "Chemical laboratories. Laboratory equipment",
+  "descriptionFull": "Chemical Technology. Chemical laboratories. Laboratory equipment.\n",
+  "edition": 6,
+  "fieldcode": "71",
+  "groupcode": "040",
+  "notes": [
+    {
+      "text": "Including hydrometers, alcoholometers, etc."
+    },
+    {
+      "ics-code": "17.060",
+      "text": "Apparatus for measurement of volume, mass, density, viscosity, see {ics-code}"
+    },
+    {
+      "ics-code": "17.180.30",
+      "text": "Spectroscopes, see {ics-code}"
+    },
+    {
+      "ics-code": "17.200.20",
+      "text": "Temperature -measuring instruments, see {ics-code}"
+    },
+    {
+      "ics-code": "71.040.20",
+      "text": "laboratory ware, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "10"
+}

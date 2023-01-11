@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "29.180",
+  "description": "Transformers. Reactors",
+  "descriptionFull": "Electrical Engineering. Transformers. Reactors.\n",
+  "edition": 6,
+  "fieldcode": "29",
+  "groupcode": "180",
+  "notes": [
+    {
+      "ics-code": "17.220.20",
+      "text": "lnstrument transformers, see {ics-code}"
+    }
+  ]
+}

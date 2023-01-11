@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "29.100.10",
+  "description": "Magnetic components",
+  "edition": 6,
+  "fieldcode": "29",
+  "groupcode": "100",
+  "subgroupcode": "10"
+}

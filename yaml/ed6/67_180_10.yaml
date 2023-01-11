@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 67.180.10
+description: Sugar and sugar products
+descriptionFull: |
+  Food Technology. Sugar and sugar products.
+edition: 6
+fieldcode: "67"
+groupcode: "180"
+notes:
+  - text: Including molasses, sweets, sugar confectionary, honey, etc.
+subgroupcode: "10"

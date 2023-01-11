@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "67.140.20",
+  "description": "Coffee and coffee substitutes",
+  "edition": 6,
+  "fieldcode": "67",
+  "groupcode": "140",
+  "subgroupcode": "20"
+}

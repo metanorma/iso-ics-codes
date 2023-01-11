@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "03.100.10",
+  "description": "Purchasing. Procurement. Logistics",
+  "edition": 6,
+  "fieldcode": "03",
+  "groupcode": "100",
+  "subgroupcode": "10"
+}

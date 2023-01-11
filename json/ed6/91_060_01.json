@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "91.060.01",
+  "description": "Elements of buildings in general",
+  "edition": 6,
+  "fieldcode": "91",
+  "groupcode": "060",
+  "subgroupcode": "01"
+}

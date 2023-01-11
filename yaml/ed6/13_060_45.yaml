@@ -1,0 +1,11 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 13.060.45
+description: Examination of water in general
+descriptionFull: |
+  Environment. Health Protection. Safety. Examination of water in general.
+edition: 6
+fieldcode: "13"
+groupcode: "060"
+notes:
+  - text: Including sampling
+subgroupcode: "45"

@@ -1,0 +1,15 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "49.035",
+  "description": "Components for aerospace construction",
+  "descriptionFull": "Shipbuilding and Marine Structures. Components for aerospace construction.\n",
+  "edition": 6,
+  "fieldcode": "49",
+  "groupcode": "035",
+  "notes": [
+    {
+      "ics-code": "83.160.20",
+      "text": "Tyres for aircraft, see {ics-code}"
+    }
+  ]
+}

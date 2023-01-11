@@ -1,0 +1,7 @@
+'@context': https://isoics.org/ics/ns/group.jsonld
+code: 33.120.10
+description: Coaxial cables. Waveguides
+edition: 6
+fieldcode: "33"
+groupcode: "120"
+subgroupcode: "10"

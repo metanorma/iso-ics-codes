@@ -1,0 +1,16 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "13.060.70",
+  "description": "Examination of biological properties of water",
+  "descriptionFull": "Environment. Health Protection. Safety. Examination of biological properties of water.\n",
+  "edition": 6,
+  "fieldcode": "13",
+  "groupcode": "060",
+  "notes": [
+    {
+      "ics-code": "07.100.20",
+      "text": "Microbiology of water, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "70"
+}

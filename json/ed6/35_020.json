@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "35.020",
+  "description": "Information technology (IT) in general",
+  "descriptionFull": "Information Technology. Office Machines. Information technology (IT) in general.\n",
+  "edition": 6,
+  "fieldcode": "35",
+  "groupcode": "020",
+  "notes": [
+    {
+      "text": "Including general aspects of IT equipment"
+    }
+  ]
+}

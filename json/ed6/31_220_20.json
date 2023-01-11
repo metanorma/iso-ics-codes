@@ -1,0 +1,9 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "31.220.20",
+  "description": "Switches",
+  "edition": 6,
+  "fieldcode": "31",
+  "groupcode": "220",
+  "subgroupcode": "20"
+}

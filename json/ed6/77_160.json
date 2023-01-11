@@ -1,0 +1,14 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "77.160",
+  "description": "Powder metallurgy",
+  "descriptionFull": "Metallurgy. Powder metallurgy.\n",
+  "edition": 6,
+  "fieldcode": "77",
+  "groupcode": "160",
+  "notes": [
+    {
+      "text": "Including sintered metal materials and hardmetals"
+    }
+  ]
+}

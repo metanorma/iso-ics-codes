@@ -1,0 +1,16 @@
+{
+  "@context": "https://isoics.org/ics/ns/group.jsonld",
+  "code": "85.080.30",
+  "description": "Cardboard",
+  "descriptionFull": "Paper Technology. Cardboard.\n",
+  "edition": 6,
+  "fieldcode": "85",
+  "groupcode": "080",
+  "notes": [
+    {
+      "ics-code": "55.040",
+      "text": "Paper for packaging, see {ics-code}"
+    }
+  ],
+  "subgroupcode": "30"
+}
