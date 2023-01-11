@@ -10,6 +10,11 @@ json-all: $(ED7_JSON)
 # Generates yaml/*.norm.yaml which are normalized YAML files
 norm-all: $(ED7_YAML_NORM)
 
+diff: $(ED7_YAML)
+	@for f in $(ED7_YAML); do \
+	  diff $$f $${f/yaml/norm} > .tmpdiff; \
+	done; cat .tmpdiff
+
 yaml/%.yaml:
 
 norm/%.yaml: yaml/%.yaml
