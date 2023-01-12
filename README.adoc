@@ -231,20 +231,41 @@ JSON files.
 
 Some make targets are provided to assist the process.
 
-
-=== Ensure YAML files are normalized
+=== Normalize YAML files
 
 [source,sh]
 ----
-make norm-all
+make normalize
+----
+
+=== Check what YAML files are not normalized
+
+This target depends on `normalize.diff`.
+
+[source,sh]
+----
+make check-normalize
+----
+
+=== Detect what YAML files are not normalized
+
+[source,sh]
+----
+make normalize.diff
+cat normalize.diff
 ----
 
 === Generate JSON files from YAML
+
+YAML source files need to be normalized before generating the JSON equivalents.
 
 [source,sh]
 ----
 make json-all
 ----
+
+WARNING: Please run `make normalize` before `make json-all` to ensure YAML
+sources are normalized.
 
 
 == Data source
@@ -274,3 +295,4 @@ This code list is maintained by https://www.metanorma.org[Ribose Metanorma].
 The code here is available under the terms of the
 http://opensource.org/licenses/MIT[MIT License].
 
+The source data belongs to https://www.iso.org[ISO].
