@@ -5,7 +5,10 @@ ED7_YAML := $(wildcard yaml/**/*.yaml)
 # ED7_YAML_NORM := $(subst yaml/,norm/,$(ED7_YAML))
 ED7_JSON := $(subst yaml,json,$(ED7_YAML))
 
-.PHONY: json-all norm-all
+.PHONY: json-all release normalize
+
+# Generates all release deliverables
+release: ics-ed6-yaml.zip ics-ed6-json.zip ics-ed6.yaml ics-ed6.json ics-ed7-yaml.zip ics-ed7-json.zip ics-ed7.yaml ics-ed7.json
 
 # Generates all JSON output under json/ed{x}/*.json
 json-all: $(ED7_JSON)
@@ -31,6 +34,18 @@ normalize.diff: $(ED7_YAML)
 		diff -u $$f $(TEMP_DIR)/$$f >> $@; \
 	done; \
 	rm -rf $(TEMP_DIR)
+
+ics-%-yaml.zip: $(ED7_YAML)
+	zip -r $@ yaml/$*
+
+ics-%-json.zip: $(ED7_JSON)
+	zip -r $@ json/$*
+
+ics-%.yaml: $(ED7_YAML)
+	yq ea '[.]' yaml/$*/*.yaml > $@
+
+ics-%.json: $(ED7_YAML)
+	yq ea '[.]' -j yaml/$*/*.yaml > $@
 
 yaml/%.yaml:
 
