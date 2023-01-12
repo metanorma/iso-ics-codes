@@ -13,7 +13,7 @@ release: ics-ed6-yaml.zip ics-ed6-json.zip ics-ed6.yaml ics-ed6.json ics-ed7-yam
 # Generates all JSON output under json/ed{x}/*.json
 json-all: $(ED7_JSON)
 
-check-normalize: normalize.diff
+check-normalized: normalize.diff
 	@if [ "$(shell cat normalize.diff | wc -l | bc)" != "0" ]; then \
 		echo "WARNING: YAML files committed should be first normalized with 'make normalize'"; \
 		cat normalize.diff; \
